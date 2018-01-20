@@ -1,0 +1,3 @@
+05/06/2017 - 11:05:45 - aidahdinala - Payment Amount=136 |Stand = 231
+05/06/2017 - 11:05:26 - aidahdinala - Payment Amount=80 |Stand = 578
+05/06/2017 - 11:05:23 - aidahdinala - Edited Client Details VUYISWA NTULI  CLIENT TO STAND ID 479

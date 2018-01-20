@@ -1,0 +1,5 @@
+11/18/2017 - 13:11:45 - talentm - Payment Amount=120 |Stand = 106
+11/18/2017 - 14:11:54 - talentm - Payment Amount=300 |Stand = 87
+11/18/2017 - 14:11:50 - talentm - Payment Amount=208 |Stand = 501
+11/18/2017 - 15:11:22 - talentm - Payment Amount=0 |Stand = 737
+11/18/2017 - 15:11:12 - talentm - Payment Amount=130 |Stand = 674

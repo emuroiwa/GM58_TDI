@@ -1,0 +1,45 @@
+11/30/2016 - 11:11:14 - talentm - Edited Stand Details Location Northgate Heigths Area 1250  Price 13750  Deposit '1375 Instalments '100  months_paid 144  STAND ID 1
+11/30/2016 - 11:11:45 - talentm - Deposit Payment Amount=875 |Stand = 1
+11/30/2016 - 11:11:02 - talentm - Balance Take Up Amount=220 |Stand = 125
+11/30/2016 - 11:11:42 - talentm - Balance Take Up Amount=220 |Stand = 
+11/30/2016 - 11:11:10 - talentm - Edited Stand Details Location Northgate Heigths Area 1250  Price 15813 Deposit '7000 Instalments '215 months_paid 60 STAND ID 1
+11/30/2016 - 11:11:36 - talentm - Deposit Payment Amount=7000 |Stand = 1
+11/30/2016 - 11:11:08 - talentm - ADDED PETROS CHINEMBIRI  CLIENT TO STAND ID 1
+11/30/2016 - 11:11:44 - talentm - ADDED ETTANIS NYONI  CLIENT TO STAND ID 1
+11/30/2016 - 12:11:37 - talentm - Payment Amount=220 |Stand = 125
+11/30/2016 - 12:11:12 - talentm - Payment Amount=215 |Stand = 125
+11/30/2016 - 13:11:53 - talentm - Deleted All Payment  Cash 220 | Stand ID 1 | Description Balance_After_VAT | Payment Date 2016-11-30 13:31:37
+11/30/2016 - 13:11:19 - talentm - Deleted All Payment  Cash 215 | Stand ID 1 | Description Balance_After_VAT | Payment Date 2016-11-30 13:33:12
+11/30/2016 - 13:11:22 - talentm - Balance Take Up Amount=220 |Stand = 125
+11/30/2016 - 13:11:40 - talentm - Edited Stand Details Location Northgate Heigths Area 1000  Price 12650 Deposit '3866.5  Instalments '178  months_paid 60  STAND ID 424
+11/30/2016 - 13:11:58 - talentm - Deposit Payment Amount=2767 |Stand = 424
+11/30/2016 - 13:11:46 - talentm - Balance Take Up Amount=178 |Stand = 529
+11/30/2016 - 13:11:05 - talentm - Balance Take Up AMENDMENT Amount=6940 |Stand = 288
+11/30/2016 - 13:11:25 - talentm - Balance Take Up Amount=5056 |Stand = 600
+11/30/2016 - 13:11:25 - talentm - Balance Take Up Amount=1000 |Stand = 600
+11/30/2016 - 13:11:56 - talentm - Edited Stand Details Location Northgate Heigths Area 1262  Price 15965.69 Deposit '1389  Instalments '194  months_paid 84  STAND ID 362
+11/30/2016 - 14:11:41 - talentm - Balance Take Up Amount=1789 |Stand = 259
+11/30/2016 - 14:11:41 - talentm - Balance Take Up Amount=6550 |Stand = 259
+11/30/2016 - 14:11:46 - talentm - Edited Stand Details Location Northgate Heigths Area 2726  Price 34481.75 Deposit '3000  Instalments '395 months_paid 84  STAND ID 566
+11/30/2016 - 14:11:59 - talentm - Balance Take Up Amount=7801 |Stand = 19
+11/30/2016 - 14:11:59 - talentm - Balance Take Up Amount=2725.83 |Stand = 19
+11/30/2016 - 14:11:42 - talentm - Balance Take Up AMENDMENT Amount=6000 |Stand = 19
+11/30/2016 - 14:11:42 - talentm - Balance Take Up AMENDMENT Amount=1801 |Stand = 19
+11/30/2016 - 15:11:36 - talentm - Balance Take Up Amount=2935 |Stand = 710
+11/30/2016 - 15:11:36 - talentm - Balance Take Up Amount=0 |Stand = 710
+11/30/2016 - 15:11:18 - talentm - Edited Stand Details Location Northgate Heigths Area 1000  Price 12650 Deposit '500  Instalments '115  months_paid 144  STAND ID 348
+11/30/2016 - 15:11:22 - talentm - Balance Take Up Amount=1432 |Stand = 579
+11/30/2016 - 15:11:22 - talentm - Balance Take Up Amount=8474 |Stand = 579
+11/30/2016 - 15:11:30 - talentm - Deleted All Payment  Cash  | Stand ID  | Description  | Payment Date 
+11/30/2016 - 15:11:51 - talentm - Deleted All Payment  Cash  | Stand ID  | Description  | Payment Date 
+11/30/2016 - 15:11:13 - talentm - Edited Client Details  HOPE CHITAPI   CLIENT TO STAND ID 5950
+11/30/2016 - 15:11:07 - talentm - Balance Take Up Amount=3959.25 |Stand = 641
+11/30/2016 - 15:11:07 - talentm - Balance Take Up Amount=325 |Stand = 641
+11/30/2016 - 15:11:45 - talentm - Edited Stand Details Location Northgate Heigths Area 1000  Price 12650 Deposit '500  Instalments '109  months_paid 144  STAND ID 338
+11/30/2016 - 15:11:16 - talentm - Balance Take Up Amount=3959.25 |Stand = 713
+11/30/2016 - 15:11:16 - talentm - Balance Take Up Amount=325 |Stand = 713
+11/30/2016 - 15:11:04 - talentm - Edited Stand Details Location Northgate Heigths Area 1000  Price 12650 Deposit '500  Instalments '109  months_paid 144  STAND ID 339
+11/30/2016 - 15:11:23 - talentm - Balance Take Up AMENDMENT Amount=7161 |Stand = 393
+11/30/2016 - 15:11:50 - talentm - Balance Take Up AMENDMENT Amount=6000 |Stand = 498
+11/30/2016 - 15:11:47 - talentm - Balance Take Up Amount=2635 |Stand = 338
+11/30/2016 - 15:11:47 - talentm - Balance Take Up Amount=1860 |Stand = 338

@@ -1,0 +1,12 @@
+04/10/2017 - 08:04:15 - talentm - User Login 
+04/10/2017 - 09:04:18 - aidahdinala - User Login 
+04/10/2017 - 12:04:43 - talentm - User Login 
+04/10/2017 - 13:04:49 - talentm - Logout | User = Talent Chipo Mashora
+04/10/2017 - 13:04:19 - talentm - User Login 
+04/10/2017 - 14:04:52 - talentm - Logout | User = Talent Chipo Mashora
+04/10/2017 - 14:04:26 - yolandak - User Login 
+04/10/2017 - 14:04:47 - yolandak - Logout | User = Yolanda Kurebgaseka
+04/10/2017 - 14:04:53 - talentm - User Login 
+04/10/2017 - 16:04:15 - talentm - Logout | User = Talent Chipo Mashora
+04/10/2017 - 16:04:27 - talentm - User Login 
+04/10/2017 - 17:04:09 - aidahdinala - Logout | User = Aidah DinalaSibanda

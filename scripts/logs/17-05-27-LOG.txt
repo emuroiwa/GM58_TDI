@@ -1,0 +1,9 @@
+05/27/2017 - 10:05:39 - aidahdinala - Payment Amount=300 |Stand = 389
+05/27/2017 - 10:05:31 - talentm - Edited Client Details ISHMAEL TAFIRENYIKA ZINYOWERA  CLIENT TO STAND ID 6180
+05/27/2017 - 11:05:37 - talentm - Payment Amount=200 |Stand = 534
+05/27/2017 - 11:05:11 - talentm - Payment Amount=200 |Stand = 534
+05/27/2017 - 11:05:55 - aidahdinala - Payment Amount=120 |Stand = 259
+05/27/2017 - 11:05:29 - aidahdinala - Payment Amount=120 |Stand = 259
+05/27/2017 - 11:05:54 - aidahdinala - Payment Amount=46 |Stand = 592
+05/27/2017 - 11:05:17 - aidahdinala - Payment Amount=300 |Stand = 516
+05/27/2017 - 12:05:10 - aidahdinala - Payment Amount=1600 |Stand = 45

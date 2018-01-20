@@ -1,0 +1,17 @@
+09/16/2017 - 08:09:28 - yolandak - Payment Amount=288 |Stand = 544
+09/16/2017 - 09:09:28 - talentm - Edited Client Details GEORGE MADHUMBU  CLIENT TO STAND ID 529
+09/16/2017 - 16:09:01 - talentm - Payment Amount=120 |Stand = 750
+09/16/2017 - 16:09:58 - talentm - Payment Amount=200 |Stand = 317
+09/16/2017 - 16:09:21 - talentm - Payment Amount=3600 |Stand = 98
+09/16/2017 - 16:09:23 - talentm - Payment Amount=136 |Stand = 246
+09/16/2017 - 16:09:30 - talentm - Payment Amount=400 |Stand = 956
+09/16/2017 - 16:09:24 - talentm - Payment Amount=202 |Stand = 59
+09/16/2017 - 16:09:50 - talentm - Payment Amount=208 |Stand = 435
+09/16/2017 - 16:09:57 - talentm - Payment Amount=200 |Stand = 287
+09/16/2017 - 16:09:39 - talentm - Payment Amount=130 |Stand = 748
+09/16/2017 - 16:09:29 - talentm - Payment Amount=100 |Stand = 238
+09/16/2017 - 16:09:47 - talentm - Payment Amount=180 |Stand = 281
+09/16/2017 - 17:09:57 - talentm - Payment Amount=705 |Stand = 22
+09/16/2017 - 17:09:50 - talentm - Payment Amount=757 |Stand = 20
+09/16/2017 - 17:09:38 - talentm - Payment Amount=751 |Stand = 21
+09/16/2017 - 17:09:20 - talentm - Payment Amount=200 |Stand = 584

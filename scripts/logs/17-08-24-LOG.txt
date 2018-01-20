@@ -1,0 +1,23 @@
+08/24/2017 - 08:08:51 - talentm - Balance Take Up Amount=3550 |Stand = 52
+08/24/2017 - 08:08:46 - talentm - Balance Take Up AMENDMENT Amount=3550 |Stand = 52
+08/24/2017 - 08:08:40 - talentm - Balance Take Up Amount=3550 |Stand = 
+08/24/2017 - 08:08:51 - talentm - Edited Stand Details Location Northgate Heigths Area 1252.84 Price 15848.00  Deposit '7900  Instalments '193 months_paid 48 STAND ID 164
+08/24/2017 - 08:08:01 - talentm - Deposit Payment Amount=7900 |Stand = 164
+08/24/2017 - 08:08:36 - talentm - ADDED MUNYARADZI PEDZISAI  CLIENT TO STAND ID 164
+08/24/2017 - 09:08:47 - talentm - Edited Client Details PEDZISAI  FUNGAYI  CLIENT TO STAND ID 6431
+08/24/2017 - 09:08:44 - talentm - Edited Stand Details Location Northgate Heigths Area 1252.84  Price 15848.00  Deposit '8000.00  Instalments '193.00  months_paid 48  STAND ID 164
+08/24/2017 - 09:08:12 - talentm - Payment Amendement Old Amount=7900.00 New Amount 8000.00  description='cash |Stand = 164
+08/24/2017 - 10:08:39 - talentm - Deposit Payment Amount=2467 |Stand = 664
+08/24/2017 - 10:08:51 - talentm - Edited Stand Details Location Northgate Heigths Area 1300.00  Price 16445.00  Deposit '2467.00  Instalments '284.00  months_paid 60    STAND ID 664
+08/24/2017 - 10:08:55 - aidahdinala - Payment Amount=200 |Stand = 391
+08/24/2017 - 10:08:56 - talentm - Deleted All Payment  Cash 2467.00 | Stand ID 664 | Description Stand Deposit | Payment Date 2017-02-20 00:00:00
+08/24/2017 - 10:08:45 - talentm - Deposit Payment Amount=2467 |Stand = 664
+08/24/2017 - 10:08:40 - talentm - Edited Stand Details Location Northgate Heigths Area 1300.00  Price 16445.00  Deposit '2467.00  Instalments '284.00  months_paid 60     STAND ID 664
+08/24/2017 - 10:08:22 - aidahdinala - Payment Amount=240 |Stand = 93
+08/24/2017 - 11:08:41 - aidahdinala - Payment Amount=350 |Stand = 274
+08/24/2017 - 12:08:55 - talentm - Deposit Payment Amount=14722 |Stand = 260
+08/24/2017 - 14:08:57 - aidahdinala - Payment Amount=208 |Stand = 749
+08/24/2017 - 14:08:29 - talentm - Edited Stand Details Location Northgate Heigths Area 1250.00  Price 15813.00  Deposit '14722.00  Instalments '0.00  months_paid -    STAND ID 260
+08/24/2017 - 14:08:08 - talentm - Deleted All Payment  Cash 14722.00 | Stand ID 260 | Description Stand Deposit | Payment Date 2017-08-30 00:00:00
+08/24/2017 - 14:08:37 - talentm - Deposit Payment Amount=14722 |Stand = 260
+08/24/2017 - 16:08:48 - talentm - Edited Stand Details Location Northgate Heigths Area 1250.00  Price 15813.00  Deposit '4000.00  Instalments '229.00  months_paid 60  STAND ID 106

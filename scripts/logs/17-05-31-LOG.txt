@@ -1,0 +1,11 @@
+05/31/2017 - 08:05:19 - talentm - Edited Client Details Violet Magodo  CLIENT TO STAND ID 20
+05/31/2017 - 10:05:28 - aidahdinala - Payment Amount=108 |Stand = 655
+05/31/2017 - 11:05:29 - talentm - Payment Amount=252 |Stand = 752
+05/31/2017 - 12:05:23 - aidahdinala - Payment Amount=184 |Stand = 364
+05/31/2017 - 12:05:59 - aidahdinala - Payment Amount=120 |Stand = 741
+05/31/2017 - 14:05:35 - aidahdinala - Payment Amount=119 |Stand = 132
+05/31/2017 - 14:05:07 - talentm - Edited Stand Details Location Northgate Heigths Area 1400.00  Price 17705.00  Deposit '500.00  Instalments '119.00  months_paid 144  STAND ID 93
+05/31/2017 - 14:05:31 - aidahdinala - Payment Amount=184 |Stand = 662
+05/31/2017 - 15:05:09 - aidahdinala - Payment Amount=170 |Stand = 740
+05/31/2017 - 15:05:57 - aidahdinala - Payment Amount=155 |Stand = 86
+05/31/2017 - 15:05:42 - aidahdinala - Payment Amount=140 |Stand = 146

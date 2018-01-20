@@ -1,0 +1,7 @@
+12/08/2017 - 09:12:20 - aidahdinala - Deposit Payment Amount=1372 |Stand = 674
+12/08/2017 - 09:12:25 - aidahdinala - Payment Amount=28 |Stand = 485
+12/08/2017 - 10:12:18 - aidahdinala - Deposit Payment Amount=650 |Stand = 514
+12/08/2017 - 10:12:02 - aidahdinala - ADDED TATENDA MUSAPA  CLIENT TO STAND ID 514
+12/08/2017 - 10:12:24 - aidahdinala - Payment Amount=120 |Stand = 147
+12/08/2017 - 11:12:29 - aidahdinala - Payment Amount=300 |Stand = 58
+12/08/2017 - 12:12:16 - aidahdinala - Payment Amount=300 |Stand = 58

@@ -1,0 +1,39 @@
+09/01/2017 - 09:09:57 - aidahdinala - Payment Amount=200 |Stand = 680
+09/01/2017 - 09:09:14 - aidahdinala - Payment Amount=334 |Stand = 560
+09/01/2017 - 10:09:07 - talentm - Balance Take Up Amount=0 |Stand = 
+09/01/2017 - 10:09:03 - talentm - Edited Stand Details Location Northgate Heigths Area 1250.00  Price 15813.00  Deposit '1582.00  Instalments '208.00  months_paid 84  STAND ID 227
+09/01/2017 - 10:09:57 - talentm - Deposit Payment Amount=1582 |Stand = 227
+09/01/2017 - 10:09:39 - talentm - Balance Take Up Amount=2502 |Stand = 302
+09/01/2017 - 10:09:03 - talentm - ADDED RUBY CAROLINE MUKONOWATSAUKA  CLIENT TO STAND ID 227
+09/01/2017 - 10:09:10 - talentm - Edited Stand Details Location Northgate Heigths Area 1250.00  Price 15813.00  Deposit '3071.82  Instalments '259  months_paid 60   STAND ID 227
+09/01/2017 - 10:09:34 - talentm - Deleted All Payment  Cash 2502.00 | Stand ID 227 | Description Balance Take Up | Payment Date 2017-09-01 10:38:39
+09/01/2017 - 10:09:13 - talentm - Payment Amendement Old Amount=1582.00 New Amount 3071.82  description='Balance b/f |Stand = 227
+09/01/2017 - 10:09:31 - talentm - Deleted All Payment  Cash 3071.82 | Stand ID 227 | Description Stand Deposit | Payment Date 2013-10-30 00:00:00
+09/01/2017 - 10:09:38 - talentm - Deposit Payment Amount=3071.82 |Stand = 227
+09/01/2017 - 10:09:43 - talentm - Edited Stand Details Location Northgate Heigths Area 1250.00  Price 15813.00  Deposit '3071.82  Instalments '259.00  months_paid 60    STAND ID 227
+09/01/2017 - 12:09:32 - talentm - Payment Amount=115 |Stand = 148
+09/01/2017 - 12:09:37 - talentm - Payment Amount=160 |Stand = 615
+09/01/2017 - 12:09:27 - talentm - Payment Amount=400 |Stand = 840
+09/01/2017 - 12:09:13 - talentm - Payment Amount=210 |Stand = 296
+09/01/2017 - 12:09:23 - talentm - Payment Amount=208 |Stand = 754
+09/01/2017 - 12:09:22 - talentm - Payment Amount=840 |Stand = 406
+09/01/2017 - 12:09:29 - aidahdinala - Payment Amount=600 |Stand = 216
+09/01/2017 - 12:09:28 - talentm - Payment Amount=840 |Stand = 427
+09/01/2017 - 12:09:12 - talentm - Payment Amount=500 |Stand = 780
+09/01/2017 - 12:09:10 - talentm - Payment Amount=1000 |Stand = 595
+09/01/2017 - 12:09:08 - talentm - Payment Amount=300 |Stand = 226
+09/01/2017 - 13:09:19 - talentm - Payment Amount=108 |Stand = 708
+09/01/2017 - 13:09:35 - talentm - Payment Amount=229 |Stand = 41
+09/01/2017 - 13:09:31 - talentm - Payment Amount=185 |Stand = 738
+09/01/2017 - 13:09:44 - talentm - Payment Amount=215 |Stand = 268
+09/01/2017 - 13:09:24 - talentm - Payment Amount=120 |Stand = 665
+09/01/2017 - 13:09:09 - talentm - Balance Take Up Amount=970 |Stand = 706
+09/01/2017 - 13:09:04 - talentm - Balance Take Up Amount=970 |Stand = 
+09/01/2017 - 13:09:34 - talentm - Edited Stand Details Location Northgate Heigths Area 1200.00  Price 15180  Deposit '7590.00  Instalments '187.00  months_paid 48  STAND ID 125
+09/01/2017 - 13:09:35 - talentm - Payment Amount=130 |Stand = 32
+09/01/2017 - 13:09:49 - talentm - Payment Amount=192 |Stand = 843
+09/01/2017 - 13:09:46 - talentm - Payment Amount=223 |Stand = 310
+09/01/2017 - 13:09:19 - talentm - Payment Amount=130 |Stand = 667
+09/01/2017 - 13:09:41 - talentm - Payment Amount=300 |Stand = 512
+09/01/2017 - 13:09:57 - talentm - Payment Amount=200 |Stand = 209
+09/01/2017 - 13:09:38 - aidahdinala - Payment Amount=183 |Stand = 428

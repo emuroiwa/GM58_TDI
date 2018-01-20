@@ -1,0 +1,16 @@
+08/10/2017 - 08:08:10 - aidahdinala - Payment Amount=118 |Stand = 88
+08/10/2017 - 08:08:32 - TALENTM - Edited Stand Details Location Northgate Heigths Area 1632.00  Price 20640.00  Deposit '500.00  Instalments '118.00  months_paid 144  STAND ID 52
+08/10/2017 - 08:08:12 - talentm - ADDED PAMELA KWARI  CLIENT TO STAND ID 614
+08/10/2017 - 08:08:00 - talentm - ADDED FANUEL MADHUKU  CLIENT TO STAND ID 614
+08/10/2017 - 10:08:31 - talentm - Deposit Payment Amount=3000 |Stand = 503
+08/10/2017 - 10:08:27 - aidahdinala - Payment Amount=240 |Stand = 145
+08/10/2017 - 10:08:12 - talentm - Balance Take Up Amount=767 |Stand = 212
+08/10/2017 - 11:08:25 - talentm - Edited Client Details  RABECCA MHANDIRE  CLIENT TO STAND ID 6032
+08/10/2017 - 11:08:45 - aidahdinala - Payment Amount=160 |Stand = 348
+08/10/2017 - 11:08:28 - aidahdinala - Payment Amount=120 |Stand = 106
+08/10/2017 - 11:08:37 - talentm - Payment Amendement Old Amount=150.00 New Amount 161.00  description='. |Stand = 349
+08/10/2017 - 12:08:43 - aidahdinala - Payment Amount=119 |Stand = 135
+08/10/2017 - 12:08:16 - aidahdinala - Payment Amount=159 |Stand = 629
+08/10/2017 - 15:08:46 - aidahdinala - Payment Amount=400 |Stand = 89
+08/10/2017 - 15:08:12 - talentm - Edited Client Details JOHN HAMUFARI NYAMUJARA  CLIENT TO STAND ID 67
+08/10/2017 - 15:08:34 - aidahdinala - Payment Amount=400 |Stand = 89

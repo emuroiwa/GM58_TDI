@@ -1,0 +1,36 @@
+08/29/2017 - 08:08:30 - aidahdinala - Payment Amount=189 |Stand = 347
+08/29/2017 - 09:08:14 - aidahdinala - Payment Amount=108 |Stand = 655
+08/29/2017 - 09:08:36 - aidahdinala - Payment Amount=1482 |Stand = 939
+08/29/2017 - 09:08:34 - talentm - Edited Stand Details Location Northgate Heigths Area 2193.00  Price 27744.00  Deposit '1140  Instalments '100.00  months_paid 144   STAND ID 452
+08/29/2017 - 09:08:54 - talentm - Deleted All Payment  Cash 500.00 | Stand ID 452 | Description Stand Deposit | Payment Date 2013-04-02 00:00:00
+08/29/2017 - 09:08:17 - talentm - Deleted All Payment  Cash 640.00 | Stand ID 452 | Description Balance Take Up | Payment Date 2017-08-28 16:58:44
+08/29/2017 - 09:08:40 - talentm - Deposit Payment Amount=1140 |Stand = 452
+08/29/2017 - 09:08:59 - talentm - Edited Stand Details Location Northgate Heigths Area 2193.00  Price 27744.00  Deposit '1140.00  Instalments '100.00  months_paid 144    STAND ID 452
+08/29/2017 - 09:08:41 - talentm - Edited Stand Details Location Northgate Heigths Area 2193.00  Price 27744.00  Deposit '500 Instalments '115.00  months_paid 242   STAND ID 452
+08/29/2017 - 09:08:12 - talentm - Deleted All Payment  Cash 1140.00 | Stand ID 452 | Description Stand Deposit | Payment Date 2015-10-05 00:00:00
+08/29/2017 - 09:08:56 - talentm - Deposit Payment Amount=500 |Stand = 452
+08/29/2017 - 09:08:14 - aidahdinala - Payment Amount=160 |Stand = 547
+08/29/2017 - 09:08:33 - talentm - Balance Take Up Amount=640 |Stand = 98
+08/29/2017 - 09:08:24 - talentm - Payment Amount=120 |Stand = 98
+08/29/2017 - 09:08:06 - talentm - Payment Amount=600 |Stand = 98
+08/29/2017 - 09:08:48 - talentm - Payment Amount=200 |Stand = 98
+08/29/2017 - 09:08:43 - yolandak - Payment Amount=210 |Stand = 541
+08/29/2017 - 11:08:48 - yolandak - Payment Amount=220 |Stand = 711
+08/29/2017 - 11:08:26 - yolandak - Payment Amount=137 |Stand = 64
+08/29/2017 - 12:08:26 - yolandak - Payment Amount=100 |Stand = 67
+08/29/2017 - 12:08:35 - yolandak - Payment Amount=200 |Stand = 67
+08/29/2017 - 12:08:02 - yolandak - Payment Amount=308 |Stand = 592
+08/29/2017 - 12:08:39 - talentm - Balance Take Up Amount=3944 |Stand = 
+08/29/2017 - 12:08:02 - talentm - Edited Stand Details Location Northgate Heigths Area 1250.00  Price 15813.00  Deposit '7900 Instalments '193 months_paid 48 STAND ID 91
+08/29/2017 - 12:08:13 - talentm - Payment Amount=0 |Stand = 592
+08/29/2017 - 12:08:00 - talentm - Balance Take Up Amount=7623 |Stand = 
+08/29/2017 - 12:08:49 - talentm - Edited Stand Details Location Northgate Heigths Area 1250.00  Price 15813.00  Deposit '8182.00  Instalments '187.00  months_paid 48  STAND ID 91
+08/29/2017 - 12:08:48 - talentm - ADDED DAINA MAJARI  CLIENT TO STAND ID 91
+08/29/2017 - 12:08:12 - talentm - Deposit Payment Amount=8182 |Stand = 91
+08/29/2017 - 12:08:20 - yolandak - Payment Amount=110 |Stand = 668
+08/29/2017 - 13:08:21 - yolandak - Payment Amount=230 |Stand = 303
+08/29/2017 - 15:08:35 - talentm - Payment Amount=109 |Stand = 671
+08/29/2017 - 15:08:47 - talentm - Payment Amount=130 |Stand = 702
+08/29/2017 - 16:08:42 - yolandak - Payment Amount=300 |Stand = 631
+08/29/2017 - 17:08:49 - talentm - Edited Client Details DAINAH MAJARI  CLIENT TO STAND ID 6434
+08/29/2017 - 17:08:01 - talentm - Edited Client Details TINASHE SHUMBA  CLIENT TO STAND ID 6433

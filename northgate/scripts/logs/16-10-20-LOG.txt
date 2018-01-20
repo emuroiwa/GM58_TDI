@@ -1,0 +1,14 @@
+10/20/2016 - 09:10:36 - admin - Interest Required for stand 10
+10/20/2016 - 09:10:02 - admin - Interest Required for stand 10
+10/20/2016 - 13:10:26 - admin - Interest Required for stand 10
+10/20/2016 - 13:10:27 - admin - Interest Payment Amount=328 |Stand = 10
+10/20/2016 - 13:10:29 - admin - Interest Required for stand 10
+10/20/2016 - 13:10:39 - admin - Interest Required for stand 10
+10/20/2016 - 13:10:46 - admin - Interest Payment Amount=328 |Stand = 10
+10/20/2016 - 13:10:18 - admin - Payment Amount=290 |Stand = 10
+10/20/2016 - 13:10:08 - admin - Payment Amount=290 |Stand = 10
+10/20/2016 - 13:10:41 - admin - Payment Amount=500 |Stand = 10
+10/20/2016 - 13:10:39 - admin - Balance Take Up Amount=2000 |Stand = 11
+10/20/2016 - 13:10:39 - admin - Balance Take Up Amount=1000 |Stand = 11
+10/20/2016 - 13:10:09 - admin - Balance Take Up AMENDMENT Amount=400 |Stand = 11
+10/20/2016 - 14:10:30 - admin - Payment Amount=1000 |Stand = 11

@@ -1,0 +1,14 @@
+12/11/2017 - 08:12:19 - aidahdinala - Payment Amount=55 |Stand = 664
+12/11/2017 - 09:12:01 - aidahdinala - Payment Amount=1627 |Stand = 245
+12/11/2017 - 09:12:54 - aidahdinala - Payment Amount=500 |Stand = 516
+12/11/2017 - 09:12:59 - aidahdinala - Payment Amount=170 |Stand = 740
+12/11/2017 - 10:12:19 - aidahdinala - Payment Amount=400 |Stand = 8
+12/11/2017 - 10:12:52 - aidahdinala - Payment Amount=400 |Stand = 7
+12/11/2017 - 11:12:19 - aidahdinala - Payment Amount=193 |Stand = 254
+12/11/2017 - 11:12:04 - aidahdinala - Payment Amount=352 |Stand = 285
+12/11/2017 - 11:12:48 - aidahdinala - Payment Amount=600 |Stand = 285
+12/11/2017 - 11:12:01 - aidahdinala - Payment Amount=446.50 |Stand = 51
+12/11/2017 - 11:12:04 - aidahdinala - Payment Amount=500 |Stand = 730
+12/11/2017 - 12:12:11 - aidahdinala - Payment Amount=160 |Stand = 102
+12/11/2017 - 14:12:46 - talentm - Payment Amount=145 |Stand = 630
+12/11/2017 - 14:12:37 - yolandak - Payment Amount=150 |Stand = 650

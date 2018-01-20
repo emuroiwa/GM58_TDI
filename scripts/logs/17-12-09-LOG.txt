@@ -1,0 +1,6 @@
+12/09/2017 - 07:12:28 - yolandak - Payment Amount=90 |Stand = 575
+12/09/2017 - 09:12:33 - yolandak - Add New Stand Location 'Northgate Heigths | number=797 |area=1627.42 | Price=20587 |deposit=10294 |  =251 |months=48 
+12/09/2017 - 09:12:06 - aidahdinala - Deposit Payment Amount=6000 |Stand = 678
+12/09/2017 - 10:12:41 - aidahdinala - Payment Amount=3000 |Stand = 428
+12/09/2017 - 11:12:43 - yolandak - Payment Amount=240 |Stand = 498
+12/09/2017 - 14:12:03 - talentm - Payment Amendement Old Amount=90.00 New Amount 80.00  description='POS |Stand = 431

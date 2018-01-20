@@ -1,0 +1,21 @@
+12/21/2017 - 08:12:51 - aidahdinala - Payment Amount=110 |Stand = 668
+12/21/2017 - 08:12:21 - aidahdinala - Deposit Payment Amount=167 |Stand = 676
+12/21/2017 - 08:12:16 - aidahdinala - Payment Amount=100 |Stand = 463
+12/21/2017 - 08:12:38 - talentm - Add New Stand Location 'Northgate Heigths | number=969 |area=1396.49 | Price=17666 |deposit=5000 |  =257 |months=60 
+12/21/2017 - 08:12:18 - aidahdinala - Payment Amount=189 |Stand = 347
+12/21/2017 - 08:12:52 - aidahdinala - Payment Amount=348 |Stand = 101
+12/21/2017 - 08:12:47 - aidahdinala - Payment Amount=120 |Stand = 741
+12/21/2017 - 08:12:45 - aidahdinala - Deposit Payment Amount=5000 |Stand = 679
+12/21/2017 - 09:12:09 - aidahdinala - ADDED TAPIWA MAGUMISIRO  CLIENT TO STAND ID 679
+12/21/2017 - 09:12:38 - aidahdinala - Payment Amount=137 |Stand = 64
+12/21/2017 - 12:12:17 - aidahdinala - Payment Amount=250 |Stand = 752
+12/21/2017 - 12:12:33 - aidahdinala - Payment Amount=2800 |Stand = 627
+12/21/2017 - 12:12:44 - aidahdinala - Payment Amount=416 |Stand = 874
+12/21/2017 - 13:12:30 - aidahdinala - Payment Amount=110 |Stand = 769
+12/21/2017 - 13:12:51 - aidahdinala - Payment Amount=400 |Stand = 321
+12/21/2017 - 13:12:33 - aidahdinala - Payment Amount=200 |Stand = 680
+12/21/2017 - 14:12:08 - aidahdinala - Payment Amount=120 |Stand = 262
+12/21/2017 - 14:12:21 - aidahdinala - Payment Amount=384 |Stand = 570
+12/21/2017 - 15:12:23 - talentm - Payment Amount=320 |Stand = 606
+12/21/2017 - 15:12:35 - yolandak - Payment Amount=119 |Stand = 146
+12/21/2017 - 15:12:24 - yolandak - Payment Amount=119 |Stand = 132

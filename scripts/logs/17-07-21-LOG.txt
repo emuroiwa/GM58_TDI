@@ -1,0 +1,5 @@
+07/21/2017 - 09:07:56 - aidahdinala - Payment Amount=210 |Stand = 277
+07/21/2017 - 13:07:03 - yolandak - Payment Amount=386 |Stand = 254
+07/21/2017 - 15:07:52 - talentm - Payment Amount=143 |Stand = 644
+07/21/2017 - 15:07:15 - talentm - Payment Amendement Old Amount=0.00 New Amount 0.00  description='$200 interest paid |Stand = 15
+07/21/2017 - 15:07:02 - aidahdinala - Payment Amount=500 |Stand = 700

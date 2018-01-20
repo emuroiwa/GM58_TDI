@@ -1,0 +1,13 @@
+01/08/2018 - 07:01:01 - talentm - Payment Amount=200 |Stand = 274
+01/08/2018 - 12:01:55 - talentm - Payment Amount=440 |Stand = 211
+01/08/2018 - 12:01:59 - aidahdinala - Payment Amount=1000 |Stand = 395
+01/08/2018 - 12:01:19 - talentm - Payment Amount=200 |Stand = 286
+01/08/2018 - 12:01:54 - talentm - Payment Amount=400 |Stand = 286
+01/08/2018 - 12:01:21 - talentm - Payment Amount=200 |Stand = 286
+01/08/2018 - 12:01:51 - talentm - Payment Amount=180 |Stand = 286
+01/08/2018 - 12:01:45 - aidahdinala - Payment Amount=185 |Stand = 648
+01/08/2018 - 12:01:26 - aidahdinala - Payment Amount=172 |Stand = 790
+01/08/2018 - 13:01:53 - aidahdinala - Payment Amount=125 |Stand = 648
+01/08/2018 - 13:01:13 - talentm - Payment Amount=200 |Stand = 286
+01/08/2018 - 14:01:47 - aidahdinala - Payment Amount=235 |Stand = 352
+01/08/2018 - 14:01:35 - aidahdinala - Payment Amount=1002 |Stand = 522

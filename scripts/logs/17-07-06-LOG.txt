@@ -1,0 +1,28 @@
+07/06/2017 - 08:07:02 - talentm - Payment Amount=1144 |Stand = 274
+07/06/2017 - 12:07:43 - talentm - Deposit Payment Amount=211.5 |Stand = 77
+07/06/2017 - 12:07:23 - talentm - Deposit Payment Amount=160 |Stand = 77
+07/06/2017 - 12:07:53 - talentm - Deposit Payment Amount=52 |Stand = 77
+07/06/2017 - 12:07:24 - talentm - Deposit Payment Amount=300 |Stand = 77
+07/06/2017 - 12:07:12 - talentm - Payment Amount=440 |Stand = 219
+07/06/2017 - 13:07:19 - talentm - Payment Amount=120 |Stand = 259
+07/06/2017 - 13:07:24 - talentm - Payment Amount=500 |Stand = 259
+07/06/2017 - 13:07:43 - talentm - Payment Amount=400 |Stand = 589
+07/06/2017 - 13:07:43 - aidahdinala - Payment Amount=208 |Stand = 874
+07/06/2017 - 13:07:13 - aidahdinala - Payment Amount=252 |Stand = 752
+07/06/2017 - 14:07:40 - aidahdinala - Payment Amount=108 |Stand = 708
+07/06/2017 - 14:07:43 - aidahdinala - Payment Amount=225 |Stand = 223
+07/06/2017 - 14:07:48 - talentm - Deleted All Payment  Cash 225.00 | Stand ID 10 | Description Balance_After_VAT | Payment Date 2017-07-06 14:02:43
+07/06/2017 - 14:07:41 - talentm - Payment Amount=225 |Stand = 263
+07/06/2017 - 14:07:36 - talentm - Payment Amount=140 |Stand = 110
+07/06/2017 - 14:07:48 - talentm - Payment Amount=192 |Stand = 342
+07/06/2017 - 14:07:29 - talentm - Payment Amount=660 |Stand = 325
+07/06/2017 - 14:07:34 - talentm - Payment Amount=177 |Stand = 635
+07/06/2017 - 14:07:52 - talentm - Payment Amount=217 |Stand = 403
+07/06/2017 - 14:07:21 - talentm - Payment Amount=220 |Stand = 668
+07/06/2017 - 14:07:14 - talentm - Payment Amount=1000 |Stand = 659
+07/06/2017 - 14:07:13 - talentm - Payment Amount=200 |Stand = 286
+07/06/2017 - 15:07:09 - talentm - Payment Amount=348 |Stand = 544
+07/06/2017 - 15:07:54 - talentm - Payment Amount=198 |Stand = 218
+07/06/2017 - 15:07:27 - talentm - Payment Amount=100 |Stand = 218
+07/06/2017 - 15:07:54 - talentm - Payment Amount=200 |Stand = 232
+07/06/2017 - 17:07:29 - talentm - Payment Amount=126 |Stand = 733

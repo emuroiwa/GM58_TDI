@@ -1,0 +1,19 @@
+07/26/2016 - 19:07:40 - talentm - Balance Take Up Amount=3915 |Stand = 625
+07/26/2016 - 19:07:40 - talentm - Balance Take Up Amount=1772 |Stand = 625
+07/26/2016 - 19:07:10 - talentm - Balance Take Up Amount=4164 |Stand = 475
+07/26/2016 - 19:07:23 - talentm - Balance Take Up Amount=2271 |Stand = 693
+07/26/2016 - 19:07:23 - talentm - Balance Take Up Amount=1730 |Stand = 693
+07/26/2016 - 19:07:26 - talentm - Deleted All Payment  Cash 2271 | Stand ID 280 | Description Balance_Before_VAT | Payment Date 2016-07-26 19:39:23
+07/26/2016 - 19:07:37 - talentm - Deleted All Payment  Cash 1730 | Stand ID 280 | Description Balance_After_VAT | Payment Date 2016-07-26 19:39:23
+07/26/2016 - 19:07:28 - talentm - Balance Take Up Amount=2271 |Stand = 693
+07/26/2016 - 19:07:28 - talentm - Balance Take Up Amount=1730 |Stand = 693
+07/26/2016 - 19:07:15 - talentm - Balance Take Up Amount=1710 |Stand = 76
+07/26/2016 - 19:07:35 - talentm - Balance Take Up AMENDMENT Amount=7845 |Stand = 265
+07/26/2016 - 19:07:46 - talentm - Balance Take Up Amount=1820 |Stand = 645
+07/26/2016 - 20:07:23 - talentm - Balance Take Up AMENDMENT Amount=1890 |Stand = 278
+07/26/2016 - 20:07:33 - talentm - Balance Take Up AMENDMENT Amount=1890 |Stand = 278
+07/26/2016 - 20:07:28 - talentm - Balance Take Up Amount=0 |Stand = 
+07/26/2016 - 20:07:27 - talentm - Deposit Payment Amount=1582 |Stand = 232
+07/26/2016 - 20:07:00 - talentm - Balance Take Up Amount=3041 |Stand = 278
+07/26/2016 - 20:07:45 - talentm - Balance Take Up Amount=3939.56 |Stand = 211
+07/26/2016 - 20:07:17 - talentm - Balance Take Up AMENDMENT Amount=3939.56 |Stand = 211

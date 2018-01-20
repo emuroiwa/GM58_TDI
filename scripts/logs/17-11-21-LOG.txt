@@ -1,0 +1,8 @@
+11/21/2017 - 09:11:45 - aidahdinala - Payment Amount=1000 |Stand = 105
+11/21/2017 - 11:11:07 - aidahdinala - Payment Amount=230 |Stand = 303
+11/21/2017 - 14:11:36 - aidahdinala - Payment Amount=235 |Stand = 352
+11/21/2017 - 14:11:46 - aidahdinala - Payment Amount=16 |Stand = 735
+11/21/2017 - 14:11:57 - aidahdinala - Payment Amount=110 |Stand = 735
+11/21/2017 - 15:11:32 - talentm - Deleted All Payment  Cash 16.00 | Stand ID 317 | Description Balance_After_VAT | Payment Date 2017-11-21 15:51:46
+11/21/2017 - 15:11:56 - aidahdinala - Payment Amount=155 |Stand = 86
+11/21/2017 - 16:11:33 - talentm - Edited Client Details LOVERIDGE MASENDU  CLIENT TO STAND ID 6320

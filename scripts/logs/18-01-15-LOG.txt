@@ -1,0 +1,14 @@
+01/15/2018 - 07:01:08 - aidahdinala - Payment Amount=160 |Stand = 618
+01/15/2018 - 07:01:18 - talentm - Edited Client Details DENNIS MAFUDZA  CLIENT TO STAND ID 22
+01/15/2018 - 08:01:55 - aidahdinala - Payment Amount=155 |Stand = 42
+01/15/2018 - 09:01:21 - talentm - Edited Stand Details Location Northgate Heigths Area 1150.00  Price 14548.00  Deposit '7274.00  Instalments '178.00  months_paid 48 STAND ID 205
+01/15/2018 - 09:01:29 - talentm - Edited Stand Details Location Northgate Heigths Area 1150.00  Price 14548.00  Deposit '7274.00  Instalments '178.00  months_paid 48  STAND ID 205
+01/15/2018 - 09:01:55 - talentm - Deleted All Payment  Cash 1000.00 | Stand ID 205 | Description Stand Deposit | Payment Date 2015-12-16 00:00:00
+01/15/2018 - 09:01:48 - talentm - Balance Take Up Amount=0 |Stand = 
+01/15/2018 - 10:01:50 - aidahdinala - Deposit Payment Amount=7274 |Stand = 205
+01/15/2018 - 10:01:05 - aidahdinala - Payment Amount=1726 |Stand = 341
+01/15/2018 - 10:01:23 - aidahdinala - ADDED PROF. BLESSING MAUMBE  CLIENT TO STAND ID 205
+01/15/2018 - 14:01:52 - talentm - Balance Take Up Amount=2600 |Stand = 
+01/15/2018 - 14:01:20 - talentm - Edited Stand Details Location Northgate Heigths Area 1723.00  Price 21796.00  Deposit '10900 Instalments '266  months_paid 48 STAND ID 13
+01/15/2018 - 15:01:24 - aidahdinala - Deposit Payment Amount=5800 |Stand = 13
+01/15/2018 - 15:01:19 - aidahdinala - ADDED FAITH SHALOM NYIRENDA  CLIENT TO STAND ID 13

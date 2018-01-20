@@ -1,0 +1,9 @@
+09/22/2017 - 09:09:46 - talentm - Edited Stand Details Location Northgate Heigths Area 1250.00  Price 15813.00  Deposit '8182.00  Instalments '187.00  months_paid 48   STAND ID 91
+09/22/2017 - 09:09:54 - yolandak - Payment Amount=192 |Stand = 111
+09/22/2017 - 09:09:44 - talentm - Payment Amount=310 |Stand = 628
+09/22/2017 - 09:09:11 - talentm - Payment Amount=620 |Stand = 628
+09/22/2017 - 10:09:46 - yolandak - Payment Amount=500 |Stand = 405
+09/22/2017 - 10:09:00 - yolandak - Payment Amount=110 |Stand = 735
+09/22/2017 - 13:09:16 - yolandak - Payment Amount=70 |Stand = 735
+09/22/2017 - 13:09:37 - yolandak - Payment Amount=240 |Stand = 145
+09/22/2017 - 13:09:06 - yolandak - Payment Amount=177 |Stand = 543

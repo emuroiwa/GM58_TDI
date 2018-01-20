@@ -1,0 +1,19 @@
+12/06/2017 - 08:12:04 - aidahdinala - Payment Amount=135 |Stand = 81
+12/06/2017 - 09:12:13 - aidahdinala - Payment Amount=420 |Stand = 250
+12/06/2017 - 14:12:27 - talentm - Balance Take Up AMENDMENT Amount=2084 |Stand = 722
+12/06/2017 - 14:12:39 - yolandak - Payment Amount=189 |Stand = 291
+12/06/2017 - 14:12:16 - talentm - Balance Take Up Amount=2084 |Stand = 707
+12/06/2017 - 14:12:08 - talentm - Balance Take Up Amount=2084 |Stand = 
+12/06/2017 - 14:12:18 - yolandak - Payment Amount=187 |Stand = 280
+12/06/2017 - 14:12:07 - talentm - Edited Stand Details Location Northgate Heigths Area 1000.00  Price 12650.00  Deposit '6325  Instalments '154  months_paid 48 STAND ID 298
+12/06/2017 - 14:12:20 - talentm - Balance Take Up Amount=0 |Stand = 
+12/06/2017 - 14:12:12 - talentm - Edited Stand Details Location Northgate Heigths Area 1217.00  Price 15395  Deposit '7697  Instalments '188  months_paid 48 STAND ID 370
+12/06/2017 - 14:12:38 - yolandak - ADDED CHAKANYUKA CHIDUME  CLIENT TO STAND ID 298
+12/06/2017 - 14:12:31 - yolandak - Deposit Payment Amount=1000 |Stand = 298
+12/06/2017 - 14:12:48 - yolandak - Payment Amount=208 |Stand = 758
+12/06/2017 - 15:12:28 - talentm - Edited Stand Details Location Northgate Heigths Area 1550.00  Price 19608  Deposit '500.00  Instalments '162.00  months_paid 144  STAND ID 172
+12/06/2017 - 15:12:26 - talentm - Balance Take Up Amount=2345 |Stand = 775
+12/06/2017 - 15:12:26 - talentm - Balance Take Up Amount=0 |Stand = 775
+12/06/2017 - 15:12:37 - yolandak - Deposit Payment Amount=64 |Stand = 125
+12/06/2017 - 16:12:55 - yolandak - Deposit Payment Amount=2526 |Stand = 125
+12/06/2017 - 16:12:05 - yolandak - Payment Amount=374 |Stand = 706

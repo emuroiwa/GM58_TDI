@@ -1,0 +1,19 @@
+06/27/2017 - 08:06:06 - aidahdinala - Payment Amount=100 |Stand = 39
+06/27/2017 - 09:06:19 - aidahdinala - Payment Amount=118 |Stand = 88
+06/27/2017 - 11:06:45 - aidahdinala - Payment Amount=170 |Stand = 582
+06/27/2017 - 11:06:06 - aidahdinala - Payment Amount=202 |Stand = 655
+06/27/2017 - 12:06:02 - aidahdinala - Payment Amount=230 |Stand = 303
+06/27/2017 - 13:06:01 - aidahdinala - Payment Amount=150 |Stand = 575
+06/27/2017 - 13:06:56 - aidahdinala - Payment Amount=140 |Stand = 79
+06/27/2017 - 14:06:14 - aidahdinala - Payment Amount=195 |Stand = 33
+06/27/2017 - 14:06:11 - aidahdinala - Payment Amount=418 |Stand = 431
+06/27/2017 - 14:06:47 - aidahdinala - Payment Amount=209 |Stand = 431
+06/27/2017 - 14:06:03 - aidahdinala - Payment Amount=600 |Stand = 199
+06/27/2017 - 14:06:52 - aidahdinala - Payment Amount=200 |Stand = 235
+06/27/2017 - 15:06:57 - aidahdinala - Payment Amount=100 |Stand = 235
+06/27/2017 - 15:06:39 - talentm - Payment Amendement Old Amount=2496.00 New Amount 2636.00  description='. |Stand = 166
+06/27/2017 - 15:06:29 - aidahdinala - Payment Amount=102 |Stand = 235
+06/27/2017 - 15:06:51 - aidahdinala - Payment Amount=210 |Stand = 226
+06/27/2017 - 15:06:53 - aidahdinala - Payment Amount=600 |Stand = 627
+06/27/2017 - 16:06:20 - aidahdinala - Payment Amount=350 |Stand = 348
+06/27/2017 - 16:06:23 - talentm - Payment Amendement Old Amount=350.00 New Amount 350.00  description='PART INTEREST PAID. BAL $499 |Stand = 507

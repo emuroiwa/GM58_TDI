@@ -1,0 +1,10 @@
+11/17/2017 - 12:11:05 - talentm - Balance Take Up Amount=10380 |Stand = 
+11/17/2017 - 12:11:36 - aidahdinala - Payment Amount=119 |Stand = 135
+11/17/2017 - 12:11:07 - talentm - Balance Take Up Amount=3320 |Stand = 
+11/17/2017 - 12:11:09 - talentm - Edited Stand Details Location Northgate Heigths Area 1500.00  Price 18975  Deposit '10336  Instalments '211 months_paid 48  STAND ID 109
+11/17/2017 - 13:11:38 - talentm - Deposit Payment Amount=10336 |Stand = 109
+11/17/2017 - 13:11:01 - talentm - Edited Stand Details Location Northgate Heigths Area 1500.00  Price 18975.00  Deposit '10336.00  Instalments '211.00  months_paid 48   STAND ID 109
+11/17/2017 - 13:11:32 - aidahdinala - Payment Amount=422 |Stand = 117
+11/17/2017 - 13:11:56 - aidahdinala - Payment Amount=247 |Stand = 218
+11/17/2017 - 13:11:48 - aidahdinala - Edited Client Details CHARMAINE TENDAI PHIRI  CLIENT TO STAND ID 6414
+11/17/2017 - 13:11:51 - talentm - Payment Amount=290 |Stand = 667

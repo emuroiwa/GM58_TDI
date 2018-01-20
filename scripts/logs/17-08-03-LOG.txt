@@ -1,0 +1,9 @@
+08/03/2017 - 09:08:04 - aidahdinala - Deposit Payment Amount=7900 |Stand = 287
+08/03/2017 - 09:08:02 - aidahdinala - Payment Amount=200 |Stand = 50
+08/03/2017 - 09:08:01 - aidahdinala - Payment Amount=250 |Stand = 437
+08/03/2017 - 09:08:28 - aidahdinala - Payment Amount=150 |Stand = 568
+08/03/2017 - 10:08:03 - aidahdinala - Payment Amount=160 |Stand = 102
+08/03/2017 - 11:08:08 - aidahdinala - Payment Amount=1800 |Stand = 700
+08/03/2017 - 11:08:38 - aidahdinala - Payment Amount=105 |Stand = 726
+08/03/2017 - 13:08:01 - aidahdinala - Payment Amount=200 |Stand = 65
+08/03/2017 - 14:08:14 - aidahdinala - Payment Amount=119 |Stand = 146

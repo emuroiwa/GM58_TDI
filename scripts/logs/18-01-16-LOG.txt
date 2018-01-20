@@ -1,0 +1,13 @@
+01/16/2018 - 09:01:50 - talentm - Edited Stand Details Location Northgate Heigths Area 1250.00  Price 15813.00  Deposit '7900.00  Instalments '193.00  months_paid 48  STAND ID 38
+01/16/2018 - 09:01:17 - aidahdinala - Edited Client Details PRECIOUS  MHURI  CLIENT TO STAND ID 6503
+01/16/2018 - 09:01:21 - aidahdinala - ADDED NOKUTHABA MHURI  CLIENT TO STAND ID 38
+01/16/2018 - 09:01:50 - aidahdinala - Deposit Payment Amount=7900 |Stand = 38
+01/16/2018 - 10:01:14 - aidahdinala - Payment Amount=480 |Stand = 83
+01/16/2018 - 11:01:14 - aidahdinala - Add New Stand Location 'Northgate Heigths | number=194 |area=1800 | Price=22770 |deposit=3416 |  =392 |months=60 
+01/16/2018 - 11:01:28 - aidahdinala - Payment Amount=208 |Stand = 413
+01/16/2018 - 11:01:20 - aidahdinala - Payment Amount=3600 |Stand = 557
+01/16/2018 - 12:01:28 - talentm - Balance Take Up Amount=0 |Stand = 
+01/16/2018 - 12:01:55 - aidahdinala - Add New Stand Location 'Northgate Heigths | number=942 |area=845.04 | Price=24506 |deposit=6127 |  =831 |months=24 
+01/16/2018 - 12:01:51 - aidahdinala - Deposit Payment Amount=3000 |Stand = 683
+01/16/2018 - 13:01:45 - aidahdinala - Payment Amount=249 |Stand = 218
+01/16/2018 - 15:01:48 - aidahdinala - Payment Amount=160 |Stand = 644

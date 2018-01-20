@@ -1,0 +1,7 @@
+07/13/2017 - 09:07:15 - talentm - Deposit Payment Amount=110 |Stand = 334
+07/13/2017 - 11:07:14 - talentm - Deposit Payment Amount=2010 |Stand = 254
+07/13/2017 - 12:07:05 - talentm - Payment Amount=1000 |Stand = 585
+07/13/2017 - 13:07:21 - talentm - Edited Stand Details Location Northgate Heigths Area 1250.00  Price 15813.00  Deposit '7900.00  Instalments '193.00  months_paid 48  STAND ID 254
+07/13/2017 - 13:07:27 - talentm - Payment Amount=1000 |Stand = 197
+07/13/2017 - 14:07:46 - talentm - Payment Amount=300 |Stand = 278
+07/13/2017 - 15:07:08 - talentm - Edited Client Details TICHAONA ALEX  MUKWAZHI  CLIENT TO STAND ID 58

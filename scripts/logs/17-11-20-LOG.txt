@@ -1,0 +1,5 @@
+11/20/2017 - 08:11:22 - aidahdinala - Payment Amount=210 |Stand = 277
+11/20/2017 - 09:11:01 - aidahdinala - Payment Amount=350 |Stand = 141
+11/20/2017 - 11:11:47 - aidahdinala - Payment Amount=400 |Stand = 594
+11/20/2017 - 11:11:47 - aidahdinala - Payment Amount=130 |Stand = 735
+11/20/2017 - 13:11:18 - talentm - Deposit Payment Amount=2900 |Stand = 48

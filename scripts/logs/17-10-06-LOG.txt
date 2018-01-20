@@ -1,0 +1,15 @@
+10/06/2017 - 09:10:49 - aidahdinala - Payment Amount=123 |Stand = 689
+10/06/2017 - 10:10:46 - aidahdinala - Payment Amount=306 |Stand = 208
+10/06/2017 - 11:10:59 - aidahdinala - Payment Amount=2496 |Stand = 874
+10/06/2017 - 12:10:27 - aidahdinala - Payment Amount=688 |Stand = 83
+10/06/2017 - 12:10:12 - aidahdinala - Payment Amount=32 |Stand = 83
+10/06/2017 - 13:10:01 - aidahdinala - Payment Amount=238 |Stand = 132
+10/06/2017 - 14:10:06 - aidahdinala - Payment Amount=1000 |Stand = 700
+10/06/2017 - 15:10:09 - aidahdinala - Payment Amount=130 |Stand = 81
+10/06/2017 - 15:10:39 - aidahdinala - Payment Amount=250 |Stand = 63
+10/06/2017 - 15:10:08 - aidahdinala - Payment Amount=300 |Stand = 52
+10/06/2017 - 15:10:56 - aidahdinala - Payment Amount=525 |Stand = 616
+10/06/2017 - 15:10:25 - aidahdinala - Payment Amount=525 |Stand = 553
+10/06/2017 - 16:10:12 - talentm - Edited Stand Details Location Northgate Heigths Area 1200.00  Price 15180.00  Deposit '7590.00  Instalments '187.00  months_paid 48   STAND ID 125
+10/06/2017 - 16:10:58 - talentm - Deposit Payment Amount=5000 |Stand = 125
+10/06/2017 - 16:10:41 - talentm - Edited Client Details MAWUYA SIMON  CLIENT TO STAND ID 6444

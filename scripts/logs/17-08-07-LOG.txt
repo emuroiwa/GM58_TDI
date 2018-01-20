@@ -1,0 +1,12 @@
+08/07/2017 - 09:08:49 - aidahdinala - Payment Amount=90 |Stand = 242
+08/07/2017 - 09:08:35 - aidahdinala - Payment Amount=110 |Stand = 242
+08/07/2017 - 09:08:33 - aidahdinala - Payment Amount=172 |Stand = 790
+08/07/2017 - 10:08:48 - aidahdinala - Payment Amount=200 |Stand = 276
+08/07/2017 - 11:08:00 - aidahdinala - Payment Amount=366 |Stand = 428
+08/07/2017 - 11:08:52 - talentm - Payment Amount=170 |Stand = 617
+08/07/2017 - 12:08:15 - talentm - Payment Amendement Old Amount=90.00 New Amount 90.00  description='. |Stand = 292
+08/07/2017 - 12:08:59 - talentm - Payment Amendement Old Amount=110.00 New Amount 110.00  description='. |Stand = 292
+08/07/2017 - 13:08:15 - talentm - Payment Amount=265 |Stand = 636
+08/07/2017 - 15:08:15 - aidahdinala - Payment Amount=468 |Stand = 546
+08/07/2017 - 15:08:52 - aidahdinala - Payment Amount=0.00 |Stand = 601
+08/07/2017 - 15:08:46 - aidahdinala - Payment Amount=0.00 |Stand = 601

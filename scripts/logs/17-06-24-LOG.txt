@@ -1,0 +1,4 @@
+06/24/2017 - 09:06:46 - aidahdinala - Payment Amount=225 |Stand = 265
+06/24/2017 - 09:06:11 - aidahdinala - Deposit Payment Amount=1100 |Stand = 252
+06/24/2017 - 09:06:07 - aidahdinala - Payment Amount=120 |Stand = 107
+06/24/2017 - 10:06:46 - aidahdinala - Payment Amount=150 |Stand = 650

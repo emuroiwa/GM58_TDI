@@ -1,0 +1,12 @@
+07/14/2016 - 11:07:45 - admin - Balance Take Up Amount=2000 |Stand = 499
+07/14/2016 - 14:07:48 - admin - Balance Take Up Amount=2500 |Stand = 102
+07/14/2016 - 14:07:08 - admin - Balance Take Up AMENDMENT Amount=200 |Stand = 102
+07/14/2016 - 15:07:57 - admin - Payment Amount=250 |Stand = 102
+07/14/2016 - 15:07:27 - admin - Payment Amount=250 |Stand = 102
+07/14/2016 - 15:07:41 - admin - Balance Take Up Amount=2000 |Stand = 105
+07/14/2016 - 15:07:36 - admin - Balance Take Up AMENDMENT Amount=2000 |Stand = 105
+07/14/2016 - 15:07:28 - admin - Payment Amount=500 |Stand = 105
+07/14/2016 - 15:07:00 - admin - Payment Amount=500 |Stand = 105
+07/14/2016 - 15:07:27 - admin - Payment Amount=500 |Stand = 105
+07/14/2016 - 16:07:09 - admin - Payment Amount=500 |Stand = 105
+07/14/2016 - 16:07:35 - admin - Payment Amount=500 |Stand = 105

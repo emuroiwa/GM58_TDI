@@ -1,0 +1,8 @@
+10/09/2017 - 09:10:57 - aidahdinala - Payment Amount=160 |Stand = 607
+10/09/2017 - 11:10:38 - aidahdinala - Add New Stand Location 'Northgate Heigths | number=485 |area=1250 | Price=15813 |deposit=2372 |  =273 |months=60 
+10/09/2017 - 11:10:45 - aidahdinala - Deposit Payment Amount=1000 |Stand = 674
+10/09/2017 - 11:10:44 - aidahdinala - Payment Amount=172 |Stand = 790
+10/09/2017 - 11:10:19 - aidahdinala - Payment Amount=201 |Stand = 494
+10/09/2017 - 14:10:06 - talentm - Edited Client Details FIONA TATENDA DANDAWA  CLIENT TO STAND ID 6341
+10/09/2017 - 14:10:31 - talentm - ADDED DONALD DANDAWA  CLIENT TO STAND ID 595
+10/09/2017 - 14:10:31 - aidahdinala - Payment Amount=180 |Stand = 735

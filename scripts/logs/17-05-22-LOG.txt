@@ -1,0 +1,30 @@
+05/22/2017 - 09:05:23 - YOLANDAK - Payment Amount=140 |Stand = 644
+05/22/2017 - 09:05:07 - talentm - Balance Take Up Amount=5910 |Stand = 
+05/22/2017 - 09:05:16 - talentm - Payment Amount=1537 |Stand = 839
+05/22/2017 - 09:05:09 - talentm - Balance Take Up Amount=8380 |Stand = 
+05/22/2017 - 09:05:29 - talentm - Edited Stand Details Location Northgate Heigths Area 1250.00  Price 15813.00  Deposit '9163 Instalments '163.00  months_paid 48 STAND ID 156
+05/22/2017 - 09:05:35 - talentm - Deposit Payment Amount=9163 |Stand = 156
+05/22/2017 - 09:05:47 - talentm - ADDED FORTUNATE TENDAI SITHOLE  CLIENT TO STAND ID 156
+05/22/2017 - 10:05:47 - talentm - Payment Amount=163 |Stand = 102
+05/22/2017 - 10:05:37 - talentm - Edited Stand Details Location Northgate Heigths Area 1250.00  Price 15813.00  Deposit '9163.00  Instalments '163.00  months_paid 48  STAND ID 156
+05/22/2017 - 10:05:11 - talentm - Edited Stand Details Location Northgate Heigths Area 1250.00  Price 15813.00  Deposit '11500.00  Instalments '106.00  months_paid 48  STAND ID 58
+05/22/2017 - 10:05:55 - talentm - Edited Stand Details Location Northgate Heigths Area 1250.00  Price 15813.00  Deposit '11500.00  Instalments '106.00  months_paid 48   STAND ID 58
+05/22/2017 - 12:05:51 - talentm - Payment Amount=150 |Stand = 617
+05/22/2017 - 12:05:09 - talentm - Payment Amount=690 |Stand = 217
+05/22/2017 - 13:05:01 - talentm - Balance Take Up Amount=4420 |Stand = 
+05/22/2017 - 13:05:05 - talentm - Edited Stand Details Location Northgate Heigths Area 1550.00  Price 19608.00  Deposit '5000  Instalments '296  months_paid 60  STAND ID 165
+05/22/2017 - 13:05:05 - talentm - Payment Amount=500 |Stand = 514
+05/22/2017 - 14:05:56 - talentm - Payment Amount=300 |Stand = 304
+05/22/2017 - 14:05:55 - talentm - Payment Amount=189 |Stand = 347
+05/22/2017 - 14:05:28 - talentm - Edited Client Details BERNARD  MOYO  CLIENT TO STAND ID 6375
+05/22/2017 - 14:05:16 - talentm - Payment Amount=273 |Stand = 430
+05/22/2017 - 14:05:22 - talentm - Payment Amount=100 |Stand = 843
+05/22/2017 - 14:05:09 - talentm - Payment Amount=179 |Stand = 691
+05/22/2017 - 14:05:20 - talentm - Payment Amount=100 |Stand = 238
+05/22/2017 - 14:05:09 - talentm - Payment Amount=180 |Stand = 281
+05/22/2017 - 14:05:38 - talentm - Payment Amount=240 |Stand = 498
+05/22/2017 - 15:05:22 - talentm - Payment Amount=156 |Stand = 546
+05/22/2017 - 15:05:12 - talentm - Payment Amount=112 |Stand = 747
+05/22/2017 - 15:05:09 - talentm - Payment Amount=208 |Stand = 91
+05/22/2017 - 15:05:18 - talentm - Payment Amount=202 |Stand = 59
+05/22/2017 - 16:05:22 - talentm - Payment Amount=208 |Stand = 435

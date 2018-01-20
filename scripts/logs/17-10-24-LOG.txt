@@ -1,0 +1,7 @@
+10/24/2017 - 09:10:30 - aidahdinala - Payment Amount=400 |Stand = 339
+10/24/2017 - 11:10:52 - aidahdinala - Payment Amount=216 |Stand = 703
+10/24/2017 - 12:10:20 - aidahdinala - Payment Amount=200 |Stand = 639
+10/24/2017 - 12:10:33 - talentm - Payment Amount=400 |Stand = 682
+10/24/2017 - 14:10:57 - talentm - Payment Amount=130 |Stand = 32
+10/24/2017 - 14:10:04 - aidahdinala - Payment Amount=400 |Stand = 49
+10/24/2017 - 15:10:56 - yolandak - Payment Amount=110 |Stand = 671

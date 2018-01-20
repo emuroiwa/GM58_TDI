@@ -1,0 +1,18 @@
+08/17/2017 - 08:08:40 - talentm - Deleted All Payment  Cash 300.00 | Stand ID 180 | Description Stand Deposit | Payment Date 2017-05-02 00:00:00
+08/17/2017 - 08:08:31 - talentm - Deleted All Payment  Cash 1544.00 | Stand ID 180 | Description Balance_After_VAT | Payment Date 2017-08-16 12:16:14
+08/17/2017 - 08:08:30 - talentm - Deposit Payment Amount=300 |Stand = 180
+08/17/2017 - 08:08:30 - talentm - Payment Amendement Old Amount=493.00 New Amount 793.00  description='RTGS |Stand = 180
+08/17/2017 - 09:08:28 - talentm - Payment Amount=1346 |Stand = 47
+08/17/2017 - 09:08:42 - talentm - Edited Stand Details Location Northgate Heigths Area 1250.00  Price 15813.00  Deposit '7900.00  Instalments '193.00  months_paid 60      STAND ID 180
+08/17/2017 - 09:08:32 - aidahdinala - Payment Amount=209 |Stand = 431
+08/17/2017 - 11:08:44 - aidahdinala - Payment Amount=0.00 |Stand = 704
+08/17/2017 - 11:08:27 - aidahdinala - Payment Amount=300 |Stand = 216
+08/17/2017 - 12:08:14 - talentm - Payment Amount=200 |Stand = 317
+08/17/2017 - 12:08:59 - talentm - Payment Amount=177 |Stand = 317
+08/17/2017 - 13:08:17 - talentm - Balance Take Up Amount=890 |Stand = 773
+08/17/2017 - 13:08:32 - talentm - Balance Take Up Amount=890 |Stand = 
+08/17/2017 - 13:08:05 - talentm - Edited Stand Details Location Northgate Heigths Area 2789.00  Price 35281 Deposit '5291 Instalments '608 months_paid 60 STAND ID 82
+08/17/2017 - 13:08:38 - talentm - Deposit Payment Amount=5291 |Stand = 82
+08/17/2017 - 13:08:47 - talentm - ADDED SUKOLUHLE RUKETE  CLIENT TO STAND ID 82
+08/17/2017 - 13:08:16 - talentm - Edited Client Details SUKOLUHLE RUKETE  CLIENT TO STAND ID 6430
+08/17/2017 - 13:08:40 - talentm - Edited Stand Details Location Northgate Heigths Area 2789.00  Price 35277.00  Deposit '5291.00  Instalments '608.00  months_paid 60  STAND ID 82

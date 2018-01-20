@@ -1,0 +1,21 @@
+01/05/2018 - 07:01:51 - aidahdinala - Payment Amount=930 |Stand = 725
+01/05/2018 - 10:01:25 - talentm - Payment Amount=252 |Stand = 752
+01/05/2018 - 10:01:23 - aidahdinala - Payment Amount=250 |Stand = 265
+01/05/2018 - 11:01:25 - aidahdinala - Payment Amount=250 |Stand = 265
+01/05/2018 - 11:01:58 - aidahdinala - Payment Amount=378 |Stand = 539
+01/05/2018 - 11:01:57 - aidahdinala - Payment Amount=300 |Stand = 539
+01/05/2018 - 11:01:03 - talentm - Payment Amount=140 |Stand = 593
+01/05/2018 - 11:01:18 - talentm - Payment Amount=434 |Stand = 403
+01/05/2018 - 13:01:12 - aidahdinala - Payment Amount=160 |Stand = 629
+01/05/2018 - 14:01:32 - aidahdinala - Payment Amount=250 |Stand = 10
+01/05/2018 - 14:01:08 - aidahdinala - Payment Amount=70 |Stand = 81
+01/05/2018 - 14:01:27 - talentm - Payment Amount=300 |Stand = 780
+01/05/2018 - 15:01:31 - talentm - Payment Amount=370 |Stand = 738
+01/05/2018 - 15:01:02 - talentm - Payment Amount=225 |Stand = 263
+01/05/2018 - 15:01:45 - talentm - Payment Amount=65 |Stand = 51
+01/05/2018 - 15:01:07 - talentm - Edited Client Details ALICE  MAKANDA  CLIENT TO STAND ID 5988
+01/05/2018 - 15:01:42 - talentm - Payment Amount=250 |Stand = 595
+01/05/2018 - 15:01:55 - talentm - Payment Amount=143 |Stand = 523
+01/05/2018 - 15:01:49 - talentm - Payment Amount=240 |Stand = 498
+01/05/2018 - 15:01:03 - talentm - Payment Amount=200 |Stand = 209
+01/05/2018 - 15:01:38 - talentm - Payment Amount=1000 |Stand = 773

@@ -1,0 +1,16 @@
+09/30/2017 - 08:09:27 - aidahdinala - Payment Amount=148 |Stand = 544
+09/30/2017 - 08:09:58 - aidahdinala - Payment Amount=250 |Stand = 437
+09/30/2017 - 08:09:32 - aidahdinala - Payment Amount=170 |Stand = 740
+09/30/2017 - 09:09:03 - aidahdinala - Payment Amount=200 |Stand = 541
+09/30/2017 - 09:09:43 - aidahdinala - Payment Amount=100 |Stand = 496
+09/30/2017 - 09:09:45 - aidahdinala - Payment Amount=200 |Stand = 496
+09/30/2017 - 09:09:09 - aidahdinala - Payment Amount=120 |Stand = 36
+09/30/2017 - 09:09:40 - aidahdinala - Payment Amount=110 |Stand = 668
+09/30/2017 - 09:09:36 - aidahdinala - Payment Amount=120 |Stand = 741
+09/30/2017 - 09:09:48 - aidahdinala - Payment Amount=150 |Stand = 634
+09/30/2017 - 10:09:49 - aidahdinala - Payment Amount=220 |Stand = 711
+09/30/2017 - 10:09:42 - aidahdinala - Payment Amount=210 |Stand = 434
+09/30/2017 - 10:09:34 - aidahdinala - Payment Amount=150 |Stand = 769
+09/30/2017 - 12:09:51 - aidahdinala - Payment Amount=240 |Stand = 498
+09/30/2017 - 12:09:25 - aidahdinala - Payment Amount=240 |Stand = 498
+09/30/2017 - 12:09:10 - admin - Payment Amendement Old Amount=240.00 New Amount 240.00  description='. |Stand = 138

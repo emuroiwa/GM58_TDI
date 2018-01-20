@@ -1,0 +1,8 @@
+10/23/2017 - 08:10:10 - aidahdinala - Payment Amount=280 |Stand = 250
+10/23/2017 - 10:10:45 - aidahdinala - Payment Amount=160 |Stand = 547
+10/23/2017 - 12:10:37 - aidahdinala - Payment Amount=130 |Stand = 36
+10/23/2017 - 15:10:54 - talentm - Balance Take Up Amount=829 |Stand = 
+10/23/2017 - 15:10:37 - talentm - Edited Stand Details Location Northgate Heigths Area 1285.00  Price 16251.00  Deposit '2366 Instalments ' 282 months_paid 60 STAND ID 220
+10/23/2017 - 15:10:26 - aidahdinala - Deposit Payment Amount=2365 |Stand = 220
+10/23/2017 - 15:10:11 - aidahdinala - ADDED ENERTY MATIMBA  CLIENT TO STAND ID 220
+10/23/2017 - 15:10:57 - aidahdinala - Payment Amount=1000 |Stand = 789

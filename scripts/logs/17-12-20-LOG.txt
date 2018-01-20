@@ -1,0 +1,15 @@
+12/20/2017 - 07:12:14 - aidahdinala - Payment Amount=334 |Stand = 560
+12/20/2017 - 08:12:10 - aidahdinala - Payment Amount=976 |Stand = 411
+12/20/2017 - 08:12:47 - aidahdinala - Payment Amount=193 |Stand = 520
+12/20/2017 - 08:12:16 - aidahdinala - Payment Amount=170 |Stand = 654
+12/20/2017 - 08:12:40 - aidahdinala - Payment Amount=298 |Stand = 520
+12/20/2017 - 08:12:43 - talentm - Payment Amendement Old Amount=976.00 New Amount 976.00  description='.Interest Paid $24.00 |Stand = 631
+12/20/2017 - 08:12:38 - aidahdinala - Payment Amount=292 |Stand = 3
+12/20/2017 - 09:12:21 - aidahdinala - Payment Amount=60 |Stand = 87
+12/20/2017 - 10:12:12 - aidahdinala - Payment Amount=140 |Stand = 37
+12/20/2017 - 10:12:10 - aidahdinala - Payment Amount=210 |Stand = 434
+12/20/2017 - 13:12:10 - aidahdinala - Payment Amount=210 |Stand = 277
+12/20/2017 - 13:12:56 - talentm - Payment Amount=236 |Stand = 217
+12/20/2017 - 13:12:50 - talentm - Payment Amount=108 |Stand = 708
+12/20/2017 - 13:12:02 - talentm - Payment Amount=193 |Stand = 31
+12/20/2017 - 13:12:15 - talentm - Payment Amount=200 |Stand = 209

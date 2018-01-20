@@ -1,0 +1,288 @@
+04/05/2017 - 08:04:59 - talentm - Payment Amount=1000 |Stand = 238
+04/05/2017 - 08:04:34 - talentm - Payment Amendement Old Amount=1000 New Amount 100 |Stand = 94
+04/05/2017 - 08:04:15 - talentm - Payment Amount=100 |Stand = 238
+04/05/2017 - 08:04:53 - talentm - Payment Amount=100 |Stand = 238
+04/05/2017 - 08:04:12 - talentm - Payment Amount=100 |Stand = 238
+04/05/2017 - 08:04:39 - talentm - Payment Amount=100 |Stand = 238
+04/05/2017 - 09:04:04 - talentm - Payment Amount=200 |Stand = 66
+04/05/2017 - 09:04:26 - talentm - Deleted All Payment  Cash 1440 | Stand ID 6 | Description Balance_After_VAT | Payment Date 2016-11-17 10:37:02
+04/05/2017 - 09:04:51 - talentm - Deleted All Payment  Cash 200 | Stand ID 6 | Description Balance_After_VAT | Payment Date 2017-04-05 09:11:04
+04/05/2017 - 09:04:20 - talentm - Balance Take Up AMENDMENT Amount=2300 |Stand = 66
+04/05/2017 - 09:04:20 - talentm - Balance Take Up AMENDMENT Amount=1440 |Stand = 66
+04/05/2017 - 09:04:56 - talentm - Deleted All Payment  Cash 2300 | Stand ID 6 | Description Balance_Before_VAT | Payment Date 2016-11-17 10:37:02
+04/05/2017 - 09:04:57 - talentm - Balance Take Up Amount=2300 |Stand = 66
+04/05/2017 - 09:04:57 - talentm - Balance Take Up Amount=1440 |Stand = 66
+04/05/2017 - 09:04:54 - talentm - Payment Amount=200 |Stand = 66
+04/05/2017 - 09:04:23 - talentm - Payment Amount=120 |Stand = 45
+04/05/2017 - 09:04:58 - talentm - Payment Amount=120 |Stand = 45
+04/05/2017 - 09:04:15 - talentm - Payment Amount=120 |Stand = 45
+04/05/2017 - 09:04:50 - talentm - Payment Amount=4500. |Stand = 45
+04/05/2017 - 09:04:52 - talentm - Deleted All Payment  Cash 2600 | Stand ID 3 | Description Balance_Before_VAT | Payment Date 2016-11-21 16:45:50
+04/05/2017 - 09:04:25 - talentm - Deleted All Payment  Cash 2429 | Stand ID 3 | Description Balance_After_VAT | Payment Date 2016-11-21 16:45:50
+04/05/2017 - 09:04:32 - talentm - Balance Take Up Amount=2600 |Stand = 140
+04/05/2017 - 09:04:32 - talentm - Balance Take Up Amount=2429 |Stand = 140
+04/05/2017 - 09:04:17 - talentm - Payment Amount=120 |Stand = 87
+04/05/2017 - 09:04:03 - talentm - Payment Amount=1314 |Stand = 87
+04/05/2017 - 09:04:39 - talentm - Payment Amount=20 |Stand = 87
+04/05/2017 - 09:04:22 - talentm - Payment Amount=100 |Stand = 87
+04/05/2017 - 10:04:51 - talentm - Payment Amount=60 |Stand = 51
+04/05/2017 - 10:04:55 - talentm - Payment Amount=66 |Stand = 51
+04/05/2017 - 10:04:29 - talentm - Payment Amount=150 |Stand = 51
+04/05/2017 - 10:04:38 - talentm - Payment Amount=210 |Stand = 765
+04/05/2017 - 10:04:05 - talentm - Payment Amount=100 |Stand = 765
+04/05/2017 - 10:04:56 - talentm - Payment Amount=85 |Stand = 93
+04/05/2017 - 10:04:29 - talentm - Payment Amount=120 |Stand = 93
+04/05/2017 - 10:04:49 - talentm - Payment Amount=119 |Stand = 132
+04/05/2017 - 10:04:37 - talentm - Payment Amount=110 |Stand = 132
+04/05/2017 - 10:04:02 - talentm - Payment Amount=240 |Stand = 99
+04/05/2017 - 10:04:37 - talentm - Payment Amount=240 |Stand = 99
+04/05/2017 - 10:04:02 - talentm - Payment Amount=120 |Stand = 99
+04/05/2017 - 10:04:46 - talentm - Payment Amount=120 |Stand = 99
+04/05/2017 - 10:04:40 - talentm - Payment Amount=115 |Stand = 148
+04/05/2017 - 10:04:48 - talentm - Payment Amount=120 |Stand = 107
+04/05/2017 - 10:04:33 - talentm - Payment Amount=120 |Stand = 107
+04/05/2017 - 10:04:03 - talentm - Payment Amount=120 |Stand = 107
+04/05/2017 - 10:04:49 - talentm - Payment Amount=120 |Stand = 107
+04/05/2017 - 10:04:37 - talentm - Payment Amount=80 |Stand = 72
+04/05/2017 - 10:04:32 - talentm - Payment Amount=115 |Stand = 72
+04/05/2017 - 10:04:27 - talentm - Payment Amount=114 |Stand = 72
+04/05/2017 - 10:04:34 - talentm - Payment Amount=120 |Stand = 750
+04/05/2017 - 10:04:04 - talentm - Payment Amount=120. |Stand = 750
+04/05/2017 - 10:04:26 - talentm - Payment Amount=120 |Stand = 750
+04/05/2017 - 11:04:29 - talentm - Payment Amount=100 |Stand = 699
+04/05/2017 - 11:04:09 - talentm - Payment Amount=100 |Stand = 699
+04/05/2017 - 11:04:35 - talentm - Payment Amount=100 |Stand = 699
+04/05/2017 - 11:04:04 - talentm - Payment Amount=100 |Stand = 699
+04/05/2017 - 11:04:35 - talentm - Payment Amount=118 |Stand = 46
+04/05/2017 - 11:04:03 - talentm - Payment Amount=118 |Stand = 46
+04/05/2017 - 11:04:35 - talentm - Payment Amount=118 |Stand = 46
+04/05/2017 - 11:04:00 - talentm - Payment Amount=236 |Stand = 46
+04/05/2017 - 11:04:40 - talentm - Payment Amount=118 |Stand = 784
+04/05/2017 - 11:04:05 - talentm - Payment Amount=118 |Stand = 784
+04/05/2017 - 11:04:30 - talentm - Payment Amount=118 |Stand = 784
+04/05/2017 - 11:04:56 - talentm - Payment Amount=236 |Stand = 784
+04/05/2017 - 11:04:06 - talentm - Payment Amount=118 |Stand = 785
+04/05/2017 - 11:04:31 - talentm - Payment Amount=118 |Stand = 785
+04/05/2017 - 11:04:55 - talentm - Payment Amount=118 |Stand = 785
+04/05/2017 - 11:04:22 - talentm - Payment Amount=236 |Stand = 785
+04/05/2017 - 11:04:18 - talentm - Payment Amount=2100 |Stand = 774
+04/05/2017 - 11:04:27 - talentm - Balance Take Up Amount=2100 |Stand = 
+04/05/2017 - 11:04:38 - talentm - Payment Amount=2700 |Stand = 35
+04/05/2017 - 11:04:25 - talentm - Balance Take Up Amount=2700 |Stand = 
+04/05/2017 - 11:04:16 - talentm - Payment Amount=2950 |Stand = 33
+04/05/2017 - 11:04:55 - talentm - Balance Take Up Amount=2950 |Stand = 
+04/05/2017 - 11:04:34 - talentm - Payment Amount=100 |Stand = 85
+04/05/2017 - 11:04:01 - talentm - Payment Amount=100 |Stand = 85
+04/05/2017 - 11:04:22 - talentm - Payment Amount=100 |Stand = 85
+04/05/2017 - 11:04:43 - talentm - Payment Amount=2700 |Stand = 34
+04/05/2017 - 11:04:01 - talentm - Balance Take Up Amount=2700 |Stand = 
+04/05/2017 - 11:04:09 - talentm - Payment Amount=119 |Stand = 146
+04/05/2017 - 11:04:37 - talentm - Payment Amount=119 |Stand = 146
+04/05/2017 - 11:04:06 - talentm - Payment Amount=119 |Stand = 146
+04/05/2017 - 11:04:36 - talentm - Payment Amount=150 |Stand = 146
+04/05/2017 - 11:04:49 - talentm - Payment Amount=118 |Stand = 88
+04/05/2017 - 11:04:12 - talentm - Payment Amount=118 |Stand = 88
+04/05/2017 - 11:04:35 - talentm - Payment Amount=118 |Stand = 88
+04/05/2017 - 11:04:08 - talentm - Payment Amount=118 |Stand = 88
+04/05/2017 - 11:04:53 - talentm - Payment Amount=145 |Stand = 674
+04/05/2017 - 12:04:29 - talentm - Payment Amount=266 |Stand = 674
+04/05/2017 - 12:04:28 - talentm - Payment Amount=468 |Stand = 106
+04/05/2017 - 12:04:24 - talentm - Payment Amount=140 |Stand = 106
+04/05/2017 - 12:04:29 - talentm - Payment Amount=105 |Stand = 147
+04/05/2017 - 12:04:17 - talentm - Payment Amount=120 |Stand = 147
+04/05/2017 - 12:04:58 - talentm - Payment Amount=950 |Stand = 654
+04/05/2017 - 12:04:12 - talentm - Balance Take Up Amount=950 |Stand = 
+04/05/2017 - 12:04:51 - talentm - Payment Amount=200 |Stand = 143
+04/05/2017 - 12:04:16 - talentm - Payment Amount=130 |Stand = 796
+04/05/2017 - 12:04:57 - talentm - Payment Amount=130 |Stand = 796
+04/05/2017 - 12:04:02 - talentm - Payment Amount=236 |Stand = 145
+04/05/2017 - 12:04:29 - talentm - Payment Amount=118 |Stand = 145
+04/05/2017 - 12:04:15 - talentm - Payment Amount=200 |Stand = 89
+04/05/2017 - 12:04:43 - talentm - Payment Amount=200 |Stand = 89
+04/05/2017 - 12:04:07 - talentm - Payment Amount=200 |Stand = 89
+04/05/2017 - 12:04:49 - talentm - Payment Amount=100 |Stand = 675
+04/05/2017 - 12:04:38 - talentm - Payment Amount=300 |Stand = 675
+04/05/2017 - 13:04:11 - talentm - Payment Amount=120 |Stand = 114
+04/05/2017 - 13:04:49 - talentm - Payment Amount=120 |Stand = 114
+04/05/2017 - 13:04:35 - talentm - Payment Amount=120 |Stand = 114
+04/05/2017 - 13:04:30 - talentm - Payment Amount=240 |Stand = 262
+04/05/2017 - 13:04:01 - talentm - Payment Amount=120 |Stand = 262
+04/05/2017 - 13:04:32 - talentm - Payment Amount=120 |Stand = 262
+04/05/2017 - 13:04:27 - talentm - Deleted All Payment  Cash 5800 | Stand ID 80 | Description Balance_Before_VAT | Payment Date 2016-11-25 11:21:47
+04/05/2017 - 13:04:50 - talentm - Deleted All Payment  Cash 0 | Stand ID 80 | Description Balance_After_VAT | Payment Date 2016-11-25 11:21:47
+04/05/2017 - 13:04:50 - talentm - Balance Take Up Amount=5800 |Stand = 237
+04/05/2017 - 13:04:50 - talentm - Balance Take Up Amount=0 |Stand = 237
+04/05/2017 - 13:04:51 - talentm - Payment Amount=100 |Stand = 237
+04/05/2017 - 13:04:13 - talentm - Payment Amount=200 |Stand = 237
+04/05/2017 - 13:04:26 - talentm - Payment Amount=105 |Stand = 141
+04/05/2017 - 13:04:55 - talentm - Payment Amount=119 |Stand = 135
+04/05/2017 - 13:04:43 - talentm - Payment Amount=111 |Stand = 135
+04/05/2017 - 13:04:10 - talentm - Payment Amount=119 |Stand = 135
+04/05/2017 - 13:04:32 - talentm - Payment Amount=90 |Stand = 135
+04/05/2017 - 13:04:59 - talentm - Payment Amount=29 |Stand = 135
+04/05/2017 - 13:04:34 - talentm - Payment Amount=240 |Stand = 144
+04/05/2017 - 13:04:02 - talentm - Payment Amount=120 |Stand = 144
+04/05/2017 - 15:04:58 - talentm - Payment Amount=160 |Stand = 763
+04/05/2017 - 15:04:37 - talentm - Payment Amount=320 |Stand = 763
+04/05/2017 - 15:04:03 - talentm - Payment Amount=320 |Stand = 763
+04/05/2017 - 15:04:59 - talentm - Payment Amount=200 |Stand = 339
+04/05/2017 - 15:04:23 - talentm - Payment Amount=200 |Stand = 339
+04/05/2017 - 15:04:59 - talentm - Payment Amount=200 |Stand = 339
+04/05/2017 - 15:04:17 - talentm - Payment Amount=180 |Stand = 281
+04/05/2017 - 15:04:49 - talentm - Payment Amount=180 |Stand = 281
+04/05/2017 - 15:04:09 - talentm - Payment Amount=180 |Stand = 281
+04/05/2017 - 15:04:53 - talentm - Payment Amount=180 |Stand = 281
+04/05/2017 - 15:04:16 - talentm - Payment Amount=180 |Stand = 281
+04/05/2017 - 15:04:27 - talentm - Payment Amount=314 |Stand = 549
+04/05/2017 - 15:04:46 - talentm - Payment Amount=157 |Stand = 549
+04/05/2017 - 15:04:05 - talentm - Payment Amount=157 |Stand = 549
+04/05/2017 - 15:04:11 - talentm - Payment Amount=240 |Stand = 83
+04/05/2017 - 15:04:32 - talentm - Payment Amount=240 |Stand = 83
+04/05/2017 - 15:04:55 - talentm - Payment Amount=240 |Stand = 83
+04/05/2017 - 16:04:44 - talentm - Balance Take Up AMENDMENT Amount=1297 |Stand = 371
+04/05/2017 - 16:04:25 - talentm - Payment Amount=212 |Stand = 371
+04/05/2017 - 16:04:59 - talentm - Payment Amount=195 |Stand = 371
+04/05/2017 - 16:04:34 - talentm - Balance Take Up Amount=1670 |Stand = 430
+04/05/2017 - 16:04:46 - talentm - Balance Take Up Amount=1670 |Stand = 
+04/05/2017 - 16:04:43 - talentm - Edited Stand Details Location Northgate Heigths Area 1250  Price 15813  Deposit '2605.79  Instalments '273  months_paid 60 STAND ID 208
+04/05/2017 - 16:04:35 - talentm - Payment Amount=122 |Stand = 96
+04/05/2017 - 16:04:56 - talentm - Payment Amount=140 |Stand = 96
+04/05/2017 - 16:04:28 - talentm - Payment Amount=140 |Stand = 96
+04/05/2017 - 16:04:09 - talentm - Edited Client Details  TSUNGAI CHIHAMURE BETA   CLIENT TO STAND ID 5968
+04/05/2017 - 16:04:34 - talentm - Payment Amount=165 |Stand = 541
+04/05/2017 - 16:04:04 - talentm - Payment Amount=180 |Stand = 541
+04/05/2017 - 16:04:28 - talentm - Payment Amount=170 |Stand = 541
+04/05/2017 - 16:04:31 - talentm - Payment Amount=208 |Stand = 435
+04/05/2017 - 16:04:57 - talentm - Payment Amount=208 |Stand = 435
+04/05/2017 - 16:04:20 - talentm - Payment Amount=208 |Stand = 435
+04/05/2017 - 16:04:06 - talentm - Payment Amount=208 |Stand = 435
+04/05/2017 - 16:04:35 - talentm - Payment Amount=208 |Stand = 435
+04/05/2017 - 16:04:51 - talentm - Payment Amount=130 |Stand = 770
+04/05/2017 - 16:04:16 - talentm - Payment Amount=130 |Stand = 770
+04/05/2017 - 16:04:40 - talentm - Payment Amount=130 |Stand = 770
+04/05/2017 - 16:04:07 - talentm - Payment Amount=130 |Stand = 770
+04/05/2017 - 17:04:32 - talentm - Payment Amount=176 |Stand = 548
+04/05/2017 - 17:04:24 - talentm - Payment Amount=176 |Stand = 548
+04/05/2017 - 17:04:54 - talentm - Payment Amount=176 |Stand = 548
+04/05/2017 - 17:04:22 - talentm - Payment Amount=176 |Stand = 548
+04/05/2017 - 17:04:52 - talentm - Deleted All Payment  Cash 176 | Stand ID 393 | Description Balance_After_VAT | Payment Date 2017-04-05 17:21:22
+04/05/2017 - 17:04:42 - talentm - Payment Amount=176 |Stand = 548
+04/05/2017 - 17:04:40 - talentm - Payment Amount=210 |Stand = 599
+04/05/2017 - 17:04:04 - talentm - Payment Amount=900 |Stand = 570
+04/05/2017 - 17:04:30 - talentm - Payment Amount=170 |Stand = 740
+04/05/2017 - 17:04:59 - talentm - Payment Amount=170 |Stand = 740
+04/05/2017 - 17:04:28 - talentm - Payment Amount=170 |Stand = 740
+04/05/2017 - 17:04:52 - talentm - Payment Amount=150 |Stand = 740
+04/05/2017 - 17:04:20 - talentm - Payment Amount=27 |Stand = 740
+04/05/2017 - 17:04:43 - talentm - Payment Amount=170 |Stand = 740
+04/05/2017 - 17:04:59 - talentm - Payment Amount=180 |Stand = 744
+04/05/2017 - 17:04:24 - talentm - Payment Amount=300 |Stand = 744
+04/05/2017 - 17:04:49 - talentm - Payment Amount=700 |Stand = 744
+04/05/2017 - 17:04:34 - talentm - Payment Amount=326 |Stand = 8
+04/05/2017 - 17:04:03 - talentm - Payment Amount=195 |Stand = 8
+04/05/2017 - 17:04:58 - talentm - Payment Amendement Old Amount=195 New Amount 55 |Stand = 538
+04/05/2017 - 17:04:54 - talentm - Payment Amount=334 |Stand = 7
+04/05/2017 - 17:04:54 - talentm - Payment Amount=334 |Stand = 7
+04/05/2017 - 17:04:41 - talentm - Payment Amount=55 |Stand = 7
+04/05/2017 - 17:04:23 - talentm - Payment Amount=275 |Stand = 101
+04/05/2017 - 17:04:37 - talentm - Payment Amount=110 |Stand = 658
+04/05/2017 - 17:04:55 - talentm - Payment Amount=110 |Stand = 658
+04/05/2017 - 17:04:04 - talentm - Payment Amount=250 |Stand = 658
+04/05/2017 - 17:04:44 - talentm - Payment Amount=80 |Stand = 658
+04/05/2017 - 17:04:25 - talentm - Payment Amount=110 |Stand = 658
+04/05/2017 - 17:04:29 - talentm - Payment Amount=110 |Stand = 653
+04/05/2017 - 17:04:57 - talentm - Payment Amount=110 |Stand = 653
+04/05/2017 - 18:04:22 - talentm - Payment Amount=220 |Stand = 653
+04/05/2017 - 18:04:27 - talentm - Payment Amount=136 |Stand = 246
+04/05/2017 - 18:04:52 - talentm - Payment Amount=136 |Stand = 246
+04/05/2017 - 18:04:16 - talentm - Payment Amount=136 |Stand = 246
+04/05/2017 - 18:04:39 - talentm - Payment Amount=136 |Stand = 246
+04/05/2017 - 18:04:40 - talentm - Payment Amount=434 |Stand = 207
+04/05/2017 - 18:04:06 - talentm - Payment Amount=217 |Stand = 207
+04/05/2017 - 18:04:27 - talentm - Payment Amount=130 |Stand = 207
+04/05/2017 - 18:04:26 - talentm - Payment Amount=280 |Stand = 366
+04/05/2017 - 18:04:51 - talentm - Payment Amount=190 |Stand = 366
+04/05/2017 - 18:04:12 - talentm - Payment Amount=190 |Stand = 366
+04/05/2017 - 18:04:36 - talentm - Payment Amount=190 |Stand = 366
+04/05/2017 - 18:04:05 - talentm - Payment Amount=119 |Stand = 405
+04/05/2017 - 18:04:41 - talentm - Payment Amount=300 |Stand = 547
+04/05/2017 - 18:04:12 - talentm - Payment Amount=150 |Stand = 547
+04/05/2017 - 18:04:35 - talentm - Payment Amount=160 |Stand = 547
+04/05/2017 - 18:04:27 - talentm - Payment Amount=150 |Stand = 547
+04/05/2017 - 18:04:58 - talentm - Payment Amount=132 |Stand = 593
+04/05/2017 - 18:04:23 - talentm - Payment Amount=120 |Stand = 593
+04/05/2017 - 18:04:48 - talentm - Payment Amount=140 |Stand = 593
+04/05/2017 - 18:04:58 - talentm - Payment Amount=150 |Stand = 235
+04/05/2017 - 18:04:38 - talentm - Payment Amount=135 |Stand = 235
+04/05/2017 - 18:04:51 - talentm - Payment Amount=215 |Stand = 125
+04/05/2017 - 18:04:57 - talentm - Payment Amount=400 |Stand = 529
+04/05/2017 - 18:04:21 - talentm - Payment Amount=380 |Stand = 529
+04/05/2017 - 18:04:22 - talentm - Payment Amount=400 |Stand = 288
+04/05/2017 - 18:04:46 - talentm - Payment Amount=210 |Stand = 288
+04/05/2017 - 18:04:20 - talentm - Payment Amount=200 |Stand = 288
+04/05/2017 - 18:04:31 - talentm - Payment Amount=210 |Stand = 288
+04/05/2017 - 18:04:07 - talentm - Payment Amount=120 |Stand = 259
+04/05/2017 - 18:04:39 - talentm - Payment Amount=800 |Stand = 259
+04/05/2017 - 18:04:04 - talentm - Payment Amount=140 |Stand = 259
+04/05/2017 - 18:04:35 - talentm - Payment Amount=120 |Stand = 259
+04/05/2017 - 18:04:55 - talentm - Payment Amount=120 |Stand = 259
+04/05/2017 - 18:04:55 - talentm - Payment Amount=600 |Stand = 19
+04/05/2017 - 18:04:17 - talentm - Payment Amount=175 |Stand = 641
+04/05/2017 - 18:04:48 - talentm - Payment Amount=90 |Stand = 641
+04/05/2017 - 18:04:12 - talentm - Payment Amount=175 |Stand = 641
+04/05/2017 - 18:04:19 - talentm - Payment Amount=175 |Stand = 713
+04/05/2017 - 18:04:08 - talentm - Payment Amount=90 |Stand = 713
+04/05/2017 - 18:04:56 - talentm - Payment Amount=175 |Stand = 713
+04/05/2017 - 18:04:18 - talentm - Payment Amount=434 |Stand = 393
+04/05/2017 - 18:04:53 - talentm - Payment Amount=434 |Stand = 393
+04/05/2017 - 19:04:06 - talentm - Payment Amount=240 |Stand = 498
+04/05/2017 - 19:04:10 - talentm - Payment Amount=224 |Stand = 498
+04/05/2017 - 19:04:55 - talentm - Payment Amount=240 |Stand = 498
+04/05/2017 - 19:04:17 - talentm - Payment Amount=240 |Stand = 498
+04/05/2017 - 19:04:03 - talentm - Payment Amount=240 |Stand = 498
+04/05/2017 - 19:04:52 - talentm - Deleted All Payment  Cash 240 | Stand ID 138 | Description Balance_After_VAT | Payment Date 2017-04-05 19:03:03
+04/05/2017 - 19:04:13 - talentm - Payment Amount=240 |Stand = 498
+04/05/2017 - 19:04:36 - talentm - Payment Amount=130 |Stand = 702
+04/05/2017 - 19:04:03 - talentm - Payment Amount=130 |Stand = 702
+04/05/2017 - 19:04:58 - talentm - Payment Amount=130 |Stand = 702
+04/05/2017 - 19:04:41 - talentm - Payment Amount=130 |Stand = 702
+04/05/2017 - 19:04:53 - talentm - Payment Amount=208 |Stand = 473
+04/05/2017 - 19:04:50 - talentm - Payment Amount=139 |Stand = 577
+04/05/2017 - 19:04:30 - talentm - Payment Amount=121 |Stand = 577
+04/05/2017 - 19:04:02 - talentm - Payment Amount=139 |Stand = 577
+04/05/2017 - 19:04:50 - talentm - Payment Amount=651 |Stand = 208
+04/05/2017 - 19:04:21 - talentm - Payment Amount=217 |Stand = 208
+04/05/2017 - 19:04:37 - talentm - Payment Amount=506 |Stand = 314
+04/05/2017 - 19:04:05 - talentm - Payment Amount=1441 |Stand = 283
+04/05/2017 - 19:04:07 - talentm - Payment Amount=150 |Stand = 536
+04/05/2017 - 19:04:31 - talentm - Payment Amount=150 |Stand = 536
+04/05/2017 - 19:04:56 - talentm - Payment Amount=150 |Stand = 536
+04/05/2017 - 19:04:09 - talentm - Payment Amount=54 |Stand = 67
+04/05/2017 - 19:04:33 - talentm - Payment Amount=150 |Stand = 67
+04/05/2017 - 19:04:00 - talentm - Payment Amount=200 |Stand = 67
+04/05/2017 - 19:04:23 - talentm - Payment Amount=100 |Stand = 67
+04/05/2017 - 19:04:33 - talentm - Payment Amount=65 |Stand = 662
+04/05/2017 - 19:04:58 - talentm - Payment Amount=55 |Stand = 662
+04/05/2017 - 19:04:23 - talentm - Payment Amount=55 |Stand = 662
+04/05/2017 - 19:04:48 - talentm - Payment Amount=70 |Stand = 662
+04/05/2017 - 19:04:13 - talentm - Payment Amount=120 |Stand = 662
+04/05/2017 - 19:04:53 - talentm - Payment Amount=223 |Stand = 310
+04/05/2017 - 19:04:20 - talentm - Payment Amount=223 |Stand = 310
+04/05/2017 - 19:04:42 - talentm - Payment Amount=223 |Stand = 310
+04/05/2017 - 19:04:37 - talentm - Payment Amount=455 |Stand = 333
+04/05/2017 - 19:04:04 - talentm - Payment Amount=350 |Stand = 333
+04/05/2017 - 19:04:29 - talentm - Payment Amount=400 |Stand = 333
+04/05/2017 - 19:04:37 - talentm - Payment Amount=1200 |Stand = 624
+04/05/2017 - 19:04:31 - talentm - Payment Amount=325 |Stand = 226
+04/05/2017 - 19:04:57 - talentm - Payment Amount=300 |Stand = 226
+04/05/2017 - 19:04:30 - talentm - Payment Amount=208 |Stand = 762
+04/05/2017 - 19:04:49 - talentm - Payment Amount=416 |Stand = 503
+04/05/2017 - 19:04:20 - talentm - Payment Amount=416 |Stand = 503
+04/05/2017 - 19:04:24 - talentm - Deleted All Payment  Cash 360 | Stand ID 234 | Description Balance_After_VAT | Payment Date 2017-03-14 10:27:25
+04/05/2017 - 19:04:38 - talentm - Deleted All Payment  Cash 400 | Stand ID 234 | Description Balance_After_VAT | Payment Date 2017-03-14 10:25:47
+04/05/2017 - 19:04:56 - talentm - Balance Take Up Amount=0 |Stand = 
+04/05/2017 - 19:04:56 - talentm - Deposit Payment Amount=5040 |Stand = 234
+04/05/2017 - 19:04:23 - talentm - Deposit Payment Amount=400 |Stand = 234
+04/05/2017 - 19:04:49 - talentm - Deposit Payment Amount=360 |Stand = 234
+04/05/2017 - 19:04:17 - talentm - Deposit Payment Amount=300 |Stand = 234
+04/05/2017 - 19:04:44 - talentm - Deposit Payment Amount=100 |Stand = 234

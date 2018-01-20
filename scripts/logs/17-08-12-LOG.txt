@@ -1,0 +1,8 @@
+08/12/2017 - 10:08:51 - aidahdinala - Payment Amount=500 |Stand = 494
+08/12/2017 - 10:08:35 - talentm - Payment Amount=1300 |Stand = 501
+08/12/2017 - 10:08:32 - aidahdinala - Payment Amount=200 |Stand = 27
+08/12/2017 - 11:08:18 - aidahdinala - Payment Amount=350 |Stand = 7
+08/12/2017 - 11:08:11 - aidahdinala - Payment Amount=350 |Stand = 8
+08/12/2017 - 11:08:01 - aidahdinala - Payment Amount=119 |Stand = 132
+08/12/2017 - 12:08:48 - aidahdinala - Payment Amount=437 |Stand = 769
+08/12/2017 - 12:08:46 - aidahdinala - Payment Amount=300 |Stand = 274

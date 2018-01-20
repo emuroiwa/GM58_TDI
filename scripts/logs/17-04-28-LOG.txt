@@ -1,0 +1,50 @@
+04/28/2017 - 08:04:45 - aidahdinala - Payment Amount=385 |Stand = 93
+04/28/2017 - 10:04:08 - YOLANDAK - Payment Amount=137 |Stand = 64
+04/28/2017 - 10:04:54 - YOLANDAK - Payment Amount=140 |Stand = 665
+04/28/2017 - 11:04:38 - aidahdinala - Payment Amount=144 |Stand = 544
+04/28/2017 - 11:04:56 - talentm - Edited Stand Details Location Northgate Heigths Area 1000.00  Price 12650.00  Deposit '500.00  Instalments '109.00  months_paid 144  STAND ID 300
+04/28/2017 - 12:04:13 - aidahdinala - Payment Amount=300 |Stand = 389
+04/28/2017 - 12:04:11 - aidahdinala - Payment Amount=217 |Stand = 208
+04/28/2017 - 13:04:12 - aidahdinala - Payment Amount=120 |Stand = 575
+04/28/2017 - 14:04:20 - yolandak - Payment Amount=119 |Stand = 146
+04/28/2017 - 14:04:38 - yolandak - Payment Amount=250 |Stand = 405
+04/28/2017 - 14:04:25 - yolandak - Payment Amount=120 |Stand = 147
+04/28/2017 - 15:04:08 - yolandak - Payment Amount=112 |Stand = 604
+04/28/2017 - 15:04:11 - talentm - Payment Amount=200 |Stand = 371
+04/28/2017 - 15:04:41 - talentm - Payment Amount=124 |Stand = 672
+04/28/2017 - 15:04:52 - talentm - Deposit Payment Amount=200 |Stand = 252
+04/28/2017 - 15:04:35 - talentm - Payment Amount=115 |Stand = 148
+04/28/2017 - 15:04:25 - talentm - Payment Amount=200 |Stand = 840
+04/28/2017 - 15:04:24 - talentm - Payment Amount=210 |Stand = 296
+04/28/2017 - 16:04:14 - aidahdinala - Payment Amount=300 |Stand = 58
+04/28/2017 - 16:04:00 - admin - Deposit Payment Amount=200 |Stand = 234
+04/28/2017 - 16:04:30 - admin - Deposit Payment Amount=200 |Stand = 234
+04/28/2017 - 16:04:25 - aidahdinala - Payment Amount=160 |Stand = 521
+04/28/2017 - 16:04:08 - talentm - Payment Amendement Old Amount=2856.00 New Amount 2640 |Stand = 454
+04/28/2017 - 17:04:49 - talentm - Payment Amount=330 |Stand = 325
+04/28/2017 - 17:04:58 - talentm - Payment Amount=252 |Stand = 752
+04/28/2017 - 17:04:55 - talentm - Payment Amount=140 |Stand = 110
+04/28/2017 - 17:04:55 - talentm - Payment Amount=200 |Stand = 268
+04/28/2017 - 17:04:07 - talentm - Payment Amount=500 |Stand = 756
+04/28/2017 - 17:04:17 - talentm - Payment Amount=225 |Stand = 263
+04/28/2017 - 17:04:58 - talentm - Payment Amount=200 |Stand = 336
+04/28/2017 - 17:04:04 - talentm - Payment Amount=185 |Stand = 738
+04/28/2017 - 17:04:07 - talentm - Payment Amount=210 |Stand = 226
+04/28/2017 - 17:04:22 - talentm - Payment Amount=108 |Stand = 708
+04/28/2017 - 17:04:24 - talentm - Payment Amount=100 |Stand = 620
+04/28/2017 - 17:04:52 - talentm - Deleted All Payment  Cash 100.00 | Stand ID 371 | Description Balance_After_VAT | Payment Date 2017-04-28 17:43:24
+04/28/2017 - 17:04:04 - talentm - Payment Amount=800 |Stand = 529
+04/28/2017 - 17:04:15 - talentm - Payment Amount=334 |Stand = 597
+04/28/2017 - 17:04:06 - talentm - Payment Amount=130 |Stand = 748
+04/28/2017 - 17:04:09 - talentm - Payment Amount=150 |Stand = 956
+04/28/2017 - 17:04:40 - talentm - Payment Amount=139 |Stand = 577
+04/28/2017 - 18:04:33 - talentm - Payment Amount=250 |Stand = 95
+04/28/2017 - 18:04:13 - talentm - Payment Amount=500 |Stand = 475
+04/28/2017 - 18:04:06 - talentm - Payment Amount=162 |Stand = 586
+04/28/2017 - 18:04:19 - talentm - Payment Amount=200 |Stand = 626
+04/28/2017 - 18:04:40 - talentm - Payment Amount=320 |Stand = 576
+04/28/2017 - 18:04:37 - talentm - Payment Amount=360 |Stand = 538
+04/28/2017 - 18:04:01 - talentm - Payment Amount=140 |Stand = 249
+04/28/2017 - 18:04:33 - talentm - Payment Amount=208 |Stand = 91
+04/28/2017 - 18:04:31 - talentm - Payment Amount=157 |Stand = 543
+04/28/2017 - 18:04:30 - talentm - Payment Amount=130 |Stand = 796

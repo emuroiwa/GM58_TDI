@@ -1,0 +1,8 @@
+10/05/2017 - 08:10:41 - yolandak - Payment Amount=160 |Stand = 618
+10/05/2017 - 08:10:51 - yolandak - Payment Amount=160 |Stand = 102
+10/05/2017 - 10:10:48 - yolandak - Payment Amount=130 |Stand = 637
+10/05/2017 - 11:10:45 - yolandak - Payment Amount=140 |Stand = 37
+10/05/2017 - 13:10:35 - yolandak - Payment Amount=120 |Stand = 733
+10/05/2017 - 13:10:29 - yolandak - Payment Amount=215 |Stand = 727
+10/05/2017 - 15:10:20 - yolandak - Payment Amount=328 |Stand = 10
+10/05/2017 - 15:10:31 - aidahdinala - Payment Amount=120 |Stand = 662

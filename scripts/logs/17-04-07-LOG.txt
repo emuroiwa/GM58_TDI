@@ -1,0 +1,138 @@
+04/07/2017 - 09:04:55 - talentm - Deleted User  Name Aidah | Surname  DinalaSibanda | email aidahdinala@tdi.co.zw 
+04/07/2017 - 09:04:54 - talentm - Deleted User  Name Yolanda | Surname  Kurebgaseka | email yolandak@tdi.co.zw 
+04/07/2017 - 09:04:10 - talentm - Payment Amount=200 |Stand = 53
+04/07/2017 - 10:04:32 - talentm - Payment Amount=100 |Stand = 90
+04/07/2017 - 10:04:22 - talentm - Payment Amount=275 |Stand = 276
+04/07/2017 - 10:04:49 - talentm - Payment Amount=120 |Stand = 750
+04/07/2017 - 10:04:24 - talentm - Payment Amount=246 |Stand = 246
+04/07/2017 - 10:04:43 - talentm - Payment Amount=125 |Stand = 106
+04/07/2017 - 11:04:55 - talentm - Payment Amount=135 |Stand = 718
+04/07/2017 - 11:04:39 - talentm - Payment Amount=130 |Stand = 139
+04/07/2017 - 11:04:05 - talentm - Payment Amount=140 |Stand = 96
+04/07/2017 - 11:04:44 - talentm - Payment Amount=160 |Stand = 607
+04/07/2017 - 11:04:34 - talentm - Payment Amount=250 |Stand = 278
+04/07/2017 - 11:04:38 - talentm - Payment Amount=418 |Stand = 256
+04/07/2017 - 11:04:05 - talentm - Payment Amount=130 |Stand = 139
+04/07/2017 - 11:04:28 - talentm - Payment Amount=176 |Stand = 548
+04/07/2017 - 11:04:15 - talentm - Payment Amount=336 |Stand = 415
+04/07/2017 - 11:04:00 - talentm - Payment Amount=350 |Stand = 794
+04/07/2017 - 11:04:17 - talentm - Payment Amount=29 |Stand = 135
+04/07/2017 - 11:04:12 - talentm - Payment Amount=162 |Stand = 586
+04/07/2017 - 11:04:22 - talentm - Payment Amount=150 |Stand = 536
+04/07/2017 - 11:04:29 - talentm - Payment Amount=140 |Stand = 249
+04/07/2017 - 11:04:41 - talentm - Payment Amount=185 |Stand = 294
+04/07/2017 - 11:04:30 - talentm - Payment Amount=200 |Stand = 585
+04/07/2017 - 11:04:23 - talentm - Payment Amount=290 |Stand = 42
+04/07/2017 - 11:04:19 - talentm - Payment Amount=100 |Stand = 67
+04/07/2017 - 11:04:41 - talentm - Payment Amount=2 |Stand = 49
+04/07/2017 - 11:04:10 - talentm - Deleted All Payment  Cash 2.00 | Stand ID 254 | Description Balance_After_VAT | Payment Date 2017-04-07 11:53:41
+04/07/2017 - 12:04:06 - talentm - Payment Amount=193 |Stand = 28
+04/07/2017 - 12:04:47 - talentm - Payment Amount=120 |Stand = 747
+04/07/2017 - 12:04:30 - talentm - Payment Amount=140 |Stand = 765
+04/07/2017 - 12:04:10 - talentm - Payment Amount=120 |Stand = 593
+04/07/2017 - 12:04:54 - talentm - Payment Amount=200 |Stand = 50
+04/07/2017 - 12:04:32 - talentm - Payment Amount=157 |Stand = 549
+04/07/2017 - 12:04:32 - talentm - Payment Amount=300 |Stand = 543
+04/07/2017 - 12:04:16 - talentm - Payment Amount=192 |Stand = 843
+04/07/2017 - 12:04:58 - talentm - Payment Amount=130 |Stand = 748
+04/07/2017 - 12:04:29 - talentm - Payment Amount=220 |Stand = 716
+04/07/2017 - 12:04:08 - talentm - Payment Amount=300 |Stand = 730
+04/07/2017 - 12:04:11 - talentm - Payment Amount=223 |Stand = 310
+04/07/2017 - 12:04:37 - talentm - Payment Amount=619 |Stand = 619
+04/07/2017 - 12:04:11 - talentm - Deleted All Payment  Cash 619.00 | Stand ID 382 | Description Balance_After_VAT | Payment Date 2017-04-07 12:19:37
+04/07/2017 - 12:04:45 - talentm - Payment Amount=200 |Stand = 619
+04/07/2017 - 12:04:47 - talentm - Payment Amount=208 |Stand = 761
+04/07/2017 - 12:04:34 - talentm - Payment Amount=167 |Stand = 564
+04/07/2017 - 12:04:22 - talentm - Payment Amount=200 |Stand = 82
+04/07/2017 - 12:04:28 - talentm - Payment Amount=280 |Stand = 512
+04/07/2017 - 12:04:57 - talentm - Edited Stand Details Location Northgate Heigths Area 1250.00  Price 15813.00  Deposit '2372.00  Instalments '273.00  months_paid 60  STAND ID 216
+04/07/2017 - 12:04:14 - talentm - Payment Amount=192 |Stand = 38
+04/07/2017 - 12:04:28 - talentm - Payment Amount=120 |Stand = 750
+04/07/2017 - 12:04:10 - talentm - Deleted All Payment  Cash 120.00 | Stand ID 85 | Description Balance_After_VAT | Payment Date 2017-04-07 12:28:28
+04/07/2017 - 12:04:53 - talentm - Payment Amount=120 |Stand = 750
+04/07/2017 - 12:04:48 - talentm - Payment Amount=130 |Stand = 702
+04/07/2017 - 12:04:35 - talentm - Payment Amount=230 |Stand = 375
+04/07/2017 - 12:04:38 - talentm - Payment Amount=103 |Stand = 643
+04/07/2017 - 12:04:51 - talentm - Payment Amount=180 |Stand = 623
+04/07/2017 - 12:04:55 - talentm - Payment Amount=120 |Stand = 106
+04/07/2017 - 12:04:39 - talentm - Payment Amount=198 |Stand = 54
+04/07/2017 - 12:04:32 - talentm - Payment Amount=61 |Stand = 51
+04/07/2017 - 12:04:32 - talentm - Payment Amount=200 |Stand = 53
+04/07/2017 - 12:04:51 - talentm - Payment Amount=295 |Stand = 383
+04/07/2017 - 12:04:52 - talentm - Payment Amount=156 |Stand = 546
+04/07/2017 - 12:04:50 - talentm - Payment Amount=112 |Stand = 591
+04/07/2017 - 12:04:42 - talentm - Payment Amount=250 |Stand = 276
+04/07/2017 - 12:04:42 - talentm - Payment Amount=196 |Stand = 97
+04/07/2017 - 12:04:28 - talentm - Payment Amount=50 |Stand = 609
+04/07/2017 - 12:04:18 - talentm - Payment Amount=200 |Stand = 209
+04/07/2017 - 12:04:26 - talentm - Payment Amount=179 |Stand = 691
+04/07/2017 - 12:04:36 - talentm - Payment Amount=189 |Stand = 347
+04/07/2017 - 12:04:33 - talentm - Payment Amount=340 |Stand = 682
+04/07/2017 - 12:04:46 - talentm - Payment Amount=208 |Stand = 435
+04/07/2017 - 12:04:43 - talentm - Payment Amount=210 |Stand = 407
+04/07/2017 - 12:04:20 - talentm - Payment Amount=40 |Stand = 592
+04/07/2017 - 12:04:04 - talentm - Payment Amount=167 |Stand = 728
+04/07/2017 - 13:04:12 - talentm - Payment Amount=220 |Stand = 599
+04/07/2017 - 13:04:17 - talentm - Payment Amount=300 |Stand = 304
+04/07/2017 - 13:04:23 - talentm - Payment Amount=167 |Stand = 560
+04/07/2017 - 13:04:18 - talentm - Payment Amount=240 |Stand = 498
+04/07/2017 - 13:04:22 - talentm - Payment Amount=120 |Stand = 107
+04/07/2017 - 13:04:01 - talentm - Edited Client Details FUNGAI MATURURE  CLIENT TO STAND ID 6200
+04/07/2017 - 13:04:45 - talentm - Edited Client Details BONGANI  BHEBHE   CLIENT TO STAND ID 5927
+04/07/2017 - 13:04:24 - talentm - Payment Amount=120 |Stand = 107
+04/07/2017 - 13:04:44 - talentm - Payment Amount=500 |Stand = 333
+04/07/2017 - 13:04:13 - talentm - Payment Amount=200 |Stand = 840
+04/07/2017 - 13:04:26 - talentm - Payment Amount=339 |Stand = 257
+04/07/2017 - 13:04:14 - talentm - Payment Amount=190 |Stand = 541
+04/07/2017 - 13:04:36 - talentm - Payment Amount=210 |Stand = 296
+04/07/2017 - 13:04:15 - talentm - Payment Amount=208 |Stand = 754
+04/07/2017 - 13:04:17 - talentm - Payment Amount=167 |Stand = 522
+04/07/2017 - 13:04:41 - talentm - Payment Amount=200 |Stand = 234
+04/07/2017 - 13:04:43 - talentm - ADDED JESTER MAGWENZI  CLIENT TO STAND ID 148
+04/07/2017 - 13:04:06 - talentm - Payment Amount=832 |Stand = 427
+04/07/2017 - 13:04:08 - talentm - Payment Amount=192 |Stand = 342
+04/07/2017 - 13:04:16 - talentm - Payment Amount=165 |Stand = 786
+04/07/2017 - 13:04:05 - talentm - Payment Amount=100 |Stand = 766
+04/07/2017 - 13:04:39 - talentm - Payment Amount=100 |Stand = 767
+04/07/2017 - 15:04:36 - talentm - Payment Amount=185 |Stand = 738
+04/07/2017 - 16:04:37 - talentm - Payment Amount=218 |Stand = 671
+04/07/2017 - 16:04:02 - talentm - Payment Amount=200 |Stand = 499
+04/07/2017 - 16:04:50 - talentm - Payment Amount=500 |Stand = 140
+04/07/2017 - 16:04:58 - talentm - Payment Amount=660 |Stand = 280
+04/07/2017 - 16:04:43 - talentm - Payment Amount=300 |Stand = 291
+04/07/2017 - 16:04:19 - talentm - Payment Amount=252 |Stand = 752
+04/07/2017 - 16:04:19 - talentm - Payment Amount=208 |Stand = 762
+04/07/2017 - 16:04:15 - talentm - Payment Amount=217 |Stand = 393
+04/07/2017 - 16:04:04 - talentm - Payment Amount=300 |Stand = 226
+04/07/2017 - 16:04:25 - talentm - Payment Amount=225 |Stand = 263
+04/07/2017 - 16:04:11 - talentm - Payment Amount=310 |Stand = 217
+04/07/2017 - 16:04:40 - talentm - Payment Amount=200 |Stand = 268
+04/07/2017 - 16:04:23 - talentm - Payment Amount=177 |Stand = 635
+04/07/2017 - 16:04:08 - talentm - Payment Amount=208 |Stand = 743
+04/07/2017 - 16:04:46 - talentm - Payment Amount=160 |Stand = 521
+04/07/2017 - 16:04:15 - talentm - Payment Amount=120 |Stand = 259
+04/07/2017 - 16:04:14 - talentm - Payment Amount=620 |Stand = 286
+04/07/2017 - 16:04:03 - talentm - Payment Amount=208 |Stand = 503
+04/07/2017 - 16:04:06 - talentm - Payment Amount=100 |Stand = 766
+04/07/2017 - 16:04:49 - talentm - Payment Amount=100 |Stand = 767
+04/07/2017 - 16:04:48 - talentm - Payment Amount=334 |Stand = 335
+04/07/2017 - 16:04:46 - talentm - Payment Amount=140 |Stand = 110
+04/07/2017 - 16:04:25 - talentm - Payment Amount=300 |Stand = 110
+04/07/2017 - 16:04:06 - talentm - Payment Amount=217 |Stand = 403
+04/07/2017 - 16:04:50 - talentm - Payment Amount=400 |Stand = 280
+04/07/2017 - 16:04:35 - talentm - Payment Amount=250 |Stand = 140
+04/07/2017 - 16:04:36 - talentm - Payment Amount=334 |Stand = 606
+04/07/2017 - 16:04:21 - talentm - Deleted All Payment  Cash 218.00 | Stand ID 158 | Description Balance_After_VAT | Payment Date 2017-04-07 16:09:37
+04/07/2017 - 16:04:57 - talentm - Payment Amount=218 |Stand = 671
+04/07/2017 - 16:04:44 - talentm - Payment Amount=229 |Stand = 41
+04/07/2017 - 17:04:31 - talentm - Payment Amount=209 |Stand = 494
+04/07/2017 - 17:04:24 - talentm - Payment Amount=1979 |Stand = 342
+04/07/2017 - 17:04:58 - talentm - Payment Amount=42 |Stand = 639
+04/07/2017 - 17:04:21 - talentm - Deleted All Payment  Cash 200.00 | Stand ID 382 | Description Balance_After_VAT | Payment Date 2017-04-07 12:20:45
+04/07/2017 - 17:04:12 - talentm - Payment Amount=70 |Stand = 619
+04/07/2017 - 17:04:22 - talentm - Payment Amount=95 |Stand = 624
+04/07/2017 - 17:04:44 - talentm - Add New Stand Location 'Northgate Heigths | number=721 |area=851 | Price=10766 |deposit=1837 |  =180 |months=60 
+04/07/2017 - 17:04:23 - talentm - Deposit Payment Amount=1837 |Stand = 669
+04/07/2017 - 17:04:36 - talentm - Deleted All Payment  Cash 266.00 | Stand ID 75 | Description Balance_After_VAT | Payment Date 2017-04-05 12:00:29
+04/07/2017 - 17:04:26 - talentm - Payment Amount=266 |Stand = 674
+04/07/2017 - 17:04:05 - talentm - Payment Amount=115 |Stand = 148

@@ -1,0 +1,12 @@
+04/20/2017 - 09:04:39 - yolandak - Payment Amount=0.00 |Stand = 274
+04/20/2017 - 10:04:08 - aidahdinala - Payment Amount=200 |Stand = 218
+04/20/2017 - 11:04:35 - aidahdinala - Payment Amount=248 |Stand = 677
+04/20/2017 - 12:04:51 - talentm - Balance Take Up Amount=2487 |Stand = 27
+04/20/2017 - 12:04:54 - talentm - Balance Take Up Amount=2487 |Stand = 
+04/20/2017 - 13:04:17 - talentm - Edited Stand Details Location Northgate Heigths Area 1250.00  Price 15813 Deposit '7900 Instalments '193  months_paid 48 STAND ID 252
+04/20/2017 - 13:04:27 - aidahdinala - Payment Amount=108 |Stand = 712
+04/20/2017 - 13:04:25 - aidahdinala - Edited Client Details PATIENCE  MUTANDA  CLIENT TO STAND ID 451
+04/20/2017 - 13:04:27 - talentm - Edited Client Details ELIZABETH  MUTEMACHANI  CLIENT TO STAND ID 6253
+04/20/2017 - 14:04:38 - talentm - ADDED TSITSI MANDIYA  CLIENT TO STAND ID 339
+04/20/2017 - 16:04:29 - aidahdinala - Payment Amount=100 |Stand = 649
+04/20/2017 - 16:04:57 - aidahdinala - Edited Client Details HILDA MOYO  CLIENT TO STAND ID 6322

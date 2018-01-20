@@ -1,0 +1,8 @@
+11/11/2017 - 07:11:52 - yolandak - Payment Amount=250 |Stand = 265
+11/11/2017 - 07:11:22 - yolandak - Payment Amount=640 |Stand = 763
+11/11/2017 - 08:11:02 - talentm - Payment Amount=400 |Stand = 840
+11/11/2017 - 08:11:40 - talentm - Payment Amount=125 |Stand = 672
+11/11/2017 - 08:11:33 - talentm - Payment Amount=210 |Stand = 296
+11/11/2017 - 08:11:55 - talentm - Payment Amount=160 |Stand = 615
+11/11/2017 - 09:11:48 - yolandak - Payment Amount=976 |Stand = 61
+11/11/2017 - 10:11:24 - yolandak - Payment Amount=160 |Stand = 607

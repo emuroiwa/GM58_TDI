@@ -1,0 +1,9 @@
+07/24/2017 - 09:07:22 - yolandak - Payment Amount=540 |Stand = 101
+07/24/2017 - 09:07:34 - yolandak - Payment Amount=335 |Stand = 101
+07/24/2017 - 11:07:47 - talentm - Add New Stand Location 'Northgate Heigths | number=932 |area=3467.37 | Price=24272.00 |deposit=6300.00 |  =514.00 |months=40 
+07/24/2017 - 11:07:15 - talentm - Deposit Payment Amount=6300 |Stand = 671
+07/24/2017 - 11:07:38 - talentm - ADDED LEAH  CHIDYAUSIKU  CLIENT TO STAND ID 671
+07/24/2017 - 13:07:28 - yolandak - Payment Amount=260 |Stand = 218
+07/24/2017 - 14:07:50 - talentm - Edited Stand Details Location Northgate Heigths Area 3467.37  Price 24272.00  Deposit '6300.00  Instalments '514.00  months_paid 40  STAND ID 671
+07/24/2017 - 15:07:10 - yolandak - Payment Amount=208 |Stand = 749
+07/24/2017 - 17:07:15 - talentm - Edited Client Details JOYCE SIBANDA  CLIENT TO STAND ID 469

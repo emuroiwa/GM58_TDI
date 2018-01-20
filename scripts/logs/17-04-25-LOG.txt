@@ -1,0 +1,104 @@
+04/25/2017 - 08:04:16 - YOLANDAK - Payment Amount=167 |Stand = 582
+04/25/2017 - 09:04:55 - talentm - Balance Take Up Amount=0 |Stand = 334
+04/25/2017 - 09:04:55 - talentm - Balance Take Up Amount=1920 |Stand = 334
+04/25/2017 - 09:04:35 - talentm - Balance Take Up AMENDMENT Amount=0 |Stand = 334
+04/25/2017 - 09:04:35 - talentm - Balance Take Up AMENDMENT Amount=1920 |Stand = 334
+04/25/2017 - 10:04:08 - talentm - Balance Take Up Amount=2470 |Stand = 108
+04/25/2017 - 10:04:09 - talentm - Balance Take Up Amount=1098 |Stand = 108
+04/25/2017 - 10:04:31 - talentm - Balance Take Up Amount=1116 |Stand = 687
+04/25/2017 - 10:04:37 - talentm - Edited Stand Details Location Northgate Heigths Area 1550.00  Price 19608 Deposit '500.00  Instalments '162.00  months_paid 144  STAND ID 196
+04/25/2017 - 10:04:50 - talentm - Balance Take Up Amount=1812 |Stand = 779
+04/25/2017 - 10:04:50 - talentm - Balance Take Up Amount=0 |Stand = 779
+04/25/2017 - 10:04:50 - aidahdinala - Payment Amount=216 |Stand = 703
+04/25/2017 - 10:04:10 - talentm - Balance Take Up Amount=600 |Stand = 269
+04/25/2017 - 10:04:10 - talentm - Balance Take Up Amount=1350 |Stand = 269
+04/25/2017 - 11:04:37 - talentm - Balance Take Up Amount=2618 |Stand = 253
+04/25/2017 - 11:04:37 - talentm - Balance Take Up Amount=0 |Stand = 253
+04/25/2017 - 11:04:24 - talentm - Edited Client Details KUDZAISHE  NAYOTO  CLIENT TO STAND ID 559
+04/25/2017 - 11:04:38 - talentm - Balance Take Up Amount=4178 |Stand = 572
+04/25/2017 - 11:04:38 - talentm - Balance Take Up Amount=0 |Stand = 572
+04/25/2017 - 11:04:12 - aidahdinala - Payment Amount=200 |Stand = 339
+04/25/2017 - 11:04:50 - talentm - Balance Take Up Amount=5090 |Stand = 6
+04/25/2017 - 11:04:50 - talentm - Balance Take Up Amount=2110 |Stand = 6
+04/25/2017 - 11:04:59 - talentm - Balance Take Up Amount=2100 |Stand = 119
+04/25/2017 - 11:04:59 - talentm - Balance Take Up Amount=1000 |Stand = 119
+04/25/2017 - 12:04:51 - aidahdinala - Payment Amount=137 |Stand = 757
+04/25/2017 - 12:04:02 - talentm - Edited Stand Details Location Northgate Heigths Area 1000.00  Price 12650  Deposit '6325  Instalments '103.00  months_paid 124  STAND ID 101
+04/25/2017 - 12:04:36 - talentm - Balance Take Up Amount=386.9 |Stand = 679
+04/25/2017 - 12:04:01 - aidahdinala - Payment Amount=1000 |Stand = 395
+04/25/2017 - 12:04:53 - talentm - Balance Take Up Amount=2000 |Stand = 130
+04/25/2017 - 12:04:53 - talentm - Balance Take Up Amount=580 |Stand = 130
+04/25/2017 - 13:04:39 - talentm - Balance Take Up Amount=816 |Stand = 626
+04/25/2017 - 13:04:01 - talentm - Balance Take Up Amount=1800 |Stand = 124
+04/25/2017 - 13:04:01 - talentm - Balance Take Up Amount=586 |Stand = 124
+04/25/2017 - 13:04:16 - talentm - Balance Take Up Amount=2556 |Stand = 657
+04/25/2017 - 13:04:16 - talentm - Balance Take Up Amount=0 |Stand = 657
+04/25/2017 - 13:04:05 - talentm - Balance Take Up Amount=720 |Stand = 786
+04/25/2017 - 13:04:05 - talentm - Balance Take Up Amount=330 |Stand = 786
+04/25/2017 - 13:04:24 - talentm - Edited Stand Details Location Northgate Heigths Area 1550.00  Price 19608 Deposit '500.00  Instalments '162.00  months_paid 144  STAND ID 185
+04/25/2017 - 13:04:30 - talentm - Deleted All Payment  Cash 165.00 | Stand ID 185 | Description Balance_After_VAT | Payment Date 2017-04-07 13:43:16
+04/25/2017 - 13:04:40 - talentm - Payment Amount=165 |Stand = 786
+04/25/2017 - 13:04:48 - aidahdinala - Payment Amount=118 |Stand = 784
+04/25/2017 - 13:04:26 - aidahdinala - Payment Amount=118 |Stand = 46
+04/25/2017 - 13:04:36 - talentm - Balance Take Up Amount=2448 |Stand = 736
+04/25/2017 - 13:04:36 - talentm - Balance Take Up Amount=0 |Stand = 736
+04/25/2017 - 13:04:16 - aidahdinala - Payment Amount=118 |Stand = 785
+04/25/2017 - 13:04:39 - talentm - Edited Stand Details Location Northgate Heigths Area 1000.00  Price 12650  Deposit '500.00  Instalments '103.00  months_paid 144  STAND ID 344
+04/25/2017 - 13:04:48 - talentm - Payment Amendement Old Amount=1265.00 New Amount 700 |Stand = 368
+04/25/2017 - 13:04:50 - talentm - Balance Take Up Amount=1310 |Stand = 780
+04/25/2017 - 13:04:50 - talentm - Balance Take Up Amount=3110 |Stand = 780
+04/25/2017 - 13:04:08 - talentm - Edited Stand Details Location Northgate Heigths Area 1550.00  Price 19608  Deposit '500.00  Instalments '198.00  months_paid 144  STAND ID 165
+04/25/2017 - 14:04:37 - talentm - Balance Take Up Amount=4052 |Stand = 853
+04/25/2017 - 14:04:16 - talentm - Balance Take Up Amount=3726 |Stand = 116
+04/25/2017 - 14:04:16 - talentm - Balance Take Up Amount=0 |Stand = 116
+04/25/2017 - 14:04:03 - talentm - Balance Take Up Amount=2600 |Stand = 43
+04/25/2017 - 14:04:03 - talentm - Balance Take Up Amount=1658 |Stand = 43
+04/25/2017 - 14:04:44 - aidahdinala - Payment Amount=434 |Stand = 393
+04/25/2017 - 14:04:11 - talentm - Payment Amount=100 |Stand = 70
+04/25/2017 - 14:04:39 - talentm - Edited Stand Details Location Northgate Heigths Area 1250.00  Price 13750.00  Deposit '500.00  Instalments '100.00  months_paid 144  STAND ID 77
+04/25/2017 - 14:04:39 - talentm - Payment Amount=100 |Stand = 70
+04/25/2017 - 14:04:43 - talentm - Balance Take Up Amount=200 |Stand = 
+04/25/2017 - 14:04:31 - talentm - Edited Stand Details Location Northgate Heigths Area 1250.00  Price 15813  Deposit '7900  Instalments '193  months_paid 48  STAND ID 77
+04/25/2017 - 14:04:06 - aidahdinala - Payment Amount=200 |Stand = 709
+04/25/2017 - 14:04:03 - talentm - Deposit Payment Amount=1000 |Stand = 77
+04/25/2017 - 14:04:06 - talentm - ADDED ODERT CHIKEREMA  CLIENT TO STAND ID 77
+04/25/2017 - 14:04:27 - aidahdinala - Payment Amount=8 |Stand = 709
+04/25/2017 - 14:04:45 - talentm - Balance Take Up Amount=3001 |Stand = 555
+04/25/2017 - 14:04:45 - talentm - Balance Take Up Amount=600 |Stand = 555
+04/25/2017 - 14:04:03 - aidahdinala - Payment Amount=2 |Stand = 709
+04/25/2017 - 15:04:36 - talentm - Balance Take Up Amount=4875 |Stand = 737
+04/25/2017 - 15:04:36 - talentm - Balance Take Up Amount=0 |Stand = 737
+04/25/2017 - 15:04:20 - talentm - Edited Stand Details Location Northgate Heigths Area 1480.00  Price 18722  Deposit '500.00  Instalments '154.00  months_paid 144  STAND ID 200
+04/25/2017 - 15:04:09 - talentm - Edited Client Details SIMBARASHE MUNYORO  CLIENT TO STAND ID 255
+04/25/2017 - 15:04:03 - talentm - Balance Take Up Amount=2200 |Stand = 111
+04/25/2017 - 15:04:03 - talentm - Balance Take Up Amount=1744 |Stand = 111
+04/25/2017 - 15:04:07 - talentm - Edited Client Details BALOYI TILLMAN  CLIENT TO STAND ID 262
+04/25/2017 - 15:04:09 - talentm - Balance Take Up Amount=870 |Stand = 319
+04/25/2017 - 15:04:21 - talentm - Payment Amount=65 |Stand = 319
+04/25/2017 - 15:04:44 - talentm - Balance Take Up Amount=994 |Stand = 258
+04/25/2017 - 15:04:44 - talentm - Balance Take Up Amount=5240 |Stand = 258
+04/25/2017 - 15:04:45 - talentm - Balance Take Up Amount=1305 |Stand = 545
+04/25/2017 - 15:04:45 - talentm - Balance Take Up Amount=3279 |Stand = 545
+04/25/2017 - 15:04:01 - talentm - Balance Take Up Amount=2520 |Stand = 55
+04/25/2017 - 15:04:01 - talentm - Balance Take Up Amount=450 |Stand = 55
+04/25/2017 - 15:04:34 - talentm - Balance Take Up Amount=3150 |Stand = 102
+04/25/2017 - 15:04:34 - talentm - Balance Take Up Amount=2760 |Stand = 102
+04/25/2017 - 15:04:23 - talentm - Balance Take Up AMENDMENT Amount=3150 |Stand = 102
+04/25/2017 - 15:04:23 - talentm - Balance Take Up AMENDMENT Amount=2760 |Stand = 102
+04/25/2017 - 15:04:24 - talentm - Balance Take Up Amount=0 |Stand = 
+04/25/2017 - 15:04:45 - talentm - Edited Stand Details Location Northgate Heigths Area 1250.00  Price 15813.00  Deposit '4000.00  Instalments '229.00  months_paid 60 STAND ID 106
+04/25/2017 - 15:04:16 - talentm - Deposit Payment Amount=4000 |Stand = 106
+04/25/2017 - 15:04:13 - talentm - Payment Amount=230 |Stand = 136
+04/25/2017 - 15:04:16 - talentm - ADDED TECLAR CHIYANGWA  CLIENT TO STAND ID 106
+04/25/2017 - 16:04:59 - talentm - Balance Take Up Amount=570 |Stand = 206
+04/25/2017 - 16:04:59 - talentm - Balance Take Up Amount=2943 |Stand = 206
+04/25/2017 - 16:04:56 - talentm - Balance Take Up Amount=2200 |Stand = 267
+04/25/2017 - 16:04:56 - talentm - Balance Take Up Amount=2500 |Stand = 267
+04/25/2017 - 16:04:56 - talentm - Balance Take Up Amount=2600 |Stand = 73
+04/25/2017 - 16:04:56 - talentm - Balance Take Up Amount=0 |Stand = 73
+04/25/2017 - 16:04:42 - talentm - Edited Stand Details Location Northgate Heigths Area 1723.00  Price 21795 Deposit '500.00  Instalments '120.00  months_paid 144  STAND ID 13
+04/25/2017 - 16:04:11 - talentm - Payment Amount=167 |Stand = 352
+04/25/2017 - 16:04:21 - talentm - Edited Stand Details Location Northgate Heigths Area 1150.00  Price 14548.00  Deposit '2434.00  Instalments '234.00  months_paid 84  STAND ID 529
+04/25/2017 - 16:04:25 - talentm - Balance Take Up AMENDMENT Amount=3006 |Stand = 739
+04/25/2017 - 16:04:25 - talentm - Balance Take Up AMENDMENT Amount=0 |Stand = 739
+04/25/2017 - 16:04:36 - talentm - Balance Take Up Amount=2612 |Stand = 131

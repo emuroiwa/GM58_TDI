@@ -1,0 +1,4 @@
+05/03/2017 - 10:05:22 - aidahdinala - Payment Amount=212 |Stand = 237
+05/03/2017 - 12:05:12 - aidahdinala - Payment Amount=255 |Stand = 265
+05/03/2017 - 12:05:14 - aidahdinala - Payment Amount=176 |Stand = 548
+05/03/2017 - 14:05:47 - aidahdinala - Payment Amount=120 |Stand = 99

@@ -1,0 +1,15 @@
+07/05/2017 - 09:07:26 - talentm - Payment Amount=150 |Stand = 86
+07/05/2017 - 09:07:04 - talentm - Payment Amount=250 |Stand = 437
+07/05/2017 - 10:07:16 - talentm - Payment Amount=1190 |Stand = 362
+07/05/2017 - 10:07:53 - talentm - Edited Stand Details Location Northgate Heigths Area 1125.00  Price 14232.00  Deposit '6445.00  Instalments '181.00  months_paid 84   STAND ID 528
+07/05/2017 - 10:07:22 - talentm - Deleted All Payment  Cash 1190.00 | Stand ID 528 | Description Balance_After_VAT | Payment Date 2017-07-05 10:06:16
+07/05/2017 - 10:07:12 - talentm - Payment Amount=1144 |Stand = 362
+07/05/2017 - 11:07:19 - talentm - Payment Amount=200 |Stand = 50
+07/05/2017 - 11:07:35 - talentm - Payment Amount=400 |Stand = 232
+07/05/2017 - 11:07:02 - talentm - Payment Amount=1225 |Stand = 362
+07/05/2017 - 12:07:18 - talentm - Payment Amount=167 |Stand = 654
+07/05/2017 - 12:07:49 - talentm - Payment Amount=684 |Stand = 733
+07/05/2017 - 13:07:15 - talentm - Payment Amount=363 |Stand = 234
+07/05/2017 - 13:07:33 - talentm - Payment Amount=416 |Stand = 503
+07/05/2017 - 13:07:39 - talentm - Payment Amount=210 |Stand = 128
+07/05/2017 - 15:07:49 - talentm - Payment Amount=300 |Stand = 391

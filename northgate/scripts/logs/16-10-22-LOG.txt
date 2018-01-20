@@ -1,0 +1,30 @@
+10/22/2016 - 07:10:37 - admin - Payment Amount=1000 |Stand = 113
+10/22/2016 - 12:10:04 - aidahdinala - Created New Location phase 3
+10/22/2016 - 12:10:04 - beulah - Created New Location Northvile
+10/22/2016 - 12:10:27 - yolanda - Created New Location northgates
+10/22/2016 - 12:10:29 - aidahdinala - Add New Stand Location 'phase 3 | number=78 |area=1250 | Price=15813 |deposit=2300 |  =200 |months=48 
+10/22/2016 - 12:10:11 - beulah - Add New Stand Location 'Northgate Heigths | number=888 |area=2000 | Price=16000 |deposit=1600 |  =125 |months=120 
+10/22/2016 - 12:10:16 - yolanda - Add New Stand Location 'Northgate Heigths | number=1000 |area=1000 | Price=12650 |deposit=2700 |  =273 |months=48 
+10/22/2016 - 12:10:01 - beulah - Deposit Payment Amount=1200 |Stand = 666
+10/22/2016 - 12:10:03 - aidahdinala - Deposit Payment Amount=1000 |Stand = 669
+10/22/2016 - 12:10:05 - aidahdinala - Deposit Payment Amount=1000 |Stand = 669
+10/22/2016 - 13:10:16 - admin - Deposit Payment Amount=80 |Stand = 669
+10/22/2016 - 13:10:49 - admin - Deposit Payment Amount=620 |Stand = 669
+10/22/2016 - 13:10:41 - yolanda - Interest Required for stand 544
+10/22/2016 - 13:10:41 - yolanda - Interest Required for stand 544
+10/22/2016 - 13:10:24 - admin - Balance Take Up Amount=2500 |Stand = 66
+10/22/2016 - 13:10:25 - admin - Balance Take Up Amount=9000 |Stand = 66
+10/22/2016 - 13:10:52 - admin - Balance Take Up Amount=2300 |Stand = 144
+10/22/2016 - 13:10:53 - admin - Balance Take Up Amount=2470 |Stand = 144
+10/22/2016 - 13:10:50 - admin - Balance Take Up Amount=6100 |Stand = 216
+10/22/2016 - 13:10:52 - admin - Interest Required for stand 103
+10/22/2016 - 13:10:46 - admin - Interest Payment Amount=208 |Stand = 103
+10/22/2016 - 14:10:18 - admin - Payment Amount=800 |Stand = 103
+10/22/2016 - 14:10:11 - yolanda - Payment Amount=800 |Stand = 216
+10/22/2016 - 14:10:36 - admin - Interest Required for stand 105
+10/22/2016 - 14:10:32 - admin - Interest Payment Amount=118 |Stand = 105
+10/22/2016 - 14:10:11 - admin - Payment Amount=56 |Stand = 105
+10/22/2016 - 14:10:59 - admin - Balance Take Up Amount=1080 |Stand = 
+10/22/2016 - 14:10:33 - admin - Deleted All Payment  Cash 800 | Stand ID 564 | Description Balance_After_VAT | Payment Date 2016-10-22 14:11:11
+10/22/2016 - 14:10:39 - admin - Deleted All Payment  Cash 6100 | Stand ID 564 | Description Balance Take Up | Payment Date 2016-10-22 13:50:50
+10/22/2016 - 14:10:23 - admin - Deleted All Payment  Cash  | Stand ID  | Description  | Payment Date 

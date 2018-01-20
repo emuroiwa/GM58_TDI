@@ -1,0 +1,47 @@
+03/18/2017 - 09:03:15 - talentm - Balance Take Up Amount=2467 |Stand = 874
+03/18/2017 - 09:03:54 - talentm - Payment Amount=208 |Stand = 874
+03/18/2017 - 09:03:22 - talentm - Edited Client Details ITAYI  CHIKOWORE  CLIENT TO STAND ID 6271
+03/18/2017 - 09:03:44 - talentm - Balance Take Up Amount=1105 |Stand = 300
+03/18/2017 - 09:03:44 - talentm - Balance Take Up Amount=6899.7 |Stand = 300
+03/18/2017 - 09:03:27 - talentm - Payment Amount=200 |Stand = 300
+03/18/2017 - 09:03:19 - talentm - Payment Amount=400 |Stand = 300
+03/18/2017 - 09:03:31 - talentm - Balance Take Up AMENDMENT Amount=4994 |Stand = 429
+03/18/2017 - 09:03:33 - talentm - Balance Take Up AMENDMENT Amount=2900 |Stand = 65
+03/18/2017 - 09:03:51 - talentm - Balance Take Up AMENDMENT Amount=10870 |Stand = 682
+03/18/2017 - 09:03:12 - talentm - Payment Amount=293 |Stand = 682
+03/18/2017 - 09:03:36 - talentm - Balance Take Up AMENDMENT Amount=2299 |Stand = 431
+03/18/2017 - 09:03:16 - talentm - Payment Amount=209 |Stand = 431
+03/18/2017 - 09:03:41 - talentm - Deposit Payment Amount=100 |Stand = 179
+03/18/2017 - 09:03:38 - talentm - Deposit Payment Amount=100 |Stand = 179
+03/18/2017 - 09:03:46 - talentm - Deposit Payment Amount=1400 |Stand = 179
+03/18/2017 - 09:03:49 - talentm - Payment Amount=100 |Stand = 60
+03/18/2017 - 09:03:45 - talentm - Payment Amount=3000 |Stand = 60
+03/18/2017 - 09:03:47 - talentm - Payment Amount=200 |Stand = 60
+03/18/2017 - 09:03:47 - talentm - Edited Stand Details Location Northgate Heigths Area 1250  Price 15813  Deposit '7900  Instalments '193   months_paid 48   STAND ID 179
+03/18/2017 - 09:03:04 - talentm - Balance Take Up AMENDMENT Amount=2772 |Stand = 286
+03/18/2017 - 09:03:04 - talentm - Balance Take Up AMENDMENT Amount=5119 |Stand = 286
+03/18/2017 - 09:03:37 - talentm - Balance Take Up AMENDMENT Amount=2772 |Stand = 286
+03/18/2017 - 09:03:37 - talentm - Balance Take Up AMENDMENT Amount=5099 |Stand = 286
+03/18/2017 - 09:03:57 - talentm - Payment Amount=200 |Stand = 286
+03/18/2017 - 09:03:59 - talentm - Payment Amount=200 |Stand = 286
+03/18/2017 - 09:03:16 - talentm - Payment Amendement Old Amount=5099 New Amount 4699 |Stand = 546
+03/18/2017 - 09:03:59 - talentm - Balance Take Up AMENDMENT Amount=2088 |Stand = 317
+03/18/2017 - 09:03:59 - talentm - Balance Take Up AMENDMENT Amount=4862 |Stand = 317
+03/18/2017 - 10:03:19 - talentm - Balance Take Up AMENDMENT Amount=5405 |Stand = 617
+03/18/2017 - 10:03:19 - talentm - Balance Take Up AMENDMENT Amount=679 |Stand = 617
+03/18/2017 - 10:03:52 - talentm - Balance Take Up AMENDMENT Amount=2600 |Stand = 245
+03/18/2017 - 10:03:52 - talentm - Balance Take Up AMENDMENT Amount=2580 |Stand = 245
+03/18/2017 - 10:03:37 - talentm - Balance Take Up AMENDMENT Amount=2248 |Stand = 245
+03/18/2017 - 10:03:37 - talentm - Balance Take Up AMENDMENT Amount=2580 |Stand = 245
+03/18/2017 - 10:03:47 - talentm - Payment Amendement Old Amount=2600 New Amount 2248 |Stand = 191
+03/18/2017 - 10:03:39 - talentm - Payment Amount=40 |Stand = 245
+03/18/2017 - 10:03:41 - talentm - Balance Take Up AMENDMENT Amount=4294 |Stand = 640
+03/18/2017 - 10:03:41 - talentm - Balance Take Up AMENDMENT Amount=313 |Stand = 640
+03/18/2017 - 10:03:34 - talentm - Payment Amount=82 |Stand = 640
+03/18/2017 - 10:03:26 - talentm - Payment Amount=103 |Stand = 640
+03/18/2017 - 10:03:22 - talentm - Balance Take Up AMENDMENT Amount=491.78 |Stand = 365
+03/18/2017 - 10:03:22 - talentm - Balance Take Up AMENDMENT Amount=3325.01 |Stand = 365
+03/18/2017 - 10:03:59 - talentm - Balance Take Up AMENDMENT Amount=6666 |Stand = 59
+03/18/2017 - 10:03:45 - talentm - Payment Amount=202 |Stand = 59
+03/18/2017 - 10:03:20 - talentm - Payment Amount=202 |Stand = 59
+03/18/2017 - 10:03:11 - talentm - Balance Take Up AMENDMENT Amount=1643 |Stand = 838

@@ -1,0 +1,15 @@
+12/15/2017 - 07:12:16 - aidahdinala - Payment Amount=208 |Stand = 754
+12/15/2017 - 07:12:25 - aidahdinala - Payment Amount=140 |Stand = 644
+12/15/2017 - 07:12:17 - aidahdinala - Payment Amount=2 |Stand = 644
+12/15/2017 - 07:12:39 - aidahdinala - Payment Amount=274 |Stand = 754
+12/15/2017 - 08:12:46 - aidahdinala - Payment Amount=600 |Stand = 780
+12/15/2017 - 08:12:17 - aidahdinala - Payment Amount=110 |Stand = 668
+12/15/2017 - 08:12:37 - aidahdinala - Payment Amount=350 |Stand = 780
+12/15/2017 - 09:12:51 - aidahdinala - Payment Amount=380 |Stand = 599
+12/15/2017 - 10:12:50 - aidahdinala - Payment Amount=295 |Stand = 207
+12/15/2017 - 12:12:50 - aidahdinala - Payment Amount=4978 |Stand = 269
+12/15/2017 - 12:12:28 - talentm - Deleted All Payment  Cash 4978.00 | Stand ID 503 | Description Balance_After_VAT | Payment Date 2017-12-15 13:24:50
+12/15/2017 - 12:12:21 - aidahdinala - Payment Amount=4078 |Stand = 269
+12/15/2017 - 13:12:17 - aidahdinala - Payment Amount=300 |Stand = 599
+12/15/2017 - 15:12:15 - aidahdinala - Payment Amount=175 |Stand = 641
+12/15/2017 - 15:12:22 - aidahdinala - Payment Amount=624 |Stand = 410

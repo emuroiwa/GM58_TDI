@@ -1,0 +1,12 @@
+07/25/2016 - 20:07:16 - talentm - Deposit Payment Amount=2277 |Stand = 564
+07/25/2016 - 20:07:17 - talentm - ADDED Selephi Sibanda  CLIENT TO STAND ID 564
+07/25/2016 - 20:07:51 - talentm - Balance Take Up Amount=10000 |Stand = 216
+07/25/2016 - 20:07:22 - talentm - Balance Take Up AMENDMENT Amount=10600 |Stand = 216
+07/25/2016 - 20:07:50 - talentm - Balance Take Up Amount=1087.55 |Stand = 525
+07/25/2016 - 20:07:43 - talentm - Balance Take Up Amount=1669 |Stand = 287
+07/25/2016 - 20:07:43 - talentm - Balance Take Up Amount=2397 |Stand = 287
+07/25/2016 - 20:07:17 - talentm - Deleted All Payment  Cash 1669 | Stand ID 550 | Description Balance_Before_VAT | Payment Date 2016-07-25 20:19:43
+07/25/2016 - 20:07:28 - talentm - Deleted All Payment  Cash 2397 | Stand ID 550 | Description Balance_After_VAT | Payment Date 2016-07-25 20:19:43
+07/25/2016 - 20:07:38 - talentm - Balance Take Up Amount=1269 |Stand = 287
+07/25/2016 - 20:07:38 - talentm - Balance Take Up Amount=5597 |Stand = 287
+07/25/2016 - 20:07:36 - talentm - Edited Stand Details Location Northgate Heigths Area 1250  Price 15813  Deposit '1375  Instalments '199  months_paid 84 STAND ID 550

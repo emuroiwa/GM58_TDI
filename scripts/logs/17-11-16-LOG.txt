@@ -1,0 +1,9 @@
+11/16/2017 - 07:11:59 - aidahdinala - Deposit Payment Amount=3350 |Stand = 596
+11/16/2017 - 07:11:26 - aidahdinala - Payment Amount=1150 |Stand = 509
+11/16/2017 - 07:11:24 - talentm - Edited Stand Details Location Northgate Heigths Area 1250.00  Price 15813.00  Deposit '7900.00  Instalments '193.00  months_paid 48  STAND ID 596
+11/16/2017 - 10:11:16 - aidahdinala - Payment Amount=400 |Stand = 65
+11/16/2017 - 11:11:56 - talentm - Add New Stand Location 'Northgate Heigths | number=423 |area=1250 | Price=15813 |deposit=2372 |  =273 |months=60 
+11/16/2017 - 11:11:47 - aidahdinala - Deposit Payment Amount=2372 |Stand = 675
+11/16/2017 - 11:11:01 - aidahdinala - Edited Client Details BETTY IPISANI  CLIENT TO STAND ID 6461
+11/16/2017 - 11:11:44 - talentm - Edited Stand Details Location Northgate Heigths Area 1250.00  Price 15813.00  Deposit '2372.00  Instalments '273.00  months_paid 60  STAND ID 675
+11/16/2017 - 11:11:05 - talentm - Payment Amendement Old Amount=2372.00 New Amount 2376.00  description='. |Stand = 675

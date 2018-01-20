@@ -1,0 +1,6 @@
+07/19/2016 - 15:07:51 - talentm - Balance Take Up Amount=2512 |Stand = 549
+07/19/2016 - 15:07:03 - talentm - Balance Take Up AMENDMENT Amount=3335 |Stand = 549
+07/19/2016 - 15:07:47 - talentm - Balance Take Up AMENDMENT Amount=2512 |Stand = 549
+07/19/2016 - 15:07:18 - talentm - Payment Amount=3335 |Stand = 549
+07/19/2016 - 16:07:04 - talentm - Balance Take Up Amount=1336 |Stand = 256
+07/19/2016 - 16:07:04 - talentm - Balance Take Up Amount=4210 |Stand = 256

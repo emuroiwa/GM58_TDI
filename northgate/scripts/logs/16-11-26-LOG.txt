@@ -1,0 +1,31 @@
+11/26/2016 - 08:11:07 - talentm - Balance Take Up AMENDMENT Amount=5824 |Stand = 435
+11/26/2016 - 08:11:18 - talentm - Balance Take Up AMENDMENT Amount=3002 |Stand = 770
+11/26/2016 - 08:11:18 - talentm - Balance Take Up AMENDMENT Amount=2743 |Stand = 770
+11/26/2016 - 08:11:01 - talentm - Balance Take Up AMENDMENT Amount=3002 |Stand = 770
+11/26/2016 - 08:11:01 - talentm - Balance Take Up AMENDMENT Amount=2713 |Stand = 770
+11/26/2016 - 09:11:14 - talentm - Balance Take Up Amount=3480 |Stand = 548
+11/26/2016 - 09:11:14 - talentm - Balance Take Up Amount=4021 |Stand = 548
+11/26/2016 - 09:11:00 - talentm - Edited Stand Details Location Northgate Heigths Area 1000  Price 12650 Deposit '1100  Instalments '176  months_paid 84  STAND ID 393
+11/26/2016 - 09:11:45 - talentm - Balance Take Up AMENDMENT Amount=3480 |Stand = 548
+11/26/2016 - 09:11:45 - talentm - Balance Take Up AMENDMENT Amount=3845 |Stand = 548
+11/26/2016 - 09:11:17 - talentm - Balance Take Up AMENDMENT Amount=3594 |Stand = 599
+11/26/2016 - 09:11:35 - talentm - Balance Take Up AMENDMENT Amount=3594 |Stand = 599
+11/26/2016 - 09:11:44 - talentm - Balance Take Up Amount=2531 |Stand = 570
+11/26/2016 - 09:11:44 - talentm - Balance Take Up Amount=3443 |Stand = 570
+11/26/2016 - 13:11:58 - talentm - Balance Take Up AMENDMENT Amount=1868 |Stand = 740
+11/26/2016 - 13:11:31 - talentm - Balance Take Up Amount=3012 |Stand = 698
+11/26/2016 - 13:11:31 - talentm - Balance Take Up Amount=918 |Stand = 698
+11/26/2016 - 13:11:47 - talentm - Edited Stand Details Location Northgate Heigths Area 1000  Price 12650 Deposit '500  Instalments '106  months_paid 144  STAND ID 126
+11/26/2016 - 13:11:38 - talentm - Balance Take Up Amount=2230 |Stand = 744
+11/26/2016 - 13:11:39 - talentm - Balance Take Up Amount=2411 |Stand = 744
+11/26/2016 - 14:11:25 - talentm - Balance Take Up Amount=1455 |Stand = 8
+11/26/2016 - 14:11:25 - talentm - Balance Take Up Amount=8463 |Stand = 8
+11/26/2016 - 14:11:30 - talentm - Balance Take Up Amount=1164 |Stand = 7
+11/26/2016 - 14:11:30 - talentm - Balance Take Up Amount=9003 |Stand = 7
+11/26/2016 - 14:11:24 - talentm - Balance Take Up Amount=1710 |Stand = 101
+11/26/2016 - 14:11:23 - talentm - Balance Take Up Amount=2170 |Stand = 658
+11/26/2016 - 14:11:24 - talentm - Balance Take Up Amount=120 |Stand = 658
+11/26/2016 - 14:11:10 - talentm - Balance Take Up AMENDMENT Amount=2170 |Stand = 658
+11/26/2016 - 14:11:10 - talentm - Balance Take Up AMENDMENT Amount=2551 |Stand = 658
+11/26/2016 - 14:11:51 - talentm - Balance Take Up AMENDMENT Amount=2170 |Stand = 658
+11/26/2016 - 14:11:51 - talentm - Balance Take Up AMENDMENT Amount=2441 |Stand = 658

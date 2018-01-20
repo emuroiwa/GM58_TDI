@@ -1,0 +1,6 @@
+06/14/2017 - 10:06:29 - aidahdinala - Payment Amount=107 |Stand = 673
+06/14/2017 - 13:06:33 - talentm - Payment Amount=1000 |Stand = 197
+06/14/2017 - 13:06:05 - aidahdinala - Payment Amount=139 |Stand = 689
+06/14/2017 - 14:06:15 - talentm - Payment Amount=426 |Stand = 257
+06/14/2017 - 14:06:47 - talentm - Payment Amount=350 |Stand = 333
+06/14/2017 - 14:06:37 - talentm - Payment Amount=229 |Stand = 41

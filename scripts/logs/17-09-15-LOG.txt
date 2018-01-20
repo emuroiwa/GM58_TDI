@@ -1,0 +1,6 @@
+09/15/2017 - 09:09:59 - aidahdinala - Payment Amount=400 |Stand = 65
+09/15/2017 - 12:09:26 - aidahdinala - Payment Amount=28 |Stand = 208
+09/15/2017 - 13:09:33 - talentm - Deposit Payment Amount=0 |Stand = 614
+09/15/2017 - 13:09:18 - talentm - Payment Amount=1650 |Stand = 725
+09/15/2017 - 13:09:05 - aidahdinala - Payment Amount=250 |Stand = 725
+09/15/2017 - 14:09:05 - aidahdinala - Payment Amount=100 |Stand = 699

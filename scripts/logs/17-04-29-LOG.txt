@@ -1,0 +1,10 @@
+04/29/2017 - 08:04:25 - aidahdinala - Payment Amount=130 |Stand = 658
+04/29/2017 - 08:04:05 - aidahdinala - Payment Amount=110 |Stand = 664
+04/29/2017 - 08:04:49 - aidahdinala - Payment Amount=208 |Stand = 711
+04/29/2017 - 08:04:34 - aidahdinala - Payment Amount=250 |Stand = 437
+04/29/2017 - 09:04:43 - aidahdinala - Payment Amount=300 |Stand = 63
+04/29/2017 - 10:04:49 - aidahdinala - Payment Amount=300 |Stand = 216
+04/29/2017 - 10:04:34 - aidahdinala - Payment Amount=160 |Stand = 615
+04/29/2017 - 11:04:30 - aidahdinala - Payment Amount=120 |Stand = 741
+04/29/2017 - 11:04:31 - aidahdinala - Payment Amount=120 |Stand = 662
+04/29/2017 - 12:04:24 - aidahdinala - Payment Amount=240 |Stand = 87

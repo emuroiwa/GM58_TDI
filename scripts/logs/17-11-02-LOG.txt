@@ -1,0 +1,9 @@
+11/02/2017 - 08:11:19 - aidahdinala - Payment Amount=160 |Stand = 102
+11/02/2017 - 08:11:28 - aidahdinala - Payment Amount=150 |Stand = 568
+11/02/2017 - 09:11:19 - aidahdinala - Payment Amount=208 |Stand = 754
+11/02/2017 - 10:11:42 - aidahdinala - Payment Amount=110 |Stand = 735
+11/02/2017 - 11:11:09 - aidahdinala - Payment Amount=200 |Stand = 47
+11/02/2017 - 14:11:35 - aidahdinala - Payment Amount=120 |Stand = 769
+11/02/2017 - 14:11:31 - aidahdinala - Payment Amount=190 |Stand = 347
+11/02/2017 - 15:11:01 - aidahdinala - Payment Amount=1500 |Stand = 762
+11/02/2017 - 15:11:51 - aidahdinala - Payment Amount=480 |Stand = 83

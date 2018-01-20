@@ -1,0 +1,3 @@
+11/04/2017 - 08:11:29 - yolandak - Payment Amount=200 |Stand = 63
+11/04/2017 - 10:11:55 - aidahdinala - Payment Amount=314 |Stand = 549
+11/04/2017 - 10:11:57 - aidahdinala - Payment Amount=334 |Stand = 597

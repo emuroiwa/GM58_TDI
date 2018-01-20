@@ -1,0 +1,37 @@
+07/25/2017 - 12:07:58 - talentm - Payment Amount=434 |Stand = 393
+07/25/2017 - 12:07:00 - talentm - Payment Amount=137 |Stand = 757
+07/25/2017 - 13:07:08 - admin - Deposit Payment Amount=500 |Stand = 323
+07/25/2017 - 13:07:42 - admin - Deposit Payment Amount=263 |Stand = 323
+07/25/2017 - 13:07:31 - admin - Deposit Payment Amount=200 |Stand = 323
+07/25/2017 - 13:07:03 - admin - Deposit Payment Amount=200 |Stand = 323
+07/25/2017 - 13:07:32 - admin - Deposit Payment Amount=280 |Stand = 323
+07/25/2017 - 13:07:59 - admin - Deposit Payment Amount=398 |Stand = 323
+07/25/2017 - 13:07:23 - admin - Deposit Payment Amount=200 |Stand = 323
+07/25/2017 - 13:07:52 - admin - Deposit Payment Amount=200 |Stand = 323
+07/25/2017 - 13:07:25 - admin - Deposit Payment Amount=260 |Stand = 323
+07/25/2017 - 13:07:52 - admin - Deposit Payment Amount=200 |Stand = 323
+07/25/2017 - 13:07:22 - admin - Deposit Payment Amount=100 |Stand = 323
+07/25/2017 - 13:07:57 - admin - Deposit Payment Amount=273 |Stand = 323
+07/25/2017 - 13:07:26 - admin - Deposit Payment Amount=300 |Stand = 323
+07/25/2017 - 13:07:58 - admin - Deposit Payment Amount=394 |Stand = 323
+07/25/2017 - 13:07:29 - admin - Deposit Payment Amount=100 |Stand = 323
+07/25/2017 - 13:07:00 - admin - Deposit Payment Amount=200 |Stand = 323
+07/25/2017 - 13:07:31 - admin - Deposit Payment Amount=79 |Stand = 323
+07/25/2017 - 13:07:01 - admin - Deposit Payment Amount=358 |Stand = 323
+07/25/2017 - 13:07:30 - admin - Deposit Payment Amount=158 |Stand = 323
+07/25/2017 - 13:07:01 - admin - Deposit Payment Amount=77 |Stand = 323
+07/25/2017 - 13:07:57 - admin - Deleted All Payment  Cash 838.00 | Stand ID 323 | Description Balance Take Up | Payment Date 2017-03-17 14:40:49
+07/25/2017 - 13:07:33 - admin - Edited Stand Details Location Northgate Heigths Area 1000.00  Price 12650.00  Deposit '6000.00  Instalments '162.00  months_paid 48  STAND ID 323
+07/25/2017 - 13:07:00 - admin - Edited Stand Details Location Northgate Heigths Area 1000.00  Price 12650.00  Deposit '6000.00  Instalments '162.00  months_paid 48   STAND ID 323
+07/25/2017 - 13:07:04 - admin - Payment Amount=173 |Stand = 649
+07/25/2017 - 13:07:42 - admin - Payment Amount=165 |Stand = 649
+07/25/2017 - 13:07:18 - admin - Payment Amount=500 |Stand = 649
+07/25/2017 - 13:07:32 - aidahdinala - Payment Amount=200 |Stand = 649
+07/25/2017 - 13:07:24 - aidahdinala - Payment Amount=140 |Stand = 110
+07/25/2017 - 14:07:21 - aidahdinala - Payment Amount=500 |Stand = 232
+07/25/2017 - 14:07:27 - talentm - Payment Amount=700 |Stand = 282
+07/25/2017 - 15:07:55 - talentm - Deleted All Payment  Cash 700.00 | Stand ID 534 | Description Balance_After_VAT | Payment Date 2017-07-25 14:57:27
+07/25/2017 - 15:07:36 - talentm - Payment Amount=1000 |Stand = 282
+07/25/2017 - 15:07:10 - talentm - Payment Amount=700 |Stand = 282
+07/25/2017 - 16:07:52 - talentm - Payment Amount=700 |Stand = 301
+07/25/2017 - 16:07:27 - talentm - Payment Amount=500 |Stand = 301

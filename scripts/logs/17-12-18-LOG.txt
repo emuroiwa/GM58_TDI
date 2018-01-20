@@ -1,0 +1,8 @@
+12/18/2017 - 07:12:57 - aidahdinala - Payment Amount=400 |Stand = 270
+12/18/2017 - 11:12:34 - talentm - Payment Amount=190 |Stand = 674
+12/18/2017 - 11:12:57 - talentm - Payment Amendement Old Amount=190.00 New Amount 190.00  description='.value date |Stand = 75
+12/18/2017 - 11:12:42 - talentm - Edited Stand Details Location Northgate Heigths Area 1000.00  Price 12650.00  Deposit '500.00  Instalments '122.00  months_paid 144   STAND ID 75
+12/18/2017 - 12:12:30 - yolandak - Payment Amount=153 |Stand = 36
+12/18/2017 - 13:12:45 - yolandak - Payment Amount=110 |Stand = 668
+12/18/2017 - 15:12:38 - yolandak - Payment Amount=167 |Stand = 582
+12/18/2017 - 15:12:25 - yolandak - Payment Amount=146 |Stand = 594

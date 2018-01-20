@@ -1,0 +1,18 @@
+11/03/2017 - 07:11:20 - aidahdinala - Payment Amount=160 |Stand = 618
+11/03/2017 - 09:11:31 - aidahdinala - Deposit Payment Amount=800 |Stand = 488
+11/03/2017 - 09:11:18 - aidahdinala - Deposit Payment Amount=200 |Stand = 488
+11/03/2017 - 09:11:21 - aidahdinala - Deposit Payment Amount=1225 |Stand = 488
+11/03/2017 - 09:11:24 - aidahdinala - Edited Client Details FELISTAS MADZANA  CLIENT TO STAND ID 6450
+11/03/2017 - 11:11:51 - aidahdinala - Payment Amount=136 |Stand = 144
+11/03/2017 - 12:11:29 - talentm - Balance Take Up Amount=5200 |Stand = 
+11/03/2017 - 12:11:32 - talentm - Edited Stand Details Location Northgate Heigths Area 2014.00  Price 25477.00  Deposit '12738 Instalments '311 months_paid 48   STAND ID 512
+11/03/2017 - 13:11:32 - yolandak - Deposit Payment Amount=9000 |Stand = 512
+11/03/2017 - 13:11:32 - yolandak - Edited Client Details CHARLES LAMBULILA  CLIENT TO STAND ID 6456
+11/03/2017 - 13:11:49 - yolandak - Payment Amount=184 |Stand = 364
+11/03/2017 - 13:11:18 - yolandak - Payment Amount=183 |Stand = 428
+11/03/2017 - 14:11:16 - yolandak - Payment Amount=10000 |Stand = 737
+11/03/2017 - 14:11:39 - yolandak - Payment Amount=3090 |Stand = 737
+11/03/2017 - 14:11:34 - yolandak - Payment Amount=500 |Stand = 405
+11/03/2017 - 14:11:05 - yolandak - Payment Amount=1000 |Stand = 259
+11/03/2017 - 14:11:05 - yolandak - Payment Amount=2000 |Stand = 589
+11/03/2017 - 15:11:10 - yolandak - Payment Amount=136 |Stand = 231

@@ -1,0 +1,19 @@
+08/16/2017 - 11:08:39 - talentm - Edited Client Details ANGELA RUFARO GUTSA  CLIENT TO STAND ID 6281
+08/16/2017 - 11:08:40 - talentm - Edited Client Details ANGELA RUFARO GUTSA  CLIENT TO STAND ID 6281
+08/16/2017 - 11:08:45 - talentm - ADDED . .  CLIENT TO STAND ID 117
+08/16/2017 - 11:08:39 - talentm - Balance Take Up Amount=167 |Stand = 
+08/16/2017 - 11:08:50 - talentm - Edited Stand Details Location Northgate Heigths Area 1150.00  Price 14548.00  Deposit '3014 Instalments '234.00  months_paid 60 STAND ID 529
+08/16/2017 - 11:08:07 - aidahdinala - Payment Amount=220 |Stand = 658
+08/16/2017 - 11:08:25 - talentm - Deposit Payment Amount=3014 |Stand = 529
+08/16/2017 - 12:08:14 - aidahdinala - Payment Amount=1544 |Stand = 47
+08/16/2017 - 12:08:18 - aidahdinala - Payment Amount=72 |Stand = 737
+08/16/2017 - 12:08:57 - aidahdinala - Payment Amount=220 |Stand = 271
+08/16/2017 - 13:08:23 - talentm - Deposit Payment Amount=6000 |Stand = 672
+08/16/2017 - 13:08:42 - talentm - ADDED CLETOUS NGOMA  CLIENT TO STAND ID 672
+08/16/2017 - 13:08:47 - talentm - Edited Client Details CLETOUS NGOMAH  CLIENT TO STAND ID 6427
+08/16/2017 - 14:08:08 - aidahdinala - Payment Amount=16 |Stand = 122
+08/16/2017 - 15:08:13 - talentm - ADDED MELISSA. E WRIGHT  CLIENT TO STAND ID 180
+08/16/2017 - 16:08:26 - aidahdinala - Payment Amount=150 |Stand = 594
+08/16/2017 - 16:08:25 - aidahdinala - Payment Amount=310 |Stand = 211
+08/16/2017 - 16:08:59 - aidahdinala - Payment Amount=20 |Stand = 211
+08/16/2017 - 16:08:13 - aidahdinala - Payment Amount=236 |Stand = 144

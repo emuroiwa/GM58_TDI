@@ -1,0 +1,10 @@
+06/12/2017 - 10:06:59 - talentm - Deposit Payment Amount=1650 |Stand = 252
+06/12/2017 - 10:06:32 - aidahdinala - Payment Amount=248 |Stand = 291
+06/12/2017 - 10:06:12 - aidahdinala - Payment Amount=283 |Stand = 280
+06/12/2017 - 11:06:37 - aidahdinala - Payment Amount=159 |Stand = 629
+06/12/2017 - 12:06:45 - aidahdinala - Payment Amount=209 |Stand = 431
+06/12/2017 - 15:06:20 - talentm - Deleted All Payment  Cash 209.00 | Stand ID 598 | Description Balance_After_VAT | Payment Date 2017-06-12 12:14:45
+06/12/2017 - 15:06:04 - talentm - Payment Amendement Old Amount=209.00 New Amount 418.00  description='.pos $209.00
+cash deposit $209.00 |Stand = 598
+06/12/2017 - 15:06:07 - aidahdinala - Payment Amount=0.00 |Stand = 412
+06/12/2017 - 16:06:25 - aidahdinala - Payment Amount=235 |Stand = 735

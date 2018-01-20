@@ -1,0 +1,19 @@
+12/22/2016 - 11:12:25 - talentm - Balance Take Up Amount=2655 |Stand = 67
+12/22/2016 - 11:12:25 - talentm - Balance Take Up Amount=2750 |Stand = 67
+12/22/2016 - 11:12:17 - talentm - Balance Take Up Amount=2015 |Stand = 662
+12/22/2016 - 11:12:17 - talentm - Balance Take Up Amount=2699 |Stand = 662
+12/22/2016 - 11:12:28 - talentm - Balance Take Up AMENDMENT Amount=8283 |Stand = 223
+12/22/2016 - 11:12:34 - talentm - Balance Take Up AMENDMENT Amount=7508 |Stand = 223
+12/22/2016 - 12:12:32 - talentm - Balance Take Up Amount=167 |Stand = 830
+12/22/2016 - 12:12:53 - talentm - Balance Take Up AMENDMENT Amount=171 |Stand = 830
+12/22/2016 - 12:12:53 - talentm - Balance Take Up AMENDMENT Amount=171 |Stand = 830
+12/22/2016 - 12:12:46 - talentm - Balance Take Up Amount=171 |Stand = 831
+12/22/2016 - 12:12:29 - talentm - Balance Take Up Amount=171 |Stand = 832
+12/22/2016 - 12:12:48 - talentm - Balance Take Up Amount=1624 |Stand = 310
+12/22/2016 - 12:12:48 - talentm - Balance Take Up Amount=8028 |Stand = 310
+12/22/2016 - 12:12:29 - talentm - Balance Take Up AMENDMENT Amount=10912.3 |Stand = 333
+12/22/2016 - 12:12:31 - talentm - Balance Take Up AMENDMENT Amount=10085 |Stand = 624
+12/22/2016 - 13:12:06 - talentm - Balance Take Up AMENDMENT Amount=8690 |Stand = 226
+12/22/2016 - 13:12:21 - talentm - Edited Stand Details Location Northgate Heigths Area 1250  Price 15813  Deposit '1800 Instalments '208  months_paid 84  STAND ID 136
+12/22/2016 - 13:12:51 - talentm - Deposit Payment Amount=218 |Stand = 136
+12/22/2016 - 13:12:40 - talentm - Balance Take Up AMENDMENT Amount=8690 |Stand = 226

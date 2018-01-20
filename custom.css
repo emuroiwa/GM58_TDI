@@ -1,0 +1,52 @@
+/* CSS Document */
+#container {
+	margin:0 auto;
+width:900px;
+background-color:#FFF;	
+}
+#header {
+	margin:0 auto;
+width:800px;
+height:100px;
+position:relative;
+background-color:#03F;
+border-bottom: 1px solid #000;
+border-top: 1px solid #000;
+
+}
+#headerpic{
+	float:left;
+width:900px;
+height:100px;
+background:  url(header.png) no-repeat left top;	
+}
+#leftnav{
+float: left;	
+width:140px;
+height: 400px;
+background-color:#039;
+border-right: 2px dashed #000000;
+}
+#rightnav{
+float: right;	
+width:140px;
+height: 400px;
+background-color:#039;
+border-left: 2px dashed #000000;
+}
+#body{
+	background:
+	url(images/shutterstock_62287657-01-3.jpg) ;
+margin:auto;
+width:600px;
+padding: 10px 0px 0px 10px;	
+}
+#footer{
+clear:both;
+background-color:#066;	
+}
+BODY {
+    font-size: 14px;
+    color: rgb(89, 89, 89);
+    font-family: Arial,Verdana,Helvetica,sans-serif;
+}

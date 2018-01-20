@@ -1,0 +1,7 @@
+07/18/2016 - 10:07:29 - admin - Balance Take Up Amount=2000 |Stand = 263
+07/18/2016 - 10:07:41 - admin - Balance Take Up Amount=2000 |Stand = 
+07/18/2016 - 15:07:24 - admin - Balance Take Up Amount=1650 |Stand = 588
+07/18/2016 - 19:07:30 - admin - Balance Take Up Amount=300 |Stand = 344
+07/18/2016 - 19:07:30 - admin - Balance Take Up Amount=3000 |Stand = 344
+07/18/2016 - 19:07:49 - admin - Balance Take Up Amount=3000 |Stand = 
+07/18/2016 - 19:07:15 - admin - Balance Take Up Amount=2000 |Stand = 322

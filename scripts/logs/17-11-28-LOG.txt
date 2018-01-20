@@ -1,0 +1,49 @@
+11/28/2017 - 07:11:33 - aidahdinala - Payment Amount=120 |Stand = 106
+11/28/2017 - 07:11:55 - aidahdinala - Payment Amount=189 |Stand = 347
+11/28/2017 - 07:11:04 - aidahdinala - Payment Amount=189 |Stand = 347
+11/28/2017 - 08:11:10 - aidahdinala - Payment Amount=120 |Stand = 106
+11/28/2017 - 09:11:07 - aidahdinala - Payment Amount=110 |Stand = 668
+11/28/2017 - 10:11:55 - aidahdinala - Payment Amount=137 |Stand = 64
+11/28/2017 - 11:11:48 - aidahdinala - Payment Amount=311 |Stand = 14
+11/28/2017 - 11:11:42 - talentm - Edited Stand Details Location Northgate Heigths Area 1250.00  Price 15813.00  Deposit '600.00  Instalments '119.00  months_paid 144   STAND ID 76
+11/28/2017 - 11:11:32 - talentm - Payment Amount=238 |Stand = 146
+11/28/2017 - 11:11:28 - aidahdinala - Payment Amount=150 |Stand = 93
+11/28/2017 - 11:11:00 - talentm - Deposit Payment Amount=10000 |Stand = 60
+11/28/2017 - 11:11:04 - talentm - ADDED FARAI PETER MACHERI  CLIENT TO STAND ID 60
+11/28/2017 - 11:11:59 - talentm - Deposit Payment Amount=323 |Stand = 60
+11/28/2017 - 11:11:29 - talentm - Edited Stand Details Location Northgate Heigths Area 1632.00  Price 20645.00  Deposit '10000.00  Instalments '252.00  months_paid 48   STAND ID 60
+11/28/2017 - 11:11:34 - talentm - Deleted All Payment  Cash 323.00 | Stand ID 60 | Description Stand Deposit | Payment Date 2017-11-20 00:00:00
+11/28/2017 - 11:11:56 - talentm - Payment Amount=9615 |Stand = 35
+11/28/2017 - 11:11:59 - talentm - Payment Amount=. |Stand = 35
+11/28/2017 - 12:11:54 - talentm - ADDED NANONHLA TRUST MA 1648/2017  CLIENT TO STAND ID 60
+11/28/2017 - 12:11:10 - aidahdinala - Payment Amount=132 |Stand = 113
+11/28/2017 - 12:11:27 - talentm - Edited Client Details GUGULETHU MACHERI  CLIENT TO STAND ID 6467
+11/28/2017 - 12:11:06 - talentm - Edited Client Details NANONHLA TRUST MA1648/2017  CLIENT TO STAND ID 6469
+11/28/2017 - 12:11:13 - aidahdinala - Payment Amount=336 |Stand = 415
+11/28/2017 - 12:11:29 - talentm - Edited Stand Details Location Northgate Heigths Area 1632.15  Price 20645.00  Deposit '10000.00  Instalments '252.00  months_paid 48    STAND ID 60
+11/28/2017 - 12:11:55 - talentm - Deleted All Payment  Cash  | Stand ID  | Description  | Payment Date 
+11/28/2017 - 12:11:03 - talentm - ADDED GUGULETHU MACHERI  CLIENT TO STAND ID 60
+11/28/2017 - 12:11:56 - talentm - Edited Client Details GUGULETHU MACHERI  CLIENT TO STAND ID 6467
+11/28/2017 - 12:11:35 - talentm - Edited Client Details FARAI PETER MACHERI  CLIENT TO STAND ID 6468
+11/28/2017 - 12:11:06 - admin - Edited Client Details GUGULETHU MACHERI  CLIENT TO STAND ID 6467
+11/28/2017 - 12:11:02 - admin - Edited Client Details FARAI PETER MACHERI  CLIENT TO STAND ID 6468
+11/28/2017 - 13:11:23 - aidahdinala - Payment Amount=140 |Stand = 79
+11/28/2017 - 13:11:18 - aidahdinala - Payment Amount=418 |Stand = 431
+11/28/2017 - 14:11:31 - aidahdinala - Payment Amount=651 |Stand = 393
+11/28/2017 - 14:11:40 - aidahdinala - Payment Amount=112 |Stand = 604
+11/28/2017 - 14:11:55 - admin - Payment Amount=2 |Stand = 35
+11/28/2017 - 14:11:21 - admin - Edited Stand Details Location Northgate Heigths Area 1500.00  Price 18975.00  Deposit '9000.00  Instalments '244.00  months_paid 48  STAND ID 103
+11/28/2017 - 14:11:35 - admin - Deleted All Payment  Cash 9000.00 | Stand ID 103 | Description Stand Deposit | Payment Date 2017-11-25 00:00:00
+11/28/2017 - 14:11:11 - admin - Deposit Payment Amount=9000 |Stand = 103
+11/28/2017 - 14:11:06 - aidahdinala - Payment Amount=119 |Stand = 132
+11/28/2017 - 14:11:24 - talentm - Deleted All Payment  Cash 9000.00 | Stand ID 103 | Description Stand Deposit | Payment Date 2017-11-24 00:00:00
+11/28/2017 - 14:11:01 - talentm - Deposit Payment Amount=9000 |Stand = 103
+11/28/2017 - 14:11:04 - talentm - Edited Stand Details Location Northgate Heigths Area 1500.00  Price 18975.00  Deposit '9000.00  Instalments '244.00  months_paid 48   STAND ID 103
+11/28/2017 - 14:11:24 - talentm - Deleted All Payment  Cash 9000.00 | Stand ID 103 | Description Stand Deposit | Payment Date 2017-11-24 00:00:00
+11/28/2017 - 14:11:56 - talentm - Deposit Payment Amount=9000 |Stand = 103
+11/28/2017 - 14:11:26 - talentm - Deposit Payment Amount=9000 |Stand = 103
+11/28/2017 - 14:11:46 - talentm - Deposit Payment Amount=9000 |Stand = 103
+11/28/2017 - 14:11:41 - admin - Deleted All Payment from stand ID and Set Stand Status To For Sale 103
+11/28/2017 - 14:11:14 - admin - Edited Stand Details Location Northgate Heigths Area 1500.00  Price 18975.00  Deposit '9000.00  Instalments '244.00  months_paid 48    STAND ID 103
+11/28/2017 - 14:11:36 - admin - Deposit Payment Amount=9000 |Stand = 103
+11/28/2017 - 14:11:41 - aidahdinala - Payment Amount=170 |Stand = 541

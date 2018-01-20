@@ -1,0 +1,11 @@
+09/23/2017 - 07:09:57 - talentm - Payment Amount=1200 |Stand = 701
+09/23/2017 - 08:09:19 - talentm - Balance Take Up Amount=6000 |Stand = 269
+09/23/2017 - 08:09:47 - talentm - Deposit Payment Amount=5540 |Stand = 503
+09/23/2017 - 08:09:35 - talentm - Payment Amendement Old Amount=6000.00 New Amount 460.00  description='. |Stand = 503
+09/23/2017 - 08:09:47 - talentm - Edited Stand Details Location Northgate Heigths Area 1350.00  Price 17078.00  Deposit '8540.00  Instalments '209.00  months_paid 48   STAND ID 503
+09/23/2017 - 08:09:47 - talentm - Deleted All Payment  Cash 460.00 | Stand ID 503 | Description Balance Take Up | Payment Date 2017-09-23 08:43:19
+09/23/2017 - 08:09:21 - talentm - Payment Amount=460 |Stand = 269
+09/23/2017 - 09:09:56 - aidahdinala - Payment Amount=150 |Stand = 650
+09/23/2017 - 09:09:32 - aidahdinala - Payment Amount=109 |Stand = 671
+09/23/2017 - 10:09:49 - aidahdinala - Payment Amount=651 |Stand = 393
+09/23/2017 - 11:09:04 - aidahdinala - Payment Amount=439 |Stand = 266

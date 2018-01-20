@@ -1,0 +1,4 @@
+05/29/2017 - 10:05:22 - yolandak - Payment Amount=400 |Stand = 114
+05/29/2017 - 13:05:27 - yolandak - Payment Amount=250 |Stand = 592
+05/29/2017 - 15:05:55 - yolandak - Payment Amount=230 |Stand = 303
+05/29/2017 - 15:05:36 - yolandak - Payment Amount=100 |Stand = 699

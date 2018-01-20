@@ -1,0 +1,4 @@
+01/03/2018 - 12:01:11 - talentm - Balance Take Up Amount=3202 |Stand = 297
+01/03/2018 - 14:01:55 - yolandak - Payment Amount=140 |Stand = 250
+01/03/2018 - 15:01:24 - yolandak - Payment Amount=140 |Stand = 250
+01/03/2018 - 15:01:00 - yolandak - Payment Amount=120 |Stand = 541

@@ -1,0 +1,36 @@
+06/03/2017 - 09:06:04 - talentm - Payment Amount=200 |Stand = 63
+06/03/2017 - 10:06:52 - talentm - Payment Amount=300 |Stand = 216
+06/03/2017 - 10:06:15 - talentm - Payment Amount=140 |Stand = 79
+06/03/2017 - 12:06:56 - talentm - Payment Amount=183 |Stand = 428
+06/03/2017 - 12:06:16 - talentm - Payment Amount=220 |Stand = 711
+06/03/2017 - 12:06:49 - talentm - Payment Amount=140 |Stand = 249
+06/03/2017 - 12:06:44 - talentm - Payment Amount=162 |Stand = 586
+06/03/2017 - 12:06:51 - talentm - Deleted All Payment  Cash 140.00 | Stand ID 643 | Description Balance_After_VAT | Payment Date 2017-06-03 12:13:49
+06/03/2017 - 12:06:39 - talentm - Payment Amount=140 |Stand = 249
+06/03/2017 - 12:06:28 - talentm - Payment Amount=157 |Stand = 543
+06/03/2017 - 12:06:21 - talentm - Payment Amount=180 |Stand = 101
+06/03/2017 - 12:06:49 - talentm - Payment Amount=200 |Stand = 82
+06/03/2017 - 12:06:15 - talentm - Payment Amount=101 |Stand = 585
+06/03/2017 - 12:06:11 - talentm - Payment Amount=420 |Stand = 510
+06/03/2017 - 12:06:01 - talentm - Payment Amount=112 |Stand = 747
+06/03/2017 - 12:06:23 - talentm - Payment Amount=223 |Stand = 310
+06/03/2017 - 12:06:51 - talentm - Payment Amount=260 |Stand = 702
+06/03/2017 - 12:06:12 - talentm - Payment Amount=208 |Stand = 761
+06/03/2017 - 12:06:46 - talentm - Payment Amendement Old Amount=375.00 New Amount 167.00  description='. |Stand = 378
+06/03/2017 - 12:06:13 - talentm - Payment Amount=167 |Stand = 564
+06/03/2017 - 12:06:06 - talentm - Payment Amount=167 |Stand = 728
+06/03/2017 - 13:06:44 - talentm - Payment Amount=288 |Stand = 577
+06/03/2017 - 13:06:49 - talentm - Payment Amount=150 |Stand = 609
+06/03/2017 - 13:06:55 - talentm - Payment Amount=393 |Stand = 667
+06/03/2017 - 13:06:15 - talentm - Edited Client Details NYARADZAI PENDUKA  CLIENT TO STAND ID 6282
+06/03/2017 - 13:06:58 - talentm - Payment Amount=179 |Stand = 691
+06/03/2017 - 13:06:06 - talentm - Payment Amount=220 |Stand = 716
+06/03/2017 - 13:06:19 - talentm - Payment Amount=200 |Stand = 287
+06/03/2017 - 13:06:09 - talentm - Payment Amount=208 |Stand = 435
+06/03/2017 - 13:06:06 - talentm - Payment Amount=103 |Stand = 643
+06/03/2017 - 13:06:06 - talentm - Payment Amount=300 |Stand = 843
+06/03/2017 - 13:06:00 - talentm - Payment Amount=196 |Stand = 97
+06/03/2017 - 13:06:38 - talentm - Payment Amount=250 |Stand = 95
+06/03/2017 - 13:06:33 - talentm - Payment Amount=150 |Stand = 243
+06/03/2017 - 13:06:04 - talentm - Payment Amount=295 |Stand = 383
+06/03/2017 - 13:06:39 - talentm - Payment Amount=198 |Stand = 54

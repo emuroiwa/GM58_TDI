@@ -1,0 +1,8 @@
+11/13/2017 - 07:11:50 - aidahdinala - Payment Amount=200 |Stand = 619
+11/13/2017 - 10:11:26 - aidahdinala - Payment Amount=80 |Stand = 665
+11/13/2017 - 10:11:35 - aidahdinala - Deposit Payment Amount=1000 |Stand = 514
+11/13/2017 - 13:11:54 - talentm - Balance Take Up Amount=2580 |Stand = 
+11/13/2017 - 13:11:48 - talentm - Edited Stand Details Location Northgate Heigths Area 1500.00  Price 18975.00  Deposit '9488 Instalments '232.00  months_paid 48  STAND ID 48
+11/13/2017 - 13:11:35 - talentm - Deposit Payment Amount=3500 |Stand = 48
+11/13/2017 - 13:11:19 - talentm - ADDED PITHIAS RUBAYA  CLIENT TO STAND ID 48
+11/13/2017 - 16:11:10 - aidahdinala - Payment Amount=6718 |Stand = 33

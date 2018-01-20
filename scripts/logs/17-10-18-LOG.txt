@@ -1,0 +1,4 @@
+10/18/2017 - 09:10:45 - yolandak - Payment Amount=116 |Stand = 748
+10/18/2017 - 10:10:55 - talentm - Payment Amount=170 |Stand = 617
+10/18/2017 - 12:10:57 - talentm - Edited Client Details TINASHE SHUMBA  CLIENT TO STAND ID 6433
+10/18/2017 - 16:10:40 - talentm - Edited Client Details MISHECK TAURAI  BENZA  CLIENT TO STAND ID 510

@@ -1,0 +1,8 @@
+11/25/2017 - 08:11:17 - aidahdinala - Payment Amount=200 |Stand = 111
+11/25/2017 - 09:11:50 - aidahdinala - Payment Amount=150 |Stand = 36
+11/25/2017 - 09:11:59 - aidahdinala - Payment Amount=250 |Stand = 266
+11/25/2017 - 09:11:02 - aidahdinala - Payment Amount=250 |Stand = 266
+11/25/2017 - 10:11:20 - aidahdinala - Payment Amount=120 |Stand = 769
+11/25/2017 - 11:11:31 - talentm - Edited Stand Details Location Northgate Heigths Area 1500.00  Price 18975 Deposit '9000 Instalments '244 months_paid 48 STAND ID 103
+11/25/2017 - 11:11:24 - aidahdinala - Deposit Payment Amount=9000 |Stand = 103
+11/25/2017 - 11:11:43 - aidahdinala - ADDED FAITH MAMVURA  CLIENT TO STAND ID 103

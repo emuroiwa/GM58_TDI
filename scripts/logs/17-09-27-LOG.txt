@@ -1,0 +1,7 @@
+09/27/2017 - 11:09:18 - yolandak - Payment Amount=741 |Stand = 939
+09/27/2017 - 12:09:35 - yolandak - Payment Amount=118 |Stand = 784
+09/27/2017 - 12:09:10 - yolandak - Payment Amount=118 |Stand = 46
+09/27/2017 - 12:09:19 - yolandak - Payment Amount=118 |Stand = 785
+09/27/2017 - 12:09:09 - yolandak - Payment Amount=200 |Stand = 675
+09/27/2017 - 12:09:50 - yolandak - Payment Amount=100 |Stand = 675
+09/27/2017 - 12:09:33 - yolandak - Payment Amount=100 |Stand = 675

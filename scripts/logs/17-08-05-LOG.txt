@@ -1,0 +1,12 @@
+08/05/2017 - 08:08:18 - aidahdinala - Payment Amount=317 |Stand = 207
+08/05/2017 - 10:08:07 - aidahdinala - Payment Amount=210 |Stand = 288
+08/05/2017 - 10:08:04 - aidahdinala - Payment Amount=500 |Stand = 143
+08/05/2017 - 10:08:17 - aidahdinala - Payment Amount=500 |Stand = 66
+08/05/2017 - 10:08:27 - aidahdinala - Payment Amount=200 |Stand = 619
+08/05/2017 - 10:08:16 - talentm - Deleted All Payment  Cash 200.00 | Stand ID 382 | Description Balance_After_VAT | Payment Date 2017-08-05 10:48:27
+08/05/2017 - 10:08:10 - aidahdinala - Payment Amount=180 |Stand = 619
+08/05/2017 - 11:08:17 - aidahdinala - Payment Amount=155 |Stand = 86
+08/05/2017 - 15:08:51 - talentm - Payment Amount=1000 |Stand = 283
+08/05/2017 - 15:08:24 - talentm - Payment Amount=180 |Stand = 367
+08/05/2017 - 15:08:02 - talentm - Payment Amendement Old Amount=180.00 New Amount 160.00  description='. |Stand = 569
+08/05/2017 - 16:08:21 - talentm - Payment Amount=177 |Stand = 635

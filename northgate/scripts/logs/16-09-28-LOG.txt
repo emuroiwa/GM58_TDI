@@ -1,0 +1,23 @@
+09/28/2016 - 11:09:45 - talentm - Balance Take Up Amount=1180 |Stand = 558
+09/28/2016 - 11:09:45 - talentm - Balance Take Up Amount=4060 |Stand = 558
+09/28/2016 - 12:09:23 - talentm - Balance Take Up Amount=2180 |Stand = 768
+09/28/2016 - 12:09:23 - talentm - Balance Take Up Amount=2170 |Stand = 768
+09/28/2016 - 12:09:17 - talentm - Edited Stand Details Location Northgate Heigths Area 1000  Price 12650 Deposit '500  Instalments '109  months_paid 144  STAND ID 333
+09/28/2016 - 12:09:25 - talentm - Balance Take Up Amount=462 |Stand = 364
+09/28/2016 - 12:09:25 - talentm - Balance Take Up Amount=4980 |Stand = 364
+09/28/2016 - 12:09:21 - talentm - Balance Take Up AMENDMENT Amount=462 |Stand = 364
+09/28/2016 - 12:09:21 - talentm - Balance Take Up AMENDMENT Amount=4980 |Stand = 364
+09/28/2016 - 12:09:24 - talentm - Balance Take Up Amount=1332 |Stand = 760
+09/28/2016 - 12:09:45 - talentm - Balance Take Up Amount=15750 |Stand = 865
+09/28/2016 - 12:09:46 - talentm - Balance Take Up Amount=900 |Stand = 865
+09/28/2016 - 12:09:10 - talentm - Edited Stand Details Location Northgate Heigths Area 3110  Price 39344.16 Deposit '3422  Instalments '450  months_paid 84  STAND ID 403
+09/28/2016 - 12:09:08 - talentm - ADDED NQAGU FAMILY TRUST  CLIENT TO STAND ID 403
+09/28/2016 - 13:09:15 - talentm - Balance Take Up Amount=5616 |Stand = 409
+09/28/2016 - 14:09:43 - talentm - Balance Take Up Amount=2362 |Stand = 708
+09/28/2016 - 14:09:43 - talentm - Balance Take Up Amount=2257 |Stand = 708
+09/28/2016 - 14:09:18 - talentm - Edited Stand Details Location Northgate Heigths Area 1000  Price 12650 Deposit '500  Instalments '108  months_paid 144  STAND ID 277
+09/28/2016 - 15:09:32 - talentm - Balance Take Up Amount=6116 |Stand = 91
+09/28/2016 - 15:09:41 - talentm - Edited Stand Details Location Northgate Heigths Area 1250  Price 15813  Deposit '1686 Instalments '208  months_paid 144  STAND ID 169
+09/28/2016 - 15:09:35 - talentm - Edited Stand Details Location Northgate Heigths Area 1250  Price 15813  Deposit '1582 Instalments '208   months_paid 144   STAND ID 169
+09/28/2016 - 15:09:58 - talentm - Edited Stand Details Location Northgate Heigths Area 1250  Price 15813  Deposit '1686 Instalments '208  months_paid 144    STAND ID 169
+09/28/2016 - 15:09:34 - talentm - Deposit Payment Amount=104 |Stand = 169

@@ -1,0 +1,4 @@
+01/09/2018 - 10:01:40 - aidahdinala - Payment Amount=2000 |Stand = 676
+01/09/2018 - 13:01:36 - talentm - Payment Amount=200 |Stand = 367
+01/09/2018 - 13:01:11 - talentm - Payment Amount=200 |Stand = 367
+01/09/2018 - 13:01:49 - talentm - Payment Amount=200 |Stand = 367

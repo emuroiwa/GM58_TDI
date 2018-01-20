@@ -1,0 +1,6 @@
+05/18/2017 - 10:05:02 - aidahdinala - Payment Amount=144 |Stand = 242
+05/18/2017 - 13:05:51 - aidahdinala - Payment Amount=220 |Stand = 144
+05/18/2017 - 13:05:17 - aidahdinala - Payment Amount=198 |Stand = 54
+05/18/2017 - 15:05:37 - YOLANDAK - Payment Amount=400 |Stand = 673
+05/18/2017 - 17:05:08 - talentm - Payment Amount=500 |Stand = 479
+05/18/2017 - 17:05:26 - talentm - Payment Amount=500 |Stand = 313

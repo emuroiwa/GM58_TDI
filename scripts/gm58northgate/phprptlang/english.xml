@@ -1,0 +1,1263 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ew-language date="2017/8/23" version="10.0.0" id="en" name="English" desc="English" author="e.World Technology Ltd.">
+  <!-- 
+	*** Important Notes:
+	1. Language ID should follow: https://developers.google.com/recaptcha/docs/language,
+	2. Locale settings are placed in a separate locale files under the "locales" folder,
+	3. Locale files must be named with language ID of language file (and converted to lowercase), e.g. en.json,
+	4. Locale files are ALWAYS used, regardless of whether the project is single language or multiple language.
+-->
+  <global>
+    <phrase id="aggregatecolon" value=": " />
+    <!-- v10 -->
+    <phrase id="aggregateequal" value="=" />
+    <!-- v10 -->
+    <phrase id="allrecords" value="All" />
+    <phrase id="alwaysask" value="Always ask for my user name and password" />
+    <phrase id="autologin" value="Auto login until I logout explicitly" />
+    <phrase id="backtologin" value="Back to Login Page" />
+    <phrase id="booleanno" value="No" />
+    <phrase id="booleanyes" value="Yes" />
+    <phrase id="breadcrumbdivider" value="/" />
+    <phrase id="browsernoflashsupport" value="Your browser does not support Flash player." client="1" />
+    <phrase id="buttonexport" value="Export" class="icon-export ewIcon" />
+    <!-- v8 -->
+    <phrase id="cancel" value="Cancel" client="1" />
+    <!-- v8 -->
+    <phrase id="cancelbtn" value="Cancel" client="1" />
+    <!-- v10 -->
+    <phrase id="chartorder" value="Order by" />
+    <phrase id="chartorderxasc" value="Labels Ascending" />
+    <phrase id="chartorderxdesc" value="Labels Descending" />
+    <phrase id="chartorderyasc" value="Values Ascending" />
+    <phrase id="chartorderydesc" value="Values Descending" />
+    <phrase id="clickrecaptcha" value="Please click reCAPTCHA" client="1" />
+    <!-- v9 -->
+    <phrase id="clicktodrilldown" value="Click to drill down" />
+    <phrase id="closebtn" value="Close" client="1" />
+    <!-- v10 -->
+    <phrase id="copytoclipboard" value="Copy to clipboard" />
+    <!-- v10 -->
+    <phrase id="countselected" value="%s selected" client="1" />
+    <!-- v9 -->
+    <phrase id="ctbsumhead" value="Summary" />
+    <!-- v10 -->
+    <phrase id="currentfilters" value="Current filters:" />
+    <phrase id="deletefilter" value="Delete filter" />
+    <!-- v8 -->
+    <phrase id="deletefilterconfirm" value="Delete filter %s?" client="1" />
+    <!-- v8 -->
+    <phrase id="drilldownallrecords" value="All records" />
+    <phrase id="drilldownfilters" value="Drill down filters:" />
+    <phrase id="enterfiltername" value="Enter filter name" client="1" />
+    <!-- v8 -->
+    <phrase id="entersenderemail" value="Please enter sender email" client="1" />
+    <phrase id="enterpropersenderemail" value="Exceed maximum sender email count or email address incorrect" client="1" />
+    <phrase id="enterrecipientemail" value="Please enter recipient email" client="1" />
+    <phrase id="enterproperrecipientemail" value="Exceed maximum recipient email count or email address incorrect" client="1" />
+    <phrase id="enterproperccemail" value="Exceed maximum cc email count or email address incorrect" client="1" />
+    <phrase id="enterproperbccemail" value="Exceed maximum bcc email count or email address incorrect" client="1" />
+    <phrase id="entersubject" value="Please enter subject" client="1" />
+    <phrase id="emailformsender" value="From" />
+    <phrase id="emailformrecipient" value="To" />
+    <phrase id="emailformcc" value="Cc" />
+    <phrase id="emailformbcc" value="Bcc" />
+    <phrase id="emailformsubject" value="Subject" />
+    <phrase id="emailformmessage" value="Message" />
+    <phrase id="emailformcontenttype" value="Send as" />
+    <phrase id="emailformcontenttypeurl" value="URL" />
+    <phrase id="emailformcontenttypehtml" value="HTML" />
+    <phrase id="emptylabel" value="(Empty)" />
+    <phrase id="enterpassword" value="Please enter password" client="1" />
+    <phrase id="enterpwd" value="Please enter password" client="1" />
+    <phrase id="entersearchcriteria" value="Please enter search criteria" />
+    <phrase id="enteruid" value="Please enter user ID" client="1" />
+    <phrase id="entervalidatecode" value="Please enter the validation code shown" client="1" />
+    <phrase id="exceedmaxemailexport" value="Exceed maximum export email count. Please try again later." />
+    <phrase id="exportchart" value="Exporting chart: " client="1" />
+    <phrase id="exportchartdata" value="Exporting chart data" client="1" />
+    <phrase id="exportcharterror" value="Failed to export chart: " client="1" />
+    <phrase id="exportingchart" value="Exporting chart (%c of %t), please wait..." client="1" />
+    <phrase id="exporttoemail" value="Email" class="icon-email ewIcon" client="1" />
+    <!-- v8 -->
+    <phrase id="exporttoexcel" value="Export to Excel" class="icon-excel ewIcon" />
+    <!-- v8 -->
+    <phrase id="exporttopdf" value="Export to PDF" class="icon-pdf ewIcon" />
+    <!-- v8 -->
+    <phrase id="exporttoword" value="Export to Word" class="icon-word ewIcon" />
+    <!-- v8 -->
+    <phrase id="fieldrequiredindicator" value="&lt;span class=&quot;ewRequired&quot;&gt;&amp;nbsp;*&lt;/span&gt;" />
+    <phrase id="filter" value="Filter" />
+    <!-- v8 -->
+    <phrase id="filtername" value="Filter name" client="1" />
+    <!-- v8 -->
+    <phrase id="filters" value="Filters" class="icon-filter ewIcon" />
+    <!-- v8 -->
+    <phrase id="generate" value="Generate" client="1" />
+    <!-- v10 -->
+    <phrase id="generatereporturl" value="Generate Report URL" client="1" />
+    <!-- v10 -->
+    <phrase id="generatesuccess" value="Success" />
+    <!-- v10 -->
+    <phrase id="homepage" value="Home" class="glyphicon glyphicon-home ewIcon" />
+    <!-- v8 -->
+    <phrase id="incorrectcreditcard" value="Incorrect credit card number" client="1" />
+    <phrase id="incorrectdate" value="Incorrect date (%s)" />
+    <!-- v10 -->
+    <phrase id="incorrectdateymd" value="Incorrect date, format = yyyy%smm%sdd" />
+    <phrase id="incorrectdatemdy" value="Incorrect date, format = mm%sdd%syyyy" />
+    <phrase id="incorrectdatedmy" value="Incorrect date, format = dd%smm%syyyy" />
+    <phrase id="incorrectshortdateymd" value="Incorrect date, format = yy%smm%sdd" />
+    <phrase id="incorrectshortdatemdy" value="Incorrect date, format = mm%sdd%syy" />
+    <phrase id="incorrectshortdatedmy" value="Incorrect date, format = dd%smm%syy" />
+    <phrase id="incorrectemail" value="Incorrect email" client="1" />
+    <phrase id="incorrectfield" value="Incorrect field" client="1" />
+    <phrase id="incorrectfloat" value="Incorrect floating point number" client="1" />
+    <phrase id="incorrectguid" value="Incorrect GUID" client="1" />
+    <phrase id="incorrectinteger" value="Incorrect integer" client="1" />
+    <phrase id="incorrectphone" value="Incorrect phone number" client="1" />
+    <phrase id="incorrectrange" value="Number must be between %1 and %2" client="1" />
+    <phrase id="incorrectregexp" value="Regular expression not matched" client="1" />
+    <phrase id="incorrectssn" value="Incorrect Social Security Number" client="1" />
+    <phrase id="incorrecttime" value="Incorrect time (hh:mm:ss)" client="1" />
+    <phrase id="incorrectzip" value="Incorrect ZIP code" client="1" />
+    <phrase id="invalidpostrequest" value="Invalid post request" />
+    <!-- v8 -->
+    <phrase id="invaliduidpwd" value="Incorrect user ID or password" />
+    <phrase id="language" value="Language" />
+    <phrase id="loading" value="Loading%s..." client="1" />
+    <phrase id="login" value="Login" />
+    <phrase id="loginoptions" value="Options" />
+    <!-- v8 -->
+    <phrase id="loginpage" value="Login Page" />
+    <phrase id="logout" value="Logout" />
+    <phrase id="lookuplink" value="Lookup - %s" class="glyphicon glyphicon-search ewIcon" />
+    <!-- v10 -->
+    <phrase id="messageok" value="OK" client="1" />
+    <!-- v9 -->
+    <phrase id="midnight" value="midnight" />
+    <!-- v10 -->
+    <phrase id="mobilemenu" value="Menu" />
+    <phrase id="monthjan" value="Jan" />
+    <phrase id="monthfeb" value="Feb" />
+    <phrase id="monthmar" value="Mar" />
+    <phrase id="monthapr" value="Apr" />
+    <phrase id="monthmay" value="May" />
+    <phrase id="monthjun" value="Jun" />
+    <phrase id="monthjul" value="Jul" />
+    <phrase id="monthaug" value="Aug" />
+    <phrase id="monthsep" value="Sep" />
+    <phrase id="monthoct" value="Oct" />
+    <phrase id="monthnov" value="Nov" />
+    <phrase id="monthdec" value="Dec" />
+    <phrase id="next" value="Next" />
+    <phrase id="noon" value="noon" />
+    <!-- v10 -->
+    <phrase id="nopermission" value="You do not have permission to access the page." />
+    <phrase id="norecord" value="No records found" client="1" />
+    <!-- v10 -->
+    <phrase id="noreportorcharts" value="No report or charts is selected for generation. Please check your report/charts settings." />
+    <phrase id="nodistinctcolvals" value="No distinct column values for SQL: " />
+    <phrase id="nulllabel" value="(Null)" />
+    <phrase id="of" value="of" client="1" />
+    <!-- v10 -->
+    <phrase id="page" value="Page" client="1" />
+    <!-- v10 -->
+    <phrase id="pagerfirst" value="First" />
+    <phrase id="pagerlast" value="Last" />
+    <phrase id="pagernext" value="Next" />
+    <phrase id="pagerprevious" value="Previous" />
+    <phrase id="password" value="Password" />
+    <phrase id="pleaseselect" value="Please select" client="1" />
+    <!-- v9 -->
+    <phrase id="popupall" value="(All)" client="1" />
+    <phrase id="popupfrom" value="From" client="1" />
+    <phrase id="popupnovalue" value="No value selected!" client="1" />
+    <phrase id="popupselect" value="Please Select" client="1" />
+    <phrase id="popupto" value="To" client="1" />
+    <phrase id="prev" value="Prev" />
+    <phrase id="primarykeyunspecified" value="Primary key unspecified" />
+    <phrase id="printerfriendly" value="Printer Friendly" class="icon-print ewIcon" />
+    <!-- v8 -->
+    <phrase id="group" value="Groups" />
+    <phrase id="groupsperpage" value="Groups per page" />
+    <phrase id="qtr1" value="1st Quarter" />
+    <phrase id="qtr2" value="2nd Quarter" />
+    <phrase id="qtr3" value="3rd Quarter" />
+    <phrase id="qtr4" value="4th Quarter" />
+    <phrase id="record" value="Records" client="1" />
+    <!-- v10 -->
+    <phrase id="recordsperpage" value="Page size" client="1" />
+    <!-- v10 -->
+    <phrase id="report" value="Reports" />
+    <phrase id="reportformtype" value="Report type" />
+    <!-- v10 -->
+    <phrase id="reportformprint" value="Print" />
+    <!-- v10 -->
+    <phrase id="reportformword" value="Word" />
+    <!-- v10 -->
+    <phrase id="reportformexcel" value="Excel" />
+    <!-- v10 -->
+    <phrase id="reportformpdf" value="PDF" />
+    <!-- v10 -->
+    <phrase id="reportformemail" value="Email" />
+    <!-- v10 -->
+    <phrase id="reportformusername" value="User name" />
+    <!-- v10 -->
+    <phrase id="reportformuserdefault" value="Administrator" />
+    <!-- v10 -->
+    <phrase id="reportformfiltername" value="Filter name" />
+    <!-- v10 -->
+    <phrase id="reportformfilternone" value="None" />
+    <!-- v10 -->
+    <phrase id="reportformfiltercurrent" value="Current" />
+    <!-- v10 -->
+    <phrase id="reportformpageoption" value="Pages" />
+    <!-- v10 -->
+    <phrase id="reportformallpages" value="All" />
+    <!-- v10 -->
+    <phrase id="reportformfirstpage" value="First" />
+    <!-- v10 -->
+    <phrase id="reportformsender" value="From" />
+    <!-- v10 -->
+    <phrase id="reportformrecipient" value="To" />
+    <!-- v10 -->
+    <phrase id="reportformcc" value="Cc" />
+    <!-- v10 -->
+    <phrase id="reportformbcc" value="Bcc" />
+    <!-- v10 -->
+    <phrase id="reportformsubject" value="Subject" />
+    <!-- v10 -->
+    <phrase id="reportformresponsetype" value="Response type" />
+    <!-- v10 -->
+    <phrase id="reportformresponsetypejson" value="JSON" />
+    <!-- v10 -->
+    <phrase id="reportformresponsetypefile" value="File" />
+    <!-- v10 -->
+    <phrase id="reportformshowcurrentfilter" value="Show filters" />
+    <!-- v10 -->
+    <phrase id="reportformurl" value="URL" />
+    <!-- v10 -->
+    <phrase id="reportgenerateddate" value="Report generated at " />
+    <!-- v10 -->
+    <phrase id="reset" value="Reset" />
+    <phrase id="resetallfilter" value="Reset all filters" class="icon-reset-search ewIcon" />
+    <!-- v8 -->
+    <phrase id="resetsearch" value="Reset search criteria" />
+    <phrase id="rptavg" value="AVG" />
+    <phrase id="rptcnt" value="COUNT" />
+    <phrase id="rptdtlrec" value=" detail records" />
+    <phrase id="rptgrandsummary" value="Grand Summary" />
+    <phrase id="rptmax" value="MAX" />
+    <phrase id="rptmin" value="MIN" />
+    <phrase id="rptpagesummary" value="Page Summary" />
+    <phrase id="rptsum" value="SUM" />
+    <phrase id="rptsumhead" value="Summary for %c: %v" />
+    <!-- v9 -->
+    <phrase id="savecurrentfilter" value="Save current filter" />
+    <phrase id="saveusername" value="Save my user name" />
+    <phrase id="search" value="Search" client="1" />
+    <!-- v10 -->
+    <phrase id="searchbtn" value="Filter Panel" class="glyphicon glyphicon-search ewIcon" />
+    <phrase id="selectall" value="(All)" />
+    <phrase id="selectbtn" value="Select" client="1" />
+    <!-- v10 -->
+    <phrase id="sendemailbtn" value="Send" client="1" />
+    <phrase id="sendemailsuccess" value="Email sent successfully" client="1" />
+    <phrase id="servercommunicationerror" value="An error occured while communicating to the server." />
+    <!-- v10 -->
+    <phrase id="sessionwillexpire" value="Your session will expire in %s seconds. Click OK to continue your session." client="1" />
+    <!-- v9 -->
+    <phrase id="sessionexpired" value="Your session has expired." client="1" />
+    <!-- v9 -->
+    <phrase id="showall" value="Show all" />
+    <phrase id="summary" value="Summary" />
+    <phrase id="summarycolon" value=": " />
+    <!-- v10 -->
+    <phrase id="tasks" value="Tasks" />
+    <phrase id="to" value="to" />
+    <phrase id="top" value="Top" />
+    <phrase id="total" value="Total" />
+    <phrase id="useradministrator" value="Administrator" client="1" />
+    <!-- v9 -->
+    <phrase id="useranonymous" value="Anonymous" client="1" />
+    <!-- v9 -->
+    <phrase id="userdefault" value="Default" client="1" />
+    <!-- v9 -->
+    <phrase id="username" value="User name" />
+    <phrase id="valuenotexist" value="Value does not exist" client="1" />
+    <!-- v8 -->
+    <phrase id="viewimage" value="Click to view image" />
+    <!-- v8 -->
+    <phrase id="week" value="Week" />
+    <phrase id="year" value="Year" />
+    <!-- Search Operators -->
+    <phrase id="=" value="&amp;nbsp;" />
+    <!-- v9 -->
+    <phrase id="equal" value="=" />
+    <!-- v9 -->
+    <phrase id="&lt;&gt;" value="&amp;lt;&amp;gt;" />
+    <phrase id="&lt;" value="&amp;lt;" />
+    <phrase id="&lt;=" value="&amp;lt;=" />
+    <phrase id="&gt;" value="&amp;gt;" />
+    <phrase id="&gt;=" value="&amp;gt;=" />
+    <phrase id="like" value="contains" />
+    <phrase id="not like" value="not contains" />
+    <phrase id="starts with" value="starts with" />
+    <phrase id="ends with" value="ends with" />
+    <phrase id="is null" value="is null" />
+    <phrase id="is not null" value="is not null" />
+    <phrase id="between" value="between" />
+    <phrase id="and" value="and" />
+    <phrase id="or" value="or" />
+    <phrase id="am" value="AM" />
+    <!-- v10 -->
+    <phrase id="pm" value="PM" />
+    <!-- v10 -->
+    <!-- Menu Prefix/Suffix -->
+    <phrase id="simplereportmenuitemprefix" value="" />
+    <phrase id="simplereportmenuitemsuffix" value="" />
+    <phrase id="detailsummaryreportmenuitemprefix" value="" />
+    <phrase id="detailsummaryreportmenuitemsuffix" value="" />
+    <phrase id="crosstabreportmenuitemprefix" value="" />
+    <phrase id="crosstabreportmenuitemsuffix" value="" />
+    <phrase id="chartreportmenuitemprefix" value="" />
+    <phrase id="chartreportmenuitemsuffix" value="" />
+    <!-- Advanced Filter -->
+    <phrase id="future" value="Future" />
+    <phrase id="past" value="Past" />
+    <phrase id="last14days" value="Last 14 days" />
+    <phrase id="last30days" value="Last 30 days" />
+    <phrase id="last7days" value="Last 7 days" />
+    <phrase id="next14days" value="Next 14 days" />
+    <phrase id="next30days" value="Next 30 days" />
+    <phrase id="next7days" value="Next 7 days" />
+    <phrase id="today" value="Today" />
+    <phrase id="tomorrow" value="Tomorrow" />
+    <phrase id="yesterday" value="Yesterday" />
+    <phrase id="lastmonth" value="Last month" />
+    <phrase id="nextmonth" value="Next month" />
+    <phrase id="thismonth" value="This month" />
+    <phrase id="lasttwoweeks" value="Last two weeks" />
+    <phrase id="lastweek" value="Last week" />
+    <phrase id="nexttwoweeks" value="Next two weeks" />
+    <phrase id="nextweek" value="Next week" />
+    <phrase id="thisweek" value="This week" />
+    <phrase id="lastyear" value="Last year" />
+    <phrase id="nextyear" value="Next year" />
+    <phrase id="thisyear" value="This year" />
+  </global>
+  <project>
+    <phrase id="bodytitle" value="GM58 Reports" />
+    <phrase id="footertext" value="&amp;copy;2017 e.World Technology Ltd. All rights reserved." />
+    <menu id="1">
+      <phrase id="menutext" value="amendments" />
+    </menu>
+    <menu id="3">
+      <phrase id="menutext" value="branch" />
+    </menu>
+    <menu id="4">
+      <phrase id="menutext" value="cash" />
+    </menu>
+    <menu id="5">
+      <phrase id="menutext" value="cashoutclients" />
+    </menu>
+    <menu id="6">
+      <phrase id="menutext" value="cashoutowners" />
+    </menu>
+    <menu id="7">
+      <phrase id="menutext" value="cashoutpayment" />
+    </menu>
+    <menu id="8">
+      <phrase id="menutext" value="cashoutstand" />
+    </menu>
+    <menu id="9">
+      <phrase id="menutext" value="chikwereti" />
+    </menu>
+    <menu id="10">
+      <phrase id="menutext" value="clients" />
+    </menu>
+    <menu id="11">
+      <phrase id="menutext" value="companydetails" />
+    </menu>
+    <menu id="12">
+      <phrase id="menutext" value="emails" />
+    </menu>
+    <menu id="13">
+      <phrase id="menutext" value="expire" />
+    </menu>
+    <menu id="14">
+      <phrase id="menutext" value="expire tray" />
+    </menu>
+    <menu id="15">
+      <phrase id="menutext" value="location" />
+    </menu>
+    <menu id="17">
+      <phrase id="menutext" value="owners" />
+    </menu>
+    <menu id="18">
+      <phrase id="menutext" value="payment" />
+    </menu>
+    <menu id="19">
+      <phrase id="menutext" value="payment copy" />
+    </menu>
+    <menu id="21">
+      <phrase id="menutext" value="recalculate" />
+    </menu>
+    <menu id="22">
+      <phrase id="menutext" value="sms response" />
+    </menu>
+    <menu id="23">
+      <phrase id="menutext" value="stand" />
+    </menu>
+    <menu id="26">
+      <phrase id="menutext" value="systemlogs" />
+    </menu>
+    <menu id="28">
+      <phrase id="menutext" value="users" />
+    </menu>
+    <menu id="29">
+      <phrase id="menutext" value="allpayments" />
+    </menu>
+    <menu id="32">
+      <phrase id="menutext" value="All Payment" />
+    </menu>
+    <menu id="37">
+      <phrase id="menutext" value="lastpayments" />
+    </menu>
+    <menu id="38">
+      <phrase id="menutext" value="Last Payment Made" />
+    </menu>
+    <menu id="45">
+      <phrase id="menutext" value="legderbalance" />
+    </menu>
+    <menu id="46">
+      <phrase id="menutext" value="Ledger Balances" />
+    </menu>
+    <table id="amendments">
+      <phrase id="tblcaption" value="amendments" />
+      <field id="cashoutamount">
+        <phrase id="fldcaption" value="cashoutamount" />
+      </field>
+      <field id="cash">
+        <phrase id="fldcaption" value="cash" />
+      </field>
+      <field id="stand">
+        <phrase id="fldcaption" value="stand" />
+      </field>
+      <field id="date">
+        <phrase id="fldcaption" value="date" />
+      </field>
+      <field id="id">
+        <phrase id="fldcaption" value="id" />
+      </field>
+      <field id="capturer">
+        <phrase id="fldcaption" value="capturer" />
+      </field>
+      <field id="month">
+        <phrase id="fldcaption" value="month" />
+      </field>
+      <field id="year">
+        <phrase id="fldcaption" value="year" />
+      </field>
+      <field id="authority">
+        <phrase id="fldcaption" value="authority" />
+      </field>
+      <field id="a_type">
+        <phrase id="fldcaption" value="a type" />
+      </field>
+    </table>
+    <table id="branch">
+      <phrase id="tblcaption" value="branch" />
+      <field id="branchname">
+        <phrase id="fldcaption" value="branchname" />
+      </field>
+      <field id="branchid">
+        <phrase id="fldcaption" value="branchid" />
+      </field>
+    </table>
+    <table id="cash">
+      <phrase id="tblcaption" value="cash" />
+      <field id="cash">
+        <phrase id="fldcaption" value="cash" />
+      </field>
+      <field id="stand">
+        <phrase id="fldcaption" value="stand" />
+      </field>
+      <field id="date">
+        <phrase id="fldcaption" value="date" />
+      </field>
+      <field id="cash_id">
+        <phrase id="fldcaption" value="cash id" />
+      </field>
+      <field id="cash_month">
+        <phrase id="fldcaption" value="cash month" />
+      </field>
+      <field id="cash_year">
+        <phrase id="fldcaption" value="cash year" />
+      </field>
+    </table>
+    <table id="cashoutclients">
+      <phrase id="tblcaption" value="cashoutclients" />
+      <field id="name">
+        <phrase id="fldcaption" value="name" />
+      </field>
+      <field id="surname">
+        <phrase id="fldcaption" value="surname" />
+      </field>
+      <field id="address">
+        <phrase id="fldcaption" value="address" />
+      </field>
+      <field id="_email">
+        <phrase id="fldcaption" value="email" />
+      </field>
+      <field id="contact">
+        <phrase id="fldcaption" value="contact" />
+      </field>
+      <field id="idnum">
+        <phrase id="fldcaption" value="idnum" />
+      </field>
+      <field id="id">
+        <phrase id="fldcaption" value="id" />
+      </field>
+      <field id="stand_id">
+        <phrase id="fldcaption" value="stand id" />
+      </field>
+      <field id="sex">
+        <phrase id="fldcaption" value="sex" />
+      </field>
+      <field id="dob">
+        <phrase id="fldcaption" value="dob" />
+      </field>
+      <field id="ecnum">
+        <phrase id="fldcaption" value="ecnum" />
+      </field>
+      <field id="file_number">
+        <phrase id="fldcaption" value="file number" />
+      </field>
+      <field id="date">
+        <phrase id="fldcaption" value="date" />
+      </field>
+    </table>
+    <table id="cashoutowners">
+      <phrase id="tblcaption" value="cashoutowners" />
+      <field id="client_id">
+        <phrase id="fldcaption" value="client id" />
+      </field>
+      <field id="owners_date">
+        <phrase id="fldcaption" value="owners date" />
+      </field>
+      <field id="stand_id">
+        <phrase id="fldcaption" value="stand id" />
+      </field>
+      <field id="owners_id">
+        <phrase id="fldcaption" value="owners id" />
+      </field>
+    </table>
+    <table id="cashoutpayment">
+      <phrase id="tblcaption" value="cashoutpayment" />
+      <field id="cash">
+        <phrase id="fldcaption" value="cash" />
+      </field>
+      <field id="stand">
+        <phrase id="fldcaption" value="stand" />
+      </field>
+      <field id="date">
+        <phrase id="fldcaption" value="date" />
+      </field>
+      <field id="id">
+        <phrase id="fldcaption" value="id" />
+      </field>
+      <field id="capturer">
+        <phrase id="fldcaption" value="capturer" />
+      </field>
+      <field id="month">
+        <phrase id="fldcaption" value="month" />
+      </field>
+      <field id="year">
+        <phrase id="fldcaption" value="year" />
+      </field>
+      <field id="payment_type">
+        <phrase id="fldcaption" value="payment type" />
+      </field>
+      <field id="d">
+        <phrase id="fldcaption" value="d" />
+      </field>
+      <field id="payment_date">
+        <phrase id="fldcaption" value="payment date" />
+      </field>
+      <field id="value_date">
+        <phrase id="fldcaption" value="value date" />
+      </field>
+    </table>
+    <table id="cashoutstand">
+      <phrase id="tblcaption" value="cashoutstand" />
+      <field id="vatdate">
+        <phrase id="fldcaption" value="vatdate" />
+      </field>
+      <field id="vat">
+        <phrase id="fldcaption" value="vat" />
+      </field>
+      <field id="location">
+        <phrase id="fldcaption" value="location" />
+      </field>
+      <field id="area">
+        <phrase id="fldcaption" value="area" />
+      </field>
+      <field id="number">
+        <phrase id="fldcaption" value="number" />
+      </field>
+      <field id="status">
+        <phrase id="fldcaption" value="status" />
+      </field>
+      <field id="id_stand">
+        <phrase id="fldcaption" value="id stand" />
+      </field>
+      <field id="price">
+        <phrase id="fldcaption" value="price" />
+      </field>
+      <field id="date">
+        <phrase id="fldcaption" value="date" />
+      </field>
+      <field id="deposit">
+        <phrase id="fldcaption" value="deposit" />
+      </field>
+      <field id="instalments">
+        <phrase id="fldcaption" value="instalments" />
+      </field>
+      <field id="datestatus">
+        <phrase id="fldcaption" value="datestatus" />
+      </field>
+      <field id="months_paid">
+        <phrase id="fldcaption" value="months paid" />
+      </field>
+      <field id="start_instalment">
+        <phrase id="fldcaption" value="start instalment" />
+      </field>
+    </table>
+    <table id="chikwereti">
+      <phrase id="tblcaption" value="chikwereti" />
+      <field id="date">
+        <phrase id="fldcaption" value="date" />
+      </field>
+      <field id="month">
+        <phrase id="fldcaption" value="month" />
+      </field>
+      <field id="paid">
+        <phrase id="fldcaption" value="paid" />
+      </field>
+      <field id="non_paid">
+        <phrase id="fldcaption" value="non paid" />
+      </field>
+      <field id="d_id">
+        <phrase id="fldcaption" value="d id" />
+      </field>
+    </table>
+    <table id="clients">
+      <phrase id="tblcaption" value="clients" />
+      <field id="name">
+        <phrase id="fldcaption" value="name" />
+      </field>
+      <field id="surname">
+        <phrase id="fldcaption" value="surname" />
+      </field>
+      <field id="address">
+        <phrase id="fldcaption" value="address" />
+      </field>
+      <field id="_email">
+        <phrase id="fldcaption" value="email" />
+      </field>
+      <field id="contact">
+        <phrase id="fldcaption" value="contact" />
+      </field>
+      <field id="idnum">
+        <phrase id="fldcaption" value="idnum" />
+      </field>
+      <field id="id">
+        <phrase id="fldcaption" value="id" />
+      </field>
+      <field id="stand_id">
+        <phrase id="fldcaption" value="stand id" />
+      </field>
+      <field id="sex">
+        <phrase id="fldcaption" value="sex" />
+      </field>
+      <field id="dob">
+        <phrase id="fldcaption" value="dob" />
+      </field>
+      <field id="ecnum">
+        <phrase id="fldcaption" value="ecnum" />
+      </field>
+      <field id="file_number">
+        <phrase id="fldcaption" value="file number" />
+      </field>
+      <field id="date">
+        <phrase id="fldcaption" value="date" />
+      </field>
+    </table>
+    <table id="companydetails">
+      <phrase id="tblcaption" value="companydetails" />
+      <field id="branch">
+        <phrase id="fldcaption" value="branch" />
+      </field>
+      <field id="name">
+        <phrase id="fldcaption" value="name" />
+      </field>
+      <field id="address">
+        <phrase id="fldcaption" value="address" />
+      </field>
+      <field id="contacts">
+        <phrase id="fldcaption" value="contacts" />
+      </field>
+      <field id="bankingdetails3">
+        <phrase id="fldcaption" value="bankingdetails 3" />
+      </field>
+      <field id="bankingdetails2">
+        <phrase id="fldcaption" value="bankingdetails 2" />
+      </field>
+      <field id="bankingdetails">
+        <phrase id="fldcaption" value="bankingdetails" />
+      </field>
+      <field id="logo">
+        <phrase id="fldcaption" value="logo" />
+      </field>
+      <field id="banner">
+        <phrase id="fldcaption" value="banner" />
+      </field>
+      <field id="id">
+        <phrase id="fldcaption" value="id" />
+      </field>
+      <field id="_email">
+        <phrase id="fldcaption" value="email" />
+      </field>
+      <field id="date">
+        <phrase id="fldcaption" value="date" />
+      </field>
+    </table>
+    <table id="emails">
+      <phrase id="tblcaption" value="emails" />
+      <field id="emailaddress">
+        <phrase id="fldcaption" value="emailaddress" />
+      </field>
+      <field id="name">
+        <phrase id="fldcaption" value="name" />
+      </field>
+      <field id="surname">
+        <phrase id="fldcaption" value="surname" />
+      </field>
+      <field id="postion">
+        <phrase id="fldcaption" value="postion" />
+      </field>
+      <field id="email_id">
+        <phrase id="fldcaption" value="email id" />
+      </field>
+    </table>
+    <table id="expire">
+      <phrase id="tblcaption" value="expire" />
+      <field id="expiredate">
+        <phrase id="fldcaption" value="expiredate" />
+      </field>
+      <field id="setdate">
+        <phrase id="fldcaption" value="setdate" />
+      </field>
+      <field id="length">
+        <phrase id="fldcaption" value="length" />
+      </field>
+      <field id="id">
+        <phrase id="fldcaption" value="id" />
+      </field>
+    </table>
+    <table id="expire_tray">
+      <phrase id="tblcaption" value="expire tray" />
+      <field id="username">
+        <phrase id="fldcaption" value="username" />
+      </field>
+      <field id="expiredate">
+        <phrase id="fldcaption" value="expiredate" />
+      </field>
+      <field id="setdate">
+        <phrase id="fldcaption" value="setdate" />
+      </field>
+      <field id="length">
+        <phrase id="fldcaption" value="length" />
+      </field>
+      <field id="id">
+        <phrase id="fldcaption" value="id" />
+      </field>
+    </table>
+    <table id="location">
+      <phrase id="tblcaption" value="location" />
+      <field id="dept">
+        <phrase id="fldcaption" value="dept" />
+      </field>
+      <field id="deptid">
+        <phrase id="fldcaption" value="deptid" />
+      </field>
+    </table>
+    <table id="owners">
+      <phrase id="tblcaption" value="owners" />
+      <field id="client_id">
+        <phrase id="fldcaption" value="client id" />
+      </field>
+      <field id="owners_date">
+        <phrase id="fldcaption" value="owners date" />
+      </field>
+      <field id="stand_id">
+        <phrase id="fldcaption" value="stand id" />
+      </field>
+      <field id="owners_id">
+        <phrase id="fldcaption" value="owners id" />
+      </field>
+    </table>
+    <table id="payment">
+      <phrase id="tblcaption" value="payment" />
+      <field id="cash">
+        <phrase id="fldcaption" value="cash" />
+      </field>
+      <field id="stand">
+        <phrase id="fldcaption" value="stand" />
+      </field>
+      <field id="date">
+        <phrase id="fldcaption" value="date" />
+      </field>
+      <field id="id">
+        <phrase id="fldcaption" value="id" />
+      </field>
+      <field id="capturer">
+        <phrase id="fldcaption" value="capturer" />
+      </field>
+      <field id="month">
+        <phrase id="fldcaption" value="month" />
+      </field>
+      <field id="year">
+        <phrase id="fldcaption" value="year" />
+      </field>
+      <field id="payment_type">
+        <phrase id="fldcaption" value="payment type" />
+      </field>
+      <field id="d">
+        <phrase id="fldcaption" value="d" />
+      </field>
+      <field id="payment_date">
+        <phrase id="fldcaption" value="payment date" />
+      </field>
+      <field id="value_date">
+        <phrase id="fldcaption" value="value date" />
+      </field>
+      <field id="description">
+        <phrase id="fldcaption" value="description" />
+      </field>
+    </table>
+    <table id="payment_copy">
+      <phrase id="tblcaption" value="payment copy" />
+      <field id="cash">
+        <phrase id="fldcaption" value="cash" />
+      </field>
+      <field id="stand">
+        <phrase id="fldcaption" value="stand" />
+      </field>
+      <field id="date">
+        <phrase id="fldcaption" value="date" />
+      </field>
+      <field id="id">
+        <phrase id="fldcaption" value="id" />
+      </field>
+      <field id="capturer">
+        <phrase id="fldcaption" value="capturer" />
+      </field>
+      <field id="month">
+        <phrase id="fldcaption" value="month" />
+      </field>
+      <field id="year">
+        <phrase id="fldcaption" value="year" />
+      </field>
+      <field id="payment_type">
+        <phrase id="fldcaption" value="payment type" />
+      </field>
+      <field id="d">
+        <phrase id="fldcaption" value="d" />
+      </field>
+      <field id="payment_date">
+        <phrase id="fldcaption" value="payment date" />
+      </field>
+      <field id="value_date">
+        <phrase id="fldcaption" value="value date" />
+      </field>
+      <field id="description">
+        <phrase id="fldcaption" value="description" />
+      </field>
+    </table>
+    <table id="recalculate">
+      <phrase id="tblcaption" value="recalculate" />
+      <field id="stand">
+        <phrase id="fldcaption" value="stand" />
+      </field>
+      <field id="paymentdate">
+        <phrase id="fldcaption" value="paymentdate" />
+      </field>
+      <field id="paymentmonth">
+        <phrase id="fldcaption" value="paymentmonth" />
+      </field>
+      <field id="paymentmonthdate">
+        <phrase id="fldcaption" value="paymentmonthdate" />
+      </field>
+      <field id="paymentdetails">
+        <phrase id="fldcaption" value="paymentdetails" />
+      </field>
+      <field id="paymentamount">
+        <phrase id="fldcaption" value="paymentamount" />
+      </field>
+      <field id="runningbalance">
+        <phrase id="fldcaption" value="runningbalance" />
+      </field>
+      <field id="balance">
+        <phrase id="fldcaption" value="balance" />
+      </field>
+      <field id="cid">
+        <phrase id="fldcaption" value="cid" />
+      </field>
+      <field id="paymentnumbermonth">
+        <phrase id="fldcaption" value="paymentnumbermonth" />
+      </field>
+      <field id="paymentowner">
+        <phrase id="fldcaption" value="paymentowner" />
+      </field>
+      <field id="standnumber">
+        <phrase id="fldcaption" value="standnumber" />
+      </field>
+    </table>
+    <table id="sms_response">
+      <phrase id="tblcaption" value="sms response" />
+      <field id="id">
+        <phrase id="fldcaption" value="id" />
+      </field>
+      <field id="mobile">
+        <phrase id="fldcaption" value="mobile" />
+      </field>
+      <field id="message">
+        <phrase id="fldcaption" value="message" />
+      </field>
+      <field id="status">
+        <phrase id="fldcaption" value="status" />
+      </field>
+      <field id="month">
+        <phrase id="fldcaption" value="month" />
+      </field>
+    </table>
+    <table id="stand">
+      <phrase id="tblcaption" value="stand" />
+      <field id="location">
+        <phrase id="fldcaption" value="location" />
+      </field>
+      <field id="area">
+        <phrase id="fldcaption" value="area" />
+      </field>
+      <field id="number">
+        <phrase id="fldcaption" value="number" />
+      </field>
+      <field id="status">
+        <phrase id="fldcaption" value="status" />
+      </field>
+      <field id="id_stand">
+        <phrase id="fldcaption" value="id stand" />
+      </field>
+      <field id="price">
+        <phrase id="fldcaption" value="price" />
+      </field>
+      <field id="date">
+        <phrase id="fldcaption" value="date" />
+      </field>
+      <field id="deposit">
+        <phrase id="fldcaption" value="deposit" />
+      </field>
+      <field id="instalments">
+        <phrase id="fldcaption" value="instalments" />
+      </field>
+      <field id="datestatus">
+        <phrase id="fldcaption" value="datestatus" />
+      </field>
+      <field id="months_paid">
+        <phrase id="fldcaption" value="months paid" />
+      </field>
+      <field id="start_instalment">
+        <phrase id="fldcaption" value="start instalment" />
+      </field>
+      <field id="vatdate">
+        <phrase id="fldcaption" value="vatdate" />
+      </field>
+      <field id="vat">
+        <phrase id="fldcaption" value="vat" />
+      </field>
+    </table>
+    <table id="systemlogs">
+      <phrase id="tblcaption" value="systemlogs" />
+      <field id="details">
+        <phrase id="fldcaption" value="details" />
+      </field>
+      <field id="detailsdate">
+        <phrase id="fldcaption" value="detailsdate" />
+      </field>
+      <field id="user">
+        <phrase id="fldcaption" value="user" />
+      </field>
+      <field id="logtype">
+        <phrase id="fldcaption" value="logtype" />
+      </field>
+      <field id="id_logs">
+        <phrase id="fldcaption" value="id logs" />
+      </field>
+    </table>
+    <table id="users">
+      <phrase id="tblcaption" value="users" />
+      <field id="id">
+        <phrase id="fldcaption" value="id" />
+      </field>
+      <field id="name">
+        <phrase id="fldcaption" value="name" />
+      </field>
+      <field id="surname">
+        <phrase id="fldcaption" value="surname" />
+      </field>
+      <field id="sex">
+        <phrase id="fldcaption" value="sex" />
+      </field>
+      <field id="_email">
+        <phrase id="fldcaption" value="email" />
+      </field>
+      <field id="account">
+        <phrase id="fldcaption" value="account" />
+      </field>
+      <field id="address">
+        <phrase id="fldcaption" value="address" />
+      </field>
+      <field id="department">
+        <phrase id="fldcaption" value="department" />
+      </field>
+      <field id="username">
+        <phrase id="fldcaption" value="username" />
+      </field>
+      <field id="password">
+        <phrase id="fldcaption" value="password" />
+      </field>
+      <field id="idnumber">
+        <phrase id="fldcaption" value="idnumber" />
+      </field>
+      <field id="status">
+        <phrase id="fldcaption" value="status" />
+      </field>
+      <field id="date">
+        <phrase id="fldcaption" value="date" />
+      </field>
+      <field id="access">
+        <phrase id="fldcaption" value="access" />
+      </field>
+      <field id="suspend">
+        <phrase id="fldcaption" value="suspend" />
+      </field>
+    </table>
+    <table id="allpayments">
+      <phrase id="tblcaption" value="allpayments" />
+      <chart id="payment_pie">
+        <phrase id="chartcaption" value="Payment Pie" />
+        <phrase id="chartxaxisname" value="Payment Month" />
+        <phrase id="chartyaxisname" value="Stand Number" />
+      </chart>
+      <chart id="payment_bar">
+        <phrase id="chartcaption" value="Payment Bar" />
+        <phrase id="chartxaxisname" value="Payment Month" />
+        <phrase id="chartyaxisname" value="Stand Number" />
+      </chart>
+      <field id="surname">
+        <phrase id="fldcaption" value="Surname" />
+      </field>
+      <field id="name">
+        <phrase id="fldcaption" value="Name" />
+      </field>
+      <field id="standnumber">
+        <phrase id="fldcaption" value="Stand Number" />
+      </field>
+      <field id="paymentdate">
+        <phrase id="fldcaption" value="Payment Date" />
+      </field>
+      <field id="paymentmonth">
+        <phrase id="fldcaption" value="Payment Month" />
+      </field>
+      <field id="paymentmonthdate">
+        <phrase id="fldcaption" value="Payment Month Date" />
+      </field>
+      <field id="paymentnumbermonth">
+        <phrase id="fldcaption" value="Payment Number Month" />
+      </field>
+      <field id="paymentdetails">
+        <phrase id="fldcaption" value="Payment Details" />
+      </field>
+      <field id="runningbalance">
+        <phrase id="fldcaption" value="Running Balance" />
+      </field>
+      <field id="balance">
+        <phrase id="fldcaption" value="Balance" />
+      </field>
+      <field id="paymentamount">
+        <phrase id="fldcaption" value="Payment Amount" />
+      </field>
+      <field id="paymentowner">
+        <phrase id="fldcaption" value="paymentowner" />
+      </field>
+    </table>
+    <table id="all_payment">
+      <phrase id="tblcaption" value="All Payment" />
+      <chart id="all_payments_bar">
+        <phrase id="chartcaption" value="All Payments Bar" />
+        <phrase id="chartxaxisname" value="Payment Month" />
+        <phrase id="chartyaxisname" value="Stand Number" />
+      </chart>
+      <chart id="all_payment_pie">
+        <phrase id="chartcaption" value="All Payment Pie" />
+        <phrase id="chartxaxisname" value="Payment Month" />
+        <phrase id="chartyaxisname" value="Stand Number" />
+      </chart>
+      <field id="surname">
+        <phrase id="fldcaption" value="Surname" />
+      </field>
+      <field id="name">
+        <phrase id="fldcaption" value="Name" />
+      </field>
+      <field id="standnumber">
+        <phrase id="fldcaption" value="Stand Number" />
+      </field>
+      <field id="paymentdate">
+        <phrase id="fldcaption" value="Payment Date" />
+      </field>
+      <field id="paymentmonth">
+        <phrase id="fldcaption" value="Payment Month" />
+      </field>
+      <field id="paymentmonthdate">
+        <phrase id="fldcaption" value="Payment Month Date" />
+      </field>
+      <field id="paymentnumbermonth">
+        <phrase id="fldcaption" value="Payment Number Month" />
+      </field>
+      <field id="paymentdetails">
+        <phrase id="fldcaption" value="Payment Details" />
+      </field>
+      <field id="runningbalance">
+        <phrase id="fldcaption" value="Running Balance" />
+      </field>
+      <field id="balance">
+        <phrase id="fldcaption" value="Balance" />
+      </field>
+      <field id="paymentamount">
+        <phrase id="fldcaption" value="Payment Amount" />
+      </field>
+      <field id="paymentowner">
+        <phrase id="fldcaption" value="paymentowner" />
+      </field>
+    </table>
+    <table id="lastpayments">
+      <phrase id="tblcaption" value="lastpayments" />
+      <field id="paymentmonth">
+        <phrase id="fldcaption" value="paymentmonth" />
+      </field>
+      <field id="balance">
+        <phrase id="fldcaption" value="balance" />
+      </field>
+      <field id="paymentnumbermonth">
+        <phrase id="fldcaption" value="paymentnumbermonth" />
+      </field>
+      <field id="standnumber">
+        <phrase id="fldcaption" value="standnumber" />
+      </field>
+      <field id="name">
+        <phrase id="fldcaption" value="NAME" />
+      </field>
+      <field id="surname">
+        <phrase id="fldcaption" value="surname" />
+      </field>
+      <field id="instalments">
+        <phrase id="fldcaption" value="instalments" />
+      </field>
+    </table>
+    <table id="last_payment_made">
+      <phrase id="tblcaption" value="Last Payment Made" />
+      <chart id="bar_graph">
+        <phrase id="chartcaption" value="Bar Graph" />
+        <phrase id="chartxaxisname" value="Months In Arrears" />
+        <phrase id="chartyaxisname" value="Stand Number" />
+      </chart>
+      <chart id="pie_chart">
+        <phrase id="chartcaption" value="Pie Chart" />
+        <phrase id="chartxaxisname" value="Months In Arrears" />
+        <phrase id="chartyaxisname" value="Stand Number" />
+      </chart>
+      <field id="name">
+        <phrase id="fldcaption" value="Name" />
+      </field>
+      <field id="surname">
+        <phrase id="fldcaption" value="Surname" />
+      </field>
+      <field id="standnumber">
+        <phrase id="fldcaption" value="Stand Number" />
+      </field>
+      <field id="balance">
+        <phrase id="fldcaption" value="Arrears" />
+      </field>
+      <field id="instalments">
+        <phrase id="fldcaption" value="Instalments" />
+      </field>
+      <field id="paymentnumbermonth">
+        <phrase id="fldcaption" value="Months In Arrears" />
+      </field>
+      <field id="paymentmonth">
+        <phrase id="fldcaption" value="Last Month Paid For" />
+      </field>
+    </table>
+    <table id="legderbalance">
+      <phrase id="tblcaption" value="legderbalance" />
+      <field id="number">
+        <phrase id="fldcaption" value="number" />
+      </field>
+      <field id="datestatus">
+        <phrase id="fldcaption" value="datestatus" />
+      </field>
+      <field id="price">
+        <phrase id="fldcaption" value="price" />
+      </field>
+      <field id="tot">
+        <phrase id="fldcaption" value="tot" />
+      </field>
+      <field id="outstand">
+        <phrase id="fldcaption" value="outstand" />
+      </field>
+      <field id="lastpaymentdate">
+        <phrase id="fldcaption" value="lastpaymentdate" />
+      </field>
+      <field id="area">
+        <phrase id="fldcaption" value="area" />
+      </field>
+    </table>
+    <table id="ledger_balances">
+      <phrase id="tblcaption" value="Ledger Balances" />
+      <field id="number">
+        <phrase id="fldcaption" value="Stand Number" />
+      </field>
+      <field id="area">
+        <phrase id="fldcaption" value="Stand Area" />
+      </field>
+      <field id="datestatus">
+        <phrase id="fldcaption" value="Purchase Date" />
+      </field>
+      <field id="lastpaymentdate">
+        <phrase id="fldcaption" value="Last Payment Date" />
+      </field>
+      <field id="price">
+        <phrase id="fldcaption" value="Stand Price" />
+      </field>
+      <field id="tot">
+        <phrase id="fldcaption" value="Cumulative Payments" />
+      </field>
+      <field id="outstand">
+        <phrase id="fldcaption" value="Outstanding Amount" />
+      </field>
+    </table>
+  </project>
+</ew-language>

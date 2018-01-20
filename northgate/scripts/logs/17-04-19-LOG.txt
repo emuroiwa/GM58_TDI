@@ -1,0 +1,13 @@
+04/19/2017 - 09:04:40 - aidahdinala - Payment Amount=300 |Stand = 216
+04/19/2017 - 10:04:07 - aidahdinala - Payment Amount=336 |Stand = 415
+04/19/2017 - 10:04:45 - aidahdinala - Payment Amount=112 |Stand = 591
+04/19/2017 - 10:04:05 - aidahdinala - Payment Amount=112 |Stand = 591
+04/19/2017 - 10:04:10 - aidahdinala - Payment Amount=112 |Stand = 591
+04/19/2017 - 12:04:19 - aidahdinala - Payment Amount=183 |Stand = 428
+04/19/2017 - 12:04:02 - aidahdinala - Payment Amount=120 |Stand = 99
+04/19/2017 - 13:04:24 - talentm - Edited Client Details TENDAI MOREBLESSING KUDYA  CLIENT TO STAND ID 6312
+04/19/2017 - 15:04:18 - aidahdinala - Payment Amount=208 |Stand = 874
+04/19/2017 - 16:04:04 - aidahdinala - Payment Amount=29 |Stand = 874
+04/19/2017 - 16:04:20 - talentm - Balance Take Up Amount=0 |Stand = 
+04/19/2017 - 16:04:33 - talentm - ADDED WESLEY MASEKO  CLIENT TO STAND ID 173
+04/19/2017 - 16:04:06 - talentm - Edited Stand Details Location Northgate Heigths Area 1250.00  Price 15813.00  Deposit '2372  Instalments '273 months_paid 60 STAND ID 173

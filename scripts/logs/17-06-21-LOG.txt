@@ -1,0 +1,8 @@
+06/21/2017 - 10:06:29 - talentm - Edited Stand Details Location Northgate Heigths Area 1000.00  Price 12650.00  Deposit '1100.00  Instalments '153.00  months_paid 84  STAND ID 469
+06/21/2017 - 12:06:54 - talentm - Payment Amount=1100 |Stand = 191
+06/21/2017 - 12:06:57 - talentm - Payment Amount=603 |Stand = 191
+06/21/2017 - 12:06:14 - talentm - Payment Amendement Old Amount=603.00 New Amount 607.00  description='interest charged $393
+pos |Stand = 218
+06/21/2017 - 13:06:46 - talentm - Payment Amount=184 |Stand = 364
+06/21/2017 - 13:06:16 - talentm - Payment Amount=30 |Stand = 51
+06/21/2017 - 14:06:24 - talentm - Payment Amount=320.00 |Stand = 789

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration date="2017/07/18" author="e.World Technology Ltd.">
+  <project id="{8971DFF8-CD58-406F-905F-ABF6EB424D34}" file="C:\Users\Administrator\Documents\PHPReportMaker\Projects\gm58northgate.prp" name="gm58northgate" product="PHPReportMaker" version="10.0" datetime="2017/07/18 21:39:56" languagefolder="phprptlang" userlevel="-2,&quot;Anonymous&quot;,0;">
+    <table id="amendments" name="amendments" caption="amendments" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="amends" name="amends" caption="amends" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="branch" name="branch" caption="branch" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="cash" name="cash" caption="cash" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="cashoutclients" name="cashoutclients" caption="cashoutclients" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="cashoutowners" name="cashoutowners" caption="cashoutowners" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="cashoutpayment" name="cashoutpayment" caption="cashoutpayment" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="cashoutstand" name="cashoutstand" caption="cashoutstand" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="chikwereti" name="chikwereti" caption="chikwereti" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="clients" name="clients" caption="clients" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="companydetails" name="companydetails" caption="companydetails" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="emails" name="emails" caption="emails" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="expire" name="expire" caption="expire" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="expire_tray" name="expire_tray" caption="expire tray" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="location" name="location" caption="location" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="logsview" name="logsview" caption="logsview" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="owners" name="owners" caption="owners" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="payment" name="payment" caption="payment" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="payment_copy" name="payment_copy" caption="payment copy" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="payments" name="payments" caption="payments" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="recalculate" name="recalculate" caption="recalculate" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="sms_response" name="sms_response" caption="sms response" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="stand" name="stand" caption="stand" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="standowners" name="standowners" caption="standowners" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="standssold" name="standssold" caption="standssold" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="systemlogs" name="systemlogs" caption="systemlogs" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="test" name="test" caption="test" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="users" name="users" caption="users" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="allpayments" name="allpayments" caption="allpayments" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="All_Payment" name="All Payment" caption="All Payment" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="lastpayments" name="lastpayments" caption="lastpayments" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="Last_Payment_Made" name="Last Payment Made" caption="Last Payment Made" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+  </project>
+</configuration>

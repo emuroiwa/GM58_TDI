@@ -1,0 +1,10 @@
+09/05/2017 - 09:09:40 - aidahdinala - Payment Amount=130 |Stand = 689
+09/05/2017 - 09:09:30 - aidahdinala - Payment Amount=208 |Stand = 758
+09/05/2017 - 11:09:26 - talentm - Payment Amount=200 |Stand = 250
+09/05/2017 - 13:09:05 - aidahdinala - Payment Amount=170 |Stand = 740
+09/05/2017 - 13:09:27 - aidahdinala - Payment Amount=120 |Stand = 259
+09/05/2017 - 13:09:32 - talentm - Payment Amount=400 |Stand = 593
+09/05/2017 - 15:09:42 - talentm - Payment Amount=800 |Stand = 264
+09/05/2017 - 15:09:03 - talentm - Payment Amount=500 |Stand = 10
+09/05/2017 - 15:09:12 - aidahdinala - Payment Amount=118 |Stand = 352
+09/05/2017 - 15:09:28 - aidahdinala - Payment Amount=116 |Stand = 352

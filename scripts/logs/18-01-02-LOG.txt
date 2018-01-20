@@ -1,0 +1,11 @@
+01/02/2018 - 08:01:41 - aidahdinala - Payment Amount=209 |Stand = 431
+01/02/2018 - 09:01:01 - aidahdinala - Payment Amount=1941 |Stand = 645
+01/02/2018 - 09:01:13 - aidahdinala - Payment Amount=514 |Stand = 932
+01/02/2018 - 10:01:23 - aidahdinala - Payment Amount=110 |Stand = 658
+01/02/2018 - 11:01:42 - aidahdinala - Payment Amount=134 |Stand = 235
+01/02/2018 - 12:01:49 - aidahdinala - Add New Stand Location 'Northgate Heigths | number=353 |area=1149.91 | Price=14546 |deposit=2182 |  =256 |months=60 
+01/02/2018 - 12:01:36 - aidahdinala - Deposit Payment Amount=2182 |Stand = 681
+01/02/2018 - 12:01:52 - aidahdinala - Payment Amount=150 |Stand = 665
+01/02/2018 - 13:01:56 - talentm - Balance Take Up Amount=2909 |Stand = 44
+01/02/2018 - 13:01:05 - talentm - Balance Take Up AMENDMENT Amount=2009 |Stand = 44
+01/02/2018 - 15:01:10 - aidahdinala - Payment Amount=210 |Stand = 288

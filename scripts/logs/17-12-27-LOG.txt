@@ -1,0 +1,17 @@
+12/27/2017 - 07:12:47 - aidahdinala - Payment Amount=55 |Stand = 664
+12/27/2017 - 07:12:50 - aidahdinala - Payment Amount=55 |Stand = 664
+12/27/2017 - 08:12:23 - talentm - Deposit Payment Amount=1455 |Stand = 502
+12/27/2017 - 08:12:49 - aidahdinala - Payment Amount=191 |Stand = 147
+12/27/2017 - 08:12:14 - aidahdinala - Payment Amount=193 |Stand = 254
+12/27/2017 - 08:12:30 - aidahdinala - Payment Amount=184 |Stand = 364
+12/27/2017 - 09:12:12 - aidahdinala - Payment Amount=411 |Stand = 71
+12/27/2017 - 09:12:47 - aidahdinala - ADDED BRIGITTE BERMAN  CLIENT TO STAND ID 62
+12/27/2017 - 09:12:26 - talentm - Edited Client Details BRIGITTE BERMAN  CLIENT TO STAND ID 6489
+12/27/2017 - 09:12:35 - talentm - Edited Client Details BRIGITTE BERMAN  CLIENT TO STAND ID 6489
+12/27/2017 - 11:12:43 - aidahdinala - Payment Amount=120 |Stand = 711
+12/27/2017 - 11:12:16 - aidahdinala - Payment Amount=200 |Stand = 66
+12/27/2017 - 11:12:46 - aidahdinala - Payment Amount=200 |Stand = 143
+12/27/2017 - 13:12:02 - aidahdinala - Payment Amount=307 |Stand = 86
+12/27/2017 - 13:12:44 - talentm - Edited Stand Details Location Northgate Heigths Area 1250.00  Price 15813.00  Deposit '500.00  Instalments '119.00  months_paid 144   STAND ID 87
+12/27/2017 - 13:12:18 - aidahdinala - Payment Amount=119 |Stand = 135
+12/27/2017 - 15:12:01 - talentm - Add New Stand Location 'Northgate Heigths | number=611 |area=1058.39 | Price=13389 |deposit=6845 |  =168 |months=48 

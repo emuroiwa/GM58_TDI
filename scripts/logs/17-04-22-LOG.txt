@@ -1,0 +1,12 @@
+04/22/2017 - 09:04:11 - aidahdinala - Payment Amount=140 |Stand = 37
+04/22/2017 - 09:04:20 - talentm - Balance Take Up Amount=4656 |Stand = 515
+04/22/2017 - 09:04:59 - talentm - Balance Take Up Amount=4656 |Stand = 
+04/22/2017 - 09:04:27 - talentm - Balance Take Up Amount=2500 |Stand = 236
+04/22/2017 - 09:04:27 - talentm - Balance Take Up Amount=950 |Stand = 236
+04/22/2017 - 09:04:12 - talentm - Balance Take Up Amount=3450 |Stand = 
+04/22/2017 - 10:04:54 - talentm - Edited Stand Details Location Northgate Heigths Area 1250.00  Price 15813.00  Deposit '5926 Instalments '200  months_paid 48  STAND ID 95
+04/22/2017 - 10:04:12 - talentm - Deposit Payment Amount=5926 |Stand = 95
+04/22/2017 - 10:04:06 - talentm - Payment Amount=9392 |Stand = 236
+04/22/2017 - 10:04:29 - talentm - Balance Take Up AMENDMENT Amount=9731 |Stand = 514
+04/22/2017 - 12:04:02 - talentm - Payment Amount=2155.98 |Stand = 639
+04/22/2017 - 12:04:11 - talentm - Edited Stand Details Location Northgate Heigths Area 1000.00  Price 12650.00  Deposit '1898  Instalments '217 months_paid 60 STAND ID 463

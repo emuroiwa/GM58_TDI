@@ -1,0 +1,8 @@
+04/11/2017 - 08:04:13 - aidahdinala - Payment Amount=300 |Stand = 71
+04/11/2017 - 10:04:17 - aidahdinala - Payment Amount=112 |Stand = 604
+04/11/2017 - 10:04:02 - talentm - Payment Amount=1000 |Stand = 561
+04/11/2017 - 15:04:54 - talentm - Edited Client Details SITHOBEKILE   DUBE  CLIENT TO STAND ID 6123
+04/11/2017 - 16:04:18 - talentm - Payment Amount=300 |Stand = 371
+04/11/2017 - 16:04:40 - talentm - Payment Amount=220 |Stand = 499
+04/11/2017 - 16:04:40 - talentm - Payment Amount=500 |Stand = 313
+04/11/2017 - 16:04:20 - talentm - Payment Amount=500 |Stand = 479

@@ -1,0 +1,4 @@
+01/18/2018 - 07:01:03 - talentm - Edited Stand Details Location Northgate Heigths Area 1040.00  Price 13156.00  Deposit '6578.00  Instalments '161.00  months_paid 48 STAND ID 418
+01/18/2018 - 07:01:54 - talentm - Balance Take Up Amount=3135 |Stand = 
+01/18/2018 - 07:01:56 - talentm - Edited Stand Details Location Northgate Heigths Area 1250.00  Price 15813.00  Deposit '7900 Instalments '193.00  months_paid 48 STAND ID 288
+01/18/2018 - 08:01:54 - aidahdinala - Payment Amount=203 |Stand = 85

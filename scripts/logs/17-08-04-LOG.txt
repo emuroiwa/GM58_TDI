@@ -1,0 +1,3 @@
+08/04/2017 - 08:08:54 - aidahdinala - Payment Amount=100 |Stand = 85
+08/04/2017 - 12:08:40 - aidahdinala - Payment Amount=243 |Stand = 592
+08/04/2017 - 15:08:03 - aidahdinala - Payment Amount=1000 |Stand = 464

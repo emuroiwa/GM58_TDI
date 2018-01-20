@@ -1,0 +1,6 @@
+04/13/2017 - 11:04:45 - aidahdinala - Payment Amount=1100 |Stand = 838
+04/13/2017 - 11:04:43 - talentm - Balance Take Up Amount=1005 |Stand = 519
+04/13/2017 - 11:04:14 - talentm - Balance Take Up Amount=1005 |Stand = 
+04/13/2017 - 11:04:21 - aidahdinala - Payment Amount=1 |Stand = 240
+04/13/2017 - 11:04:48 - aidahdinala - Payment Amount=111 |Stand = 71
+04/13/2017 - 15:04:56 - aidahdinala - Payment Amount=217 |Stand = 207

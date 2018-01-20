@@ -1,0 +1,9 @@
+04/21/2017 - 09:04:41 - aidahdinala - Payment Amount=3000 |Stand = 296
+04/21/2017 - 09:04:35 - aidahdinala - Payment Amount=210 |Stand = 277
+04/21/2017 - 13:04:21 - aidahdinala - Payment Amount=832 |Stand = 248
+04/21/2017 - 14:04:09 - aidahdinala - Payment Amount=117 |Stand = 733
+04/21/2017 - 15:04:07 - aidahdinala - Payment Amount=134 |Stand = 661
+04/21/2017 - 15:04:25 - talentm - ADDED RUTENDO MAGWENZI  CLIENT TO STAND ID 141
+04/21/2017 - 15:04:09 - aidahdinala - Payment Amount=90 |Stand = 135
+04/21/2017 - 15:04:11 - aidahdinala - Payment Amount=29 |Stand = 135
+04/21/2017 - 16:04:19 - YOLANDAK - Payment Amount=150 |Stand = 644

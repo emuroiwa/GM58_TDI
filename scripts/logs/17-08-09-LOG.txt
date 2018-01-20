@@ -1,0 +1,5 @@
+08/09/2017 - 11:08:59 - aidahdinala - Payment Amount=300 |Stand = 10
+08/09/2017 - 12:08:01 - aidahdinala - Payment Amount=200 |Stand = 680
+08/09/2017 - 15:08:28 - talentm - Payment Amount=214 |Stand = 667
+08/09/2017 - 16:08:09 - talentm - Balance Take Up Amount=1950 |Stand = 
+08/09/2017 - 16:08:12 - talentm - Edited Stand Details Location Northgate Heigths Area 1350.00  Price 17078.00  Deposit '8540  Instalments '209 months_paid 48  STAND ID 503

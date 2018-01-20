@@ -1,0 +1,12 @@
+06/01/2017 - 08:06:13 - aidahdinala - Payment Amount=300 |Stand = 524
+06/01/2017 - 10:06:21 - aidahdinala - Payment Amount=180 |Stand = 838
+06/01/2017 - 10:06:26 - aidahdinala - Payment Amount=110 |Stand = 658
+06/01/2017 - 10:06:20 - aidahdinala - Payment Amount=117 |Stand = 66
+06/01/2017 - 12:06:45 - aidahdinala - Payment Amount=200 |Stand = 619
+06/01/2017 - 12:06:50 - aidahdinala - Payment Amount=267 |Stand = 218
+06/01/2017 - 14:06:37 - aidahdinala - Payment Amount=731 |Stand = 524
+06/01/2017 - 14:06:56 - talentm - Balance Take Up Amount=5585 |Stand = 
+06/01/2017 - 14:06:46 - talentm - Edited Stand Details Location Northgate Heigths Area 1082.00  Price 13688.00  Deposit '6850.00  Instalments '167  months_paid 48 STAND ID 5
+06/01/2017 - 14:06:07 - talentm - Deposit Payment Amount=6850 |Stand = 5
+06/01/2017 - 14:06:34 - talentm - ADDED SIMISANI L VIKANI  CLIENT TO STAND ID 5
+06/01/2017 - 15:06:33 - aidahdinala - Payment Amount=300 |Stand = 408

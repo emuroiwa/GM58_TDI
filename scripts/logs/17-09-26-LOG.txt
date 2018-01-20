@@ -1,0 +1,6 @@
+09/26/2017 - 10:09:40 - aidahdinala - Payment Amount=580 |Stand = 601
+09/26/2017 - 11:09:11 - aidahdinala - Payment Amount=830 |Stand = 601
+09/26/2017 - 12:09:15 - aidahdinala - Payment Amount=167 |Stand = 582
+09/26/2017 - 13:09:46 - aidahdinala - Payment Amount=208 |Stand = 749
+09/26/2017 - 14:09:43 - aidahdinala - Payment Amount=137 |Stand = 757
+09/26/2017 - 15:09:01 - aidahdinala - Payment Amount=225 |Stand = 271

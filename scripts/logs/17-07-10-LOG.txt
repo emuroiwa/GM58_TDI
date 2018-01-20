@@ -1,0 +1,29 @@
+07/10/2017 - 09:07:30 - talentm - Payment Amount=240 |Stand = 494
+07/10/2017 - 09:07:52 - talentm - Payment Amount=172 |Stand = 790
+07/10/2017 - 12:07:15 - talentm - Edited Stand Details Location Northgate Heigths Area 1250.00  Price 15813.00  Deposit '7900.00  Instalments '193.00  months_paid 48   STAND ID 77
+07/10/2017 - 13:07:50 - talentm - Payment Amount=290 |Stand = 42
+07/10/2017 - 14:07:57 - talentm - Payment Amount=160 |Stand = 607
+07/10/2017 - 14:07:43 - talentm - Payment Amount=202 |Stand = 59
+07/10/2017 - 14:07:44 - talentm - Payment Amount=400 |Stand = 304
+07/10/2017 - 14:07:30 - talentm - Payment Amount=136 |Stand = 246
+07/10/2017 - 14:07:36 - talentm - Payment Amount=275 |Stand = 512
+07/10/2017 - 15:07:01 - talentm - Payment Amount=105 |Stand = 96
+07/10/2017 - 15:07:46 - talentm - Payment Amount=300 |Stand = 38
+07/10/2017 - 15:07:15 - talentm - Payment Amount=176 |Stand = 548
+07/10/2017 - 15:07:33 - talentm - Payment Amount=273 |Stand = 430
+07/10/2017 - 15:07:07 - talentm - Payment Amount=100 |Stand = 350
+07/10/2017 - 15:07:17 - talentm - Payment Amount=500 |Stand = 240
+07/10/2017 - 15:07:16 - talentm - Payment Amount=808 |Stand = 273
+07/10/2017 - 15:07:07 - talentm - Payment Amount=112 |Stand = 604
+07/10/2017 - 15:07:57 - talentm - Payment Amount=238 |Stand = 132
+07/10/2017 - 16:07:57 - talentm - Payment Amount=705 |Stand = 22
+07/10/2017 - 16:07:25 - talentm - Payment Amount=757 |Stand = 20
+07/10/2017 - 16:07:29 - talentm - Payment Amount=751 |Stand = 21
+07/10/2017 - 16:07:18 - talentm - Payment Amount=100 |Stand = 238
+07/10/2017 - 16:07:04 - talentm - Payment Amount=180 |Stand = 281
+07/10/2017 - 16:07:38 - talentm - Edited Stand Details Location Northgate Heigths Area 1250.00  Price 15813.00  Deposit '1380.00  Instalments '180.00  months_paid 84   STAND ID 363
+07/10/2017 - 16:07:00 - talentm - Payment Amount=130 |Stand = 748
+07/10/2017 - 16:07:14 - talentm - Payment Amount=500 |Stand = 67
+07/10/2017 - 16:07:25 - talentm - Payment Amount=400 |Stand = 956
+07/10/2017 - 16:07:21 - talentm - Payment Amount=65 |Stand = 48
+07/10/2017 - 16:07:34 - talentm - Payment Amount=400 |Stand = 256

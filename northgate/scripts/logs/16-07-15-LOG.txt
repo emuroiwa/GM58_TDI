@@ -1,0 +1,4 @@
+07/15/2016 - 09:07:40 - admin - Payment Amount=500 |Stand = 105
+07/15/2016 - 19:07:20 - admin - Add New Stand Location 'Northgate Heigths | number=888 |area=1000 | Price=10000 |deposit=1000 |  =100 |months=48 
+07/15/2016 - 19:07:38 - admin - Deposit Payment Amount=250 |Stand = 661
+07/15/2016 - 19:07:09 - admin - Deposit Payment Amount=250 |Stand = 661

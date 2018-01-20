@@ -1,0 +1,11 @@
+10/10/2017 - 09:10:47 - aidahdinala - Payment Amount=100 |Stand = 85
+10/10/2017 - 09:10:31 - aidahdinala - Payment Amount=600 |Stand = 274
+10/10/2017 - 09:10:50 - aidahdinala - Payment Amount=82 |Stand = 274
+10/10/2017 - 09:10:40 - aidahdinala - Edited Client Details  WINNET TRACY  SAMI  CLIENT TO STAND ID 474
+10/10/2017 - 10:10:30 - talentm - Balance Take Up Amount=1560 |Stand = 
+10/10/2017 - 10:10:23 - talentm - Edited Stand Details Location Northgate Heigths Area 1250.00  Price 15813.00  Deposit '7900.00  Instalments '193.00  months_paid 48  STAND ID 282
+10/10/2017 - 10:10:57 - aidahdinala - Deposit Payment Amount=7900 |Stand = 282
+10/10/2017 - 10:10:26 - aidahdinala - Payment Amount=1800 |Stand = 30
+10/10/2017 - 10:10:13 - aidahdinala - Edited Client Details TATENDA SIMON MUSANHI  CLIENT TO STAND ID 6448
+10/10/2017 - 15:10:44 - aidahdinala - Payment Amount=450 |Stand = 265
+10/10/2017 - 16:10:55 - aidahdinala - Payment Amount=210 |Stand = 288

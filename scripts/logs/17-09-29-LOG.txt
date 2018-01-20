@@ -1,0 +1,19 @@
+09/29/2017 - 08:09:33 - aidahdinala - Payment Amount=120 |Stand = 665
+09/29/2017 - 08:09:04 - aidahdinala - Payment Amount=200 |Stand = 147
+09/29/2017 - 09:09:06 - talentm - Balance Take Up Amount=850 |Stand = 
+09/29/2017 - 09:09:28 - talentm - Edited Stand Details Location Northgate Heigths Area 1250.00  Price 15813.00  Deposit '2372.00  Instalments '273.00 months_paid 60  STAND ID 597
+09/29/2017 - 09:09:35 - aidahdinala - Deposit Payment Amount=2372 |Stand = 597
+09/29/2017 - 09:09:05 - aidahdinala - Edited Client Details MUSARIRI GUMBO  CLIENT TO STAND ID 6441
+09/29/2017 - 09:09:07 - aidahdinala - ADDED VERONICA GUMBO  CLIENT TO STAND ID 597
+09/29/2017 - 09:09:23 - aidahdinala - Edited Client Details MUSARIRI GUMBO  CLIENT TO STAND ID 6441
+09/29/2017 - 10:09:12 - aidahdinala - Payment Amount=500 |Stand = 405
+09/29/2017 - 10:09:35 - aidahdinala - Payment Amount=336 |Stand = 415
+09/29/2017 - 12:09:57 - aidahdinala - Payment Amount=400 |Stand = 89
+09/29/2017 - 13:09:32 - aidahdinala - Payment Amount=210 |Stand = 649
+09/29/2017 - 13:09:22 - aidahdinala - Payment Amount=136 |Stand = 231
+09/29/2017 - 13:09:01 - aidahdinala - Payment Amount=137 |Stand = 64
+09/29/2017 - 13:09:36 - aidahdinala - Payment Amount=280 |Stand = 79
+09/29/2017 - 14:09:23 - aidahdinala - Payment Amount=200 |Stand = 627
+09/29/2017 - 14:09:32 - aidahdinala - Payment Amount=100 |Stand = 627
+09/29/2017 - 16:09:30 - aidahdinala - Payment Amount=84 |Stand = 39
+09/29/2017 - 16:09:45 - aidahdinala - Payment Amount=112 |Stand = 604

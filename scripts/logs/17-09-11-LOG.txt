@@ -1,0 +1,11 @@
+09/11/2017 - 11:09:34 - aidahdinala - Payment Amount=143 |Stand = 138
+09/11/2017 - 12:09:15 - aidahdinala - Payment Amount=136 |Stand = 231
+09/11/2017 - 13:09:59 - talentm - Payment Amount=700 |Stand = 589
+09/11/2017 - 13:09:56 - talentm - Payment Amount=300 |Stand = 259
+09/11/2017 - 14:09:17 - talentm - Payment Amount=450 |Stand = 84
+09/11/2017 - 14:09:59 - talentm - ADDED NETSAI MUSHARU  CLIENT TO STAND ID 248
+09/11/2017 - 14:09:51 - aidahdinala - Payment Amount=180 |Stand = 623
+09/11/2017 - 14:09:45 - aidahdinala - Payment Amount=180 |Stand = 623
+09/11/2017 - 14:09:32 - aidahdinala - Payment Amount=180 |Stand = 623
+09/11/2017 - 15:09:56 - talentm - Payment Amount=300 |Stand = 58
+09/11/2017 - 16:09:50 - talentm - Payment Amount=98 |Stand = 285

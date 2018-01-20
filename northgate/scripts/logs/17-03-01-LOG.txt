@@ -1,0 +1,3 @@
+03/01/2017 - 07:03:02 - talentm - Payment Amendement Old Amount=160 New Amount 161 |Stand = 392
+03/01/2017 - 07:03:25 - talentm - Payment Amendement Old Amount=160 New Amount 160 |Stand = 392
+03/01/2017 - 07:03:08 - talentm - Edited Stand Details Location Northgate Heigths Area 1000  Price 12650  Deposit '1100  Instalments '156  months_paid 84  STAND ID 392

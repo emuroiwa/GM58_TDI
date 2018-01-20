@@ -1,0 +1,41 @@
+04/12/2017 - 09:04:36 - talentm - Edited Client Details VICTOR WILLIAM  SAMUSHONGA  CLIENT TO STAND ID 5913
+04/12/2017 - 10:04:24 - talentm - Payment Amount=136 |Stand = 246
+04/12/2017 - 10:04:19 - talentm - Payment Amount=140 |Stand = 96
+04/12/2017 - 10:04:59 - talentm - Payment Amount=202 |Stand = 59
+04/12/2017 - 10:04:38 - talentm - Payment Amount=190 |Stand = 373
+04/12/2017 - 10:04:21 - talentm - Payment Amount=100 |Stand = 238
+04/12/2017 - 10:04:14 - talentm - Payment Amount=180 |Stand = 281
+04/12/2017 - 10:04:11 - talentm - Payment Amount=185 |Stand = 294
+04/12/2017 - 10:04:32 - talentm - Payment Amount=1000 |Stand = 794
+04/12/2017 - 10:04:27 - talentm - Payment Amount=175 |Stand = 641
+04/12/2017 - 10:04:00 - talentm - Payment Amount=175 |Stand = 713
+04/12/2017 - 10:04:01 - talentm - Payment Amount=500 |Stand = 722
+04/12/2017 - 10:04:25 - talentm - Payment Amount=295 |Stand = 366
+04/12/2017 - 10:04:11 - talentm - Payment Amount=208 |Stand = 299
+04/12/2017 - 10:04:36 - talentm - Payment Amount=200 |Stand = 285
+04/12/2017 - 10:04:08 - talentm - Payment Amount=705 |Stand = 22
+04/12/2017 - 10:04:39 - talentm - Payment Amount=751 |Stand = 21
+04/12/2017 - 10:04:28 - talentm - Payment Amount=757 |Stand = 20
+04/12/2017 - 10:04:25 - talentm - Payment Amount=200 |Stand = 287
+04/12/2017 - 10:04:18 - talentm - Payment Amount=320 |Stand = 763
+04/12/2017 - 10:04:53 - talentm - Payment Amount=100 |Stand = 527
+04/12/2017 - 10:04:58 - talentm - Payment Amount=187 |Stand = 317
+04/12/2017 - 10:04:33 - talentm - Payment Amount=105 |Stand = 640
+04/12/2017 - 10:04:20 - talentm - Payment Amount=200 |Stand = 525
+04/12/2017 - 10:04:17 - talentm - Payment Amount=100 |Stand = 620
+04/12/2017 - 10:04:17 - talentm - Payment Amount=300 |Stand = 529
+04/12/2017 - 10:04:59 - talentm - Payment Amount=200 |Stand = 613
+04/12/2017 - 10:04:59 - talentm - Payment Amount=250 |Stand = 95
+04/12/2017 - 10:04:40 - talentm - Payment Amount=176 |Stand = 548
+04/12/2017 - 11:04:21 - talentm - Payment Amount=103 |Stand = 669
+04/12/2017 - 11:04:57 - talentm - Payment Amount=210 |Stand = 753
+04/12/2017 - 11:04:44 - talentm - Payment Amount=200 |Stand = 344
+04/12/2017 - 11:04:27 - talentm - Payment Amount=210 |Stand = 501
+04/12/2017 - 11:04:57 - talentm - Payment Amount=210 |Stand = 501
+04/12/2017 - 11:04:29 - talentm - Payment Amount=100 |Stand = 675
+04/12/2017 - 12:04:02 - talentm - Balance Take Up Amount=1600 |Stand = 29
+04/12/2017 - 12:04:02 - talentm - Balance Take Up Amount=0 |Stand = 29
+04/12/2017 - 12:04:05 - talentm - Edited Stand Details Location Northgate Heigths Area 2335.00  Price 29543  Deposit '500.00  Instalments '117.00  months_paid 144  STAND ID 29
+04/12/2017 - 12:04:38 - talentm - Deleted All Payment  Cash 140.00 | Stand ID 364 | Description Balance_After_VAT | Payment Date 2017-04-06 12:59:29
+04/12/2017 - 12:04:58 - talentm - Payment Amount=0 |Stand = 578
+04/12/2017 - 15:04:26 - talentm - Payment Amount=79 |Stand = 629

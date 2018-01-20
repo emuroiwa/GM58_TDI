@@ -1,0 +1,14 @@
+06/23/2017 - 08:06:26 - aidahdinala - Payment Amount=210 |Stand = 277
+06/23/2017 - 11:06:01 - talentm - Deposit Payment Amount=250 |Stand = 334
+06/23/2017 - 11:06:37 - talentm - Deleted All Payment  Cash 500.00 | Stand ID 254 | Description Balance_After_VAT | Payment Date 2017-06-22 14:14:45
+06/23/2017 - 11:06:52 - talentm - Deleted All Payment  Cash 1000.00 | Stand ID 254 | Description Balance_After_VAT | Payment Date 2017-06-22 16:22:16
+06/23/2017 - 11:06:31 - talentm - Payment Amount=260 |Stand = 770
+06/23/2017 - 11:06:20 - talentm - Edited Stand Details Location Northgate Heigths Area 1182.00  Price 14952.00  Deposit '500.00  Instalments '128.00  months_paid 144   STAND ID 257
+06/23/2017 - 11:06:48 - talentm - Payment Amount=120 |Stand = 750
+06/23/2017 - 11:06:32 - talentm - Edited Stand Details Location Northgate Heigths Area 1232.00  Price 15586.00  Deposit '500.00  Instalments '120.00  months_paid 144  STAND ID 85
+06/23/2017 - 11:06:37 - talentm - Payment Amount=7121 |Stand = 317
+06/23/2017 - 11:06:50 - talentm - Payment Amendement Old Amount=7121.00 New Amount 121.00  description='interest charged $76 |Stand = 532
+06/23/2017 - 11:06:43 - aidahdinala - Payment Amount=137 |Stand = 757
+06/23/2017 - 12:06:34 - aidahdinala - Payment Amount=280 |Stand = 37
+06/23/2017 - 12:06:34 - aidahdinala - Payment Amount=280 |Stand = 37
+06/23/2017 - 12:06:12 - aidahdinala - Payment Amount=700 |Stand = 464

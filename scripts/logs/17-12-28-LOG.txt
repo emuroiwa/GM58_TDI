@@ -1,0 +1,21 @@
+12/28/2017 - 08:12:37 - aidahdinala - Payment Amount=236 |Stand = 784
+12/28/2017 - 08:12:17 - aidahdinala - Payment Amount=236 |Stand = 785
+12/28/2017 - 08:12:27 - aidahdinala - Payment Amount=236 |Stand = 46
+12/28/2017 - 10:12:10 - aidahdinala - Payment Amount=300 |Stand = 389
+12/28/2017 - 10:12:00 - aidahdinala - Payment Amount=494 |Stand = 271
+12/28/2017 - 10:12:12 - aidahdinala - Payment Amount=250 |Stand = 437
+12/28/2017 - 11:12:06 - aidahdinala - Deposit Payment Amount=6845 |Stand = 680
+12/28/2017 - 11:12:34 - aidahdinala - ADDED MICHAEL MURAKWANI  CLIENT TO STAND ID 680
+12/28/2017 - 11:12:08 - aidahdinala - Payment Amount=240 |Stand = 106
+12/28/2017 - 11:12:44 - talentm - Deleted All Payment  Cash 240.00 | Stand ID 16 | Description Balance_After_VAT | Payment Date 2017-12-28 12:33:08
+12/28/2017 - 12:12:00 - aidahdinala - Payment Amount=150 |Stand = 575
+12/28/2017 - 12:12:28 - talentm - Payment Amount=215 |Stand = 727
+12/28/2017 - 12:12:25 - aidahdinala - Deposit Payment Amount=1518 |Stand = 590
+12/28/2017 - 12:12:22 - aidahdinala - ADDED MUFARO MUDADIGWA  CLIENT TO STAND ID 590
+12/28/2017 - 12:12:53 - aidahdinala - Edited Client Details MUFARO MUDADIGWA  CLIENT TO STAND ID 6493
+12/28/2017 - 12:12:18 - aidahdinala - Payment Amount=910 |Stand = 322
+12/28/2017 - 13:12:49 - aidahdinala - Payment Amount=288 |Stand = 544
+12/28/2017 - 13:12:17 - yolandak - Payment Amount=140 |Stand = 79
+12/28/2017 - 14:12:53 - yolandak - Payment Amount=120 |Stand = 726
+12/28/2017 - 15:12:32 - yolandak - Payment Amount=208 |Stand = 749
+12/28/2017 - 15:12:54 - aidahdinala - Payment Amount=130 |Stand = 637

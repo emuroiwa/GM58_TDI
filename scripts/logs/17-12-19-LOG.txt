@@ -1,0 +1,26 @@
+12/19/2017 - 07:12:39 - aidahdinala - Payment Amount=311 |Stand = 547
+12/19/2017 - 07:12:08 - talentm - Balance Take Up Amount=3145 |Stand = 
+12/19/2017 - 07:12:19 - talentm - Edited Stand Details Location Northgate Heigths Area 1125.00  Price 14231.00  Deposit '2135.00  Instalments '245.00  months_paid 60 STAND ID 568
+12/19/2017 - 07:12:27 - aidahdinala - Deposit Payment Amount=1135 |Stand = 568
+12/19/2017 - 07:12:54 - aidahdinala - ADDED GRACE MUSHATI  CLIENT TO STAND ID 568
+12/19/2017 - 08:12:32 - talentm - Deleted All Payment  Cash  | Stand ID  | Description  | Payment Date 
+12/19/2017 - 08:12:47 - aidahdinala - Payment Amount=981 |Stand = 576
+12/19/2017 - 09:12:40 - yolandak - Payment Amount=137 |Stand = 757
+12/19/2017 - 09:12:35 - talentm - Balance Take Up Amount=2970 |Stand = 
+12/19/2017 - 09:12:27 - talentm - Edited Stand Details Location Northgate Heigths Area 1250.00  Price 15813.00  Deposit '7900  Instalments '193  months_paid 48 STAND ID 242
+12/19/2017 - 09:12:06 - talentm - Deposit Payment Amount=6000 |Stand = 242
+12/19/2017 - 10:12:05 - talentm - ADDED BRIAN NYAMUBAPASI  CLIENT TO STAND ID 242
+12/19/2017 - 10:12:15 - talentm - Edited Client Details BRIAN NYAMUBAPASI  CLIENT TO STAND ID 6486
+12/19/2017 - 10:12:31 - talentm - Deposit Payment Amount=1900 |Stand = 242
+12/19/2017 - 10:12:17 - aidahdinala - Payment Amount=200 |Stand = 339
+12/19/2017 - 11:12:08 - aidahdinala - Payment Amount=962 |Stand = 105
+12/19/2017 - 11:12:12 - aidahdinala - Payment Amount=962 |Stand = 105
+12/19/2017 - 11:12:24 - talentm - Deleted All Payment  Cash 962.00 | Stand ID 46 | Description Balance_After_VAT | Payment Date 2017-12-19 12:45:12
+12/19/2017 - 11:12:05 - aidahdinala - Payment Amount=247 |Stand = 218
+12/19/2017 - 11:12:13 - talentm - Edited Client Details THE NANONHLA TRUST MA1648/2017  CLIENT TO STAND ID 6469
+12/19/2017 - 12:12:37 - talentm - Edited Stand Details Location Northgate Heigths Area 1250.00  Price 15813.00  Deposit '7900.00  Instalments '193.00  months_paid 48   STAND ID 360
+12/19/2017 - 13:12:41 - aidahdinala - Payment Amount=624 |Stand = 248
+12/19/2017 - 13:12:21 - aidahdinala - Payment Amount=110 |Stand = 735
+12/19/2017 - 14:12:23 - aidahdinala - Deposit Payment Amount=239 |Stand = 514
+12/19/2017 - 15:12:29 - aidahdinala - Payment Amount=300 |Stand = 633
+12/19/2017 - 15:12:56 - aidahdinala - Payment Amount=100 |Stand = 633

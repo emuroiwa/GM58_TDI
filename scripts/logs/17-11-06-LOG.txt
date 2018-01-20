@@ -1,0 +1,16 @@
+11/06/2017 - 07:11:21 - aidahdinala - Payment Amount=140 |Stand = 81
+11/06/2017 - 07:11:47 - talentm - Payment Amendement Old Amount=300.00 New Amount 300.00  description='ZIPIT
+value date 29.10.2017 |Stand = 89
+11/06/2017 - 07:11:15 - talentm - Edited Stand Details Location Northgate Heigths Area 1000.00  Price 12650.00  Deposit '6325.00  Instalments '154.00  months_paid 48      STAND ID 488
+11/06/2017 - 07:11:57 - talentm - Deleted All Payment  Cash 200.00 | Stand ID 488 | Description Stand Deposit | Payment Date 2017-11-30 00:00:00
+11/06/2017 - 07:11:44 - talentm - Deposit Payment Amount=200 |Stand = 488
+11/06/2017 - 07:11:53 - talentm - Edited Stand Details Location Northgate Heigths Area 1000.00  Price 12650.00  Deposit '6325.00  Instalments '154.00  months_paid 48       STAND ID 488
+11/06/2017 - 08:11:31 - aidahdinala - Deposit Payment Amount=3738 |Stand = 512
+11/06/2017 - 08:11:35 - aidahdinala - Edited Client Details CHARLES LAMBULILA  CLIENT TO STAND ID 6456
+11/06/2017 - 08:11:16 - talentm - Edited Client Details CHARLES LAMBULILA  CLIENT TO STAND ID 6456
+11/06/2017 - 08:11:26 - talentm - Edited Stand Details Location Northgate Heigths Area 2014.00  Price 25477.00  Deposit '12738.00  Instalments '311.00  months_paid 48    STAND ID 512
+11/06/2017 - 11:11:10 - aidahdinala - Payment Amount=130 |Stand = 689
+11/06/2017 - 14:11:32 - aidahdinala - Payment Amount=144 |Stand = 544
+11/06/2017 - 14:11:04 - aidahdinala - Payment Amount=137 |Stand = 71
+11/06/2017 - 14:11:01 - aidahdinala - Payment Amount=210 |Stand = 10
+11/06/2017 - 14:11:16 - talentm - Balance Take Up Amount=3726 |Stand = 

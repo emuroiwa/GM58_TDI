@@ -1,0 +1,25 @@
+01/12/2018 - 10:01:53 - talentm - Balance Take Up Amount=4495 |Stand = 
+01/12/2018 - 10:01:29 - talentm - Edited Stand Details Location Northgate Heigths Area 1150.00  Price 14548.00  Deposit '5472.00  Instalments '187.00  months_paid 60 STAND ID 517
+01/12/2018 - 10:01:03 - talentm - Deposit Payment Amount=5472 |Stand = 517
+01/12/2018 - 13:01:54 - talentm - Balance Take Up Amount=2448 |Stand = 
+01/12/2018 - 13:01:39 - talentm - Edited Stand Details Location Northgate Heigths Area 1000.00  Price 12650.00  Deposit '12018.00  Instalments '0 months_paid 0  STAND ID 344
+01/12/2018 - 13:01:14 - aidahdinala - Deposit Payment Amount=12018 |Stand = 344
+01/12/2018 - 13:01:57 - talentm - Deleted All Payment  Cash 12018.00 | Stand ID 344 | Description Stand Deposit | Payment Date 2018-01-09 00:00:00
+01/12/2018 - 13:01:50 - aidahdinala - Payment Amount=1000 |Stand = 127
+01/12/2018 - 13:01:53 - aidahdinala - Deposit Payment Amount=5000 |Stand = 344
+01/12/2018 - 13:01:44 - aidahdinala - Deposit Payment Amount=3500 |Stand = 344
+01/12/2018 - 13:01:22 - aidahdinala - Deposit Payment Amount=3518 |Stand = 344
+01/12/2018 - 13:01:13 - talentm - Edited Stand Details Location Northgate Heigths Area 1000.00  Price 12650.00  Deposit '12018.00  Instalments '0.00  months_paid 0   STAND ID 344
+01/12/2018 - 13:01:50 - aidahdinala - Payment Amount=0 |Stand = 736
+01/12/2018 - 13:01:47 - aidahdinala - ADDED MAYBE MUGOMBA  CLIENT TO STAND ID 344
+01/12/2018 - 14:01:35 - aidahdinala - Payment Amount=171 |Stand = 76
+01/12/2018 - 15:01:42 - talentm - Payment Amount=120 |Stand = 106
+01/12/2018 - 15:01:36 - talentm - Payment Amount=416 |Stand = 503
+01/12/2018 - 15:01:17 - talentm - Payment Amount=100 |Stand = 766
+01/12/2018 - 15:01:12 - talentm - Payment Amount=100 |Stand = 767
+01/12/2018 - 15:01:21 - talentm - Payment Amount=300 |Stand = 226
+01/12/2018 - 15:01:38 - talentm - Payment Amount=434 |Stand = 403
+01/12/2018 - 16:01:14 - talentm - Payment Amount=273 |Stand = 472
+01/12/2018 - 16:01:18 - talentm - Payment Amount=1216 |Stand = 773
+01/12/2018 - 16:01:56 - talentm - Payment Amount=188 |Stand = 368
+01/12/2018 - 16:01:07 - talentm - Payment Amount=115 |Stand = 148

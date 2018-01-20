@@ -1,0 +1,51 @@
+03/16/2017 - 09:03:25 - talentm - Balance Take Up Amount=3291 |Stand = 844
+03/16/2017 - 09:03:25 - talentm - Balance Take Up Amount=0 |Stand = 844
+03/16/2017 - 09:03:14 - talentm - Balance Take Up AMENDMENT Amount=9596 |Stand = 514
+03/16/2017 - 09:03:13 - talentm - Balance Take Up AMENDMENT Amount=9596 |Stand = 514
+03/16/2017 - 10:03:12 - talentm - Balance Take Up Amount=2060 |Stand = 671
+03/16/2017 - 10:03:12 - talentm - Balance Take Up Amount=2611 |Stand = 671
+03/16/2017 - 10:03:56 - talentm - Payment Amount=186 |Stand = 671
+03/16/2017 - 10:03:45 - talentm - Payment Amount=110 |Stand = 671
+03/16/2017 - 10:03:39 - talentm - Balance Take Up Amount=1742 |Stand = 291
+03/16/2017 - 10:03:39 - talentm - Balance Take Up Amount=8712 |Stand = 291
+03/16/2017 - 12:03:10 - talentm - Balance Take Up Amount=2859 |Stand = 110
+03/16/2017 - 12:03:10 - talentm - Balance Take Up Amount=3705 |Stand = 110
+03/16/2017 - 12:03:15 - talentm - Payment Amount=140 |Stand = 110
+03/16/2017 - 12:03:19 - talentm - Payment Amount=140 |Stand = 110
+03/16/2017 - 12:03:15 - talentm - Balance Take Up AMENDMENT Amount=2049 |Stand = 524
+03/16/2017 - 12:03:56 - talentm - Payment Amount=165 |Stand = 524
+03/16/2017 - 12:03:28 - talentm - Payment Amount=180 |Stand = 524
+03/16/2017 - 12:03:10 - talentm - Balance Take Up Amount=4680 |Stand = 738
+03/16/2017 - 12:03:10 - talentm - Balance Take Up Amount=4060 |Stand = 738
+03/16/2017 - 12:03:49 - talentm - Payment Amount=185 |Stand = 738
+03/16/2017 - 12:03:32 - talentm - Balance Take Up AMENDMENT Amount=12100 |Stand = 216
+03/16/2017 - 12:03:12 - talentm - Payment Amount=300 |Stand = 216
+03/16/2017 - 12:03:18 - talentm - Balance Take Up AMENDMENT Amount=2287.55 |Stand = 525
+03/16/2017 - 13:03:34 - talentm - Balance Take Up AMENDMENT Amount=2252.55 |Stand = 525
+03/16/2017 - 13:03:30 - talentm - Balance Take Up AMENDMENT Amount=1669 |Stand = 287
+03/16/2017 - 13:03:30 - talentm - Balance Take Up AMENDMENT Amount=5397 |Stand = 287
+03/16/2017 - 13:03:58 - talentm - Balance Take Up AMENDMENT Amount=1669 |Stand = 287
+03/16/2017 - 13:03:58 - talentm - Balance Take Up AMENDMENT Amount=5397 |Stand = 287
+03/16/2017 - 13:03:57 - talentm - Balance Take Up AMENDMENT Amount=1669 |Stand = 287
+03/16/2017 - 13:03:57 - talentm - Balance Take Up AMENDMENT Amount=5397 |Stand = 287
+03/16/2017 - 13:03:59 - talentm - Payment Amendement Old Amount=1269 New Amount 1669 |Stand = 550
+03/16/2017 - 13:03:45 - talentm - Payment Amendement Old Amount=5397 New Amount 6897 |Stand = 550
+03/16/2017 - 13:03:27 - talentm - Payment Amount=400 |Stand = 287
+03/16/2017 - 13:03:32 - talentm - Balance Take Up Amount=260 |Stand = 38
+03/16/2017 - 13:03:21 - talentm - Balance Take Up Amount=260 |Stand = 
+03/16/2017 - 13:03:44 - talentm - Edited Stand Details Location Northgate Heigths Area 1250  Price 15813  Deposit '7851 Instalments '192  months_paid 48  STAND ID 308
+03/16/2017 - 13:03:55 - talentm - Deposit Payment Amount=7851 |Stand = 308
+03/16/2017 - 13:03:18 - talentm - ADDED MEMORY MADHUMBU  CLIENT TO STAND ID 308
+03/16/2017 - 13:03:44 - talentm - Deleted All Payment  Cash  | Stand ID  | Description  | Payment Date 
+03/16/2017 - 13:03:47 - talentm - Payment Amount=195 |Stand = 38
+03/16/2017 - 13:03:34 - talentm - Payment Amount=195 |Stand = 38
+03/16/2017 - 13:03:27 - talentm - ADDED GEORGE MADHUMBU  CLIENT TO STAND ID 308
+03/16/2017 - 13:03:06 - talentm - Edited Stand Details Location Northgate Heigths Area 1250  Price 15813  Deposit '7851  Instalments '192   months_paid 48   STAND ID 308
+03/16/2017 - 13:03:43 - talentm - Balance Take Up AMENDMENT Amount=5761 |Stand = 475
+03/16/2017 - 14:03:30 - talentm - Balance Take Up AMENDMENT Amount=2271 |Stand = 693
+03/16/2017 - 14:03:30 - talentm - Balance Take Up AMENDMENT Amount=1730 |Stand = 693
+03/16/2017 - 14:03:25 - talentm - Balance Take Up AMENDMENT Amount=2223 |Stand = 76
+03/16/2017 - 14:03:09 - talentm - Payment Amount=513 |Stand = 76
+03/16/2017 - 14:03:45 - talentm - Balance Take Up AMENDMENT Amount=9120 |Stand = 265
+03/16/2017 - 14:03:21 - talentm - Payment Amount=255 |Stand = 265
+03/16/2017 - 14:03:53 - talentm - Payment Amount=510 |Stand = 265

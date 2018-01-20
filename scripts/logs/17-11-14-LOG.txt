@@ -1,0 +1,20 @@
+11/14/2017 - 08:11:46 - yolandak - Payment Amount=180 |Stand = 629
+11/14/2017 - 12:11:06 - yolandak - Payment Amount=215 |Stand = 727
+11/14/2017 - 13:11:00 - yolandak - Payment Amount=109 |Stand = 671
+11/14/2017 - 14:11:08 - yolandak - Payment Amount=650 |Stand = 45
+11/14/2017 - 15:11:24 - talentm - Payment Amount=185 |Stand = 738
+11/14/2017 - 15:11:26 - talentm - Payment Amount=100 |Stand = 766
+11/14/2017 - 15:11:51 - talentm - Payment Amount=100 |Stand = 767
+11/14/2017 - 15:11:39 - talentm - Payment Amount=192 |Stand = 342
+11/14/2017 - 15:11:32 - talentm - Payment Amount=320 |Stand = 222
+11/14/2017 - 15:11:26 - talentm - Payment Amount=150 |Stand = 140
+11/14/2017 - 15:11:58 - talentm - Payment Amount=70 |Stand = 450
+11/14/2017 - 15:11:24 - yolandak - Payment Amount=201 |Stand = 208
+11/14/2017 - 15:11:27 - talentm - Payment Amount=468 |Stand = 450
+11/14/2017 - 15:11:38 - yolandak - Payment Amount=16 |Stand = 208
+11/14/2017 - 15:11:06 - talentm - Deleted All Payment  Cash 500.00 | Stand ID 231 | Description Balance_After_VAT | Payment Date 2017-11-10 16:20:32
+11/14/2017 - 15:11:05 - yolandak - Edited Client Details SAMUEL GONO  CLIENT TO STAND ID 6457
+11/14/2017 - 15:11:55 - talentm - Payment Amount=0 |Stand = 91
+11/14/2017 - 15:11:11 - talentm - Balance Take Up Amount=5687 |Stand = 
+11/14/2017 - 16:11:35 - talentm - Payment Amount=200 |Stand = 765
+11/14/2017 - 16:11:38 - talentm - Payment Amount=175 |Stand = 843

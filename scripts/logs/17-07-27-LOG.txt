@@ -1,0 +1,4 @@
+07/27/2017 - 13:07:18 - yolandak - Payment Amount=200 |Stand = 339
+07/27/2017 - 16:07:32 - yolandak - Payment Amount=112 |Stand = 604
+07/27/2017 - 16:07:09 - yolandak - Payment Amount=189 |Stand = 347
+07/27/2017 - 16:07:11 - yolandak - Payment Amount=189 |Stand = 347

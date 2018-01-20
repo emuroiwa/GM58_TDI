@@ -1,0 +1,13 @@
+07/03/2017 - 08:07:18 - aidahdinala - Payment Amount=216 |Stand = 703
+07/03/2017 - 08:07:15 - aidahdinala - Payment Amount=540 |Stand = 599
+07/03/2017 - 08:07:37 - aidahdinala - Payment Amount=200 |Stand = 541
+07/03/2017 - 11:07:28 - talentm - Payment Amount=500 |Stand = 87
+07/03/2017 - 11:07:03 - talentm - Payment Amount=600 |Stand = 87
+07/03/2017 - 11:07:45 - talentm - Payment Amount=390 |Stand = 87
+07/03/2017 - 11:07:42 - talentm - Payment Amount=70 |Stand = 87
+07/03/2017 - 11:07:50 - talentm - Payment Amount=200 |Stand = 769
+07/03/2017 - 11:07:40 - talentm - Payment Amount=0.00 |Stand = 700
+07/03/2017 - 12:07:04 - talentm - Edited Client Details FORTUNATE TENDAI SITHOLE  CLIENT TO STAND ID 6406
+07/03/2017 - 13:07:03 - talentm - Payment Amount=200 |Stand = 661
+07/03/2017 - 14:07:14 - talentm - Payment Amount=163 |Stand = 102
+07/03/2017 - 16:07:51 - talentm - Payment Amount=240 |Stand = 83

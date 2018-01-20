@@ -1,0 +1,20 @@
+12/01/2017 - 07:12:22 - aidahdinala - Payment Amount=250 |Stand = 437
+12/01/2017 - 07:12:38 - aidahdinala - Payment Amount=209 |Stand = 655
+12/01/2017 - 07:12:34 - aidahdinala - Payment Amount=120 |Stand = 99
+12/01/2017 - 08:12:37 - aidahdinala - Payment Amount=500 |Stand = 219
+12/01/2017 - 10:12:00 - aidahdinala - Payment Amount=420 |Stand = 648
+12/01/2017 - 10:12:57 - aidahdinala - Payment Amount=45 |Stand = 648
+12/01/2017 - 12:12:30 - aidahdinala - Payment Amount=120 |Stand = 144
+12/01/2017 - 12:12:32 - aidahdinala - Payment Amount=160 |Stand = 145
+12/01/2017 - 13:12:56 - aidahdinala - Payment Amount=140 |Stand = 37
+12/01/2017 - 13:12:27 - talentm - Deleted All Payment  Cash 140.00 | Stand ID 305 | Description Balance_After_VAT | Payment Date 2017-10-26 14:36:30
+12/01/2017 - 14:12:45 - aidahdinala - Payment Amount=1200 |Stand = 321
+12/01/2017 - 14:12:14 - aidahdinala - Payment Amount=184 |Stand = 364
+12/01/2017 - 14:12:29 - aidahdinala - Payment Amount=250 |Stand = 553
+12/01/2017 - 14:12:20 - talentm - Deleted All Payment  Cash 525.00 | Stand ID 409 | Description Balance_After_VAT | Payment Date 2017-10-06 15:53:25
+12/01/2017 - 14:12:23 - talentm - Deleted All Payment  Cash 525.00 | Stand ID 394 | Description Balance_After_VAT | Payment Date 2017-10-06 15:50:56
+12/01/2017 - 15:12:11 - aidahdinala - Payment Amount=250 |Stand = 616
+12/01/2017 - 15:12:46 - talentm - Edited Client Details MEMORY MADHUMBU  CLIENT TO STAND ID 6353
+12/01/2017 - 15:12:08 - talentm - Payment Amount=88 |Stand = 598
+12/01/2017 - 16:12:54 - talentm - Payment Amount=250 |Stand = 95
+12/01/2017 - 16:12:18 - talentm - Payment Amount=1964 |Stand = 11

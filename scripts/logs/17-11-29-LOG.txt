@@ -1,0 +1,16 @@
+11/29/2017 - 08:11:32 - aidahdinala - Payment Amount=160 |Stand = 547
+11/29/2017 - 09:11:17 - aidahdinala - Add New Stand Location 'Northgate Heigths | number=309 |area=1400 | Price=17170 |deposit=2657 |  =305 |months=60 
+11/29/2017 - 10:11:39 - aidahdinala - Deposit Payment Amount=2657 |Stand = 677
+11/29/2017 - 10:11:56 - aidahdinala - Payment Amount=43 |Stand = 309
+11/29/2017 - 10:11:14 - aidahdinala - Deposit Payment Amount=1 |Stand = 220
+11/29/2017 - 10:11:22 - aidahdinala - Payment Amount=281 |Stand = 369
+11/29/2017 - 10:11:51 - talentm - Balance Take Up Amount=1750 |Stand = 
+11/29/2017 - 10:11:59 - talentm - Edited Stand Details Location Northgate Heigths Area 1200.00  Price 15180.00  Deposit '2277 Instalments '262 months_paid 60  STAND ID 522
+11/29/2017 - 11:11:20 - aidahdinala - Deposit Payment Amount=1139 |Stand = 522
+11/29/2017 - 11:11:02 - aidahdinala - Payment Amount=210 |Stand = 434
+11/29/2017 - 11:11:29 - aidahdinala - Payment Amount=300 |Stand = 389
+11/29/2017 - 12:11:29 - aidahdinala - Payment Amount=200 |Stand = 339
+11/29/2017 - 12:11:44 - talentm - Payment Amount=160 |Stand = 678
+11/29/2017 - 13:11:13 - aidahdinala - Edited Client Details ALFRED ZVENYIKA  CLIENT TO STAND ID 6288
+11/29/2017 - 13:11:29 - aidahdinala - Payment Amount=230 |Stand = 303
+11/29/2017 - 15:11:31 - aidahdinala - Payment Amount=100 |Stand = 232

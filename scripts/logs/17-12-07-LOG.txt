@@ -1,0 +1,10 @@
+12/07/2017 - 08:12:56 - aidahdinala - Payment Amount=189 |Stand = 653
+12/07/2017 - 09:12:13 - aidahdinala - Payment Amount=170 |Stand = 740
+12/07/2017 - 10:12:00 - aidahdinala - Deposit Payment Amount=7697 |Stand = 370
+12/07/2017 - 11:12:35 - aidahdinala - Payment Amount=195 |Stand = 733
+12/07/2017 - 12:12:44 - aidahdinala - Payment Amount=292 |Stand = 65
+12/07/2017 - 14:12:01 - talentm - Deposit Payment Amount=3000 |Stand = 360
+12/07/2017 - 14:12:05 - aidahdinala - Payment Amount=792 |Stand = 101
+12/07/2017 - 14:12:38 - aidahdinala - Payment Amount=130 |Stand = 689
+12/07/2017 - 15:12:33 - talentm - Payment Amount=450 |Stand = 427
+12/07/2017 - 15:12:47 - talentm - Payment Amount=450 |Stand = 406

@@ -1,0 +1,9 @@
+07/07/2017 - 12:07:05 - talentm - Deposit Payment Amount=220 |Stand = 334
+07/07/2017 - 12:07:45 - talentm - Payment Amount=210 |Stand = 296
+07/07/2017 - 12:07:55 - talentm - Payment Amount=115 |Stand = 148
+07/07/2017 - 12:07:05 - talentm - Payment Amount=208 |Stand = 754
+07/07/2017 - 12:07:58 - talentm - Payment Amount=160 |Stand = 615
+07/07/2017 - 13:07:18 - talentm - Payment Amount=148 |Stand = 753
+07/07/2017 - 13:07:27 - talentm - Payment Amount=130 |Stand = 689
+07/07/2017 - 13:07:42 - talentm - Payment Amount=450 |Stand = 344
+07/07/2017 - 14:07:33 - talentm - Payment Amount=734 |Stand = 608

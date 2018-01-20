@@ -1,0 +1,6 @@
+09/28/2017 - 10:09:20 - aidahdinala - Payment Amount=160 |Stand = 547
+09/28/2017 - 11:09:32 - aidahdinala - Payment Amount=108 |Stand = 708
+09/28/2017 - 11:09:44 - talentm - Edited Client Details PETROS CHINEMBIRI  CLIENT TO STAND ID 6350
+09/28/2017 - 11:09:24 - talentm - Edited Client Details PETROS CHINEMBIRI  CLIENT TO STAND ID 6350
+09/28/2017 - 12:09:36 - aidahdinala - Payment Amount=208 |Stand = 413
+09/28/2017 - 13:09:57 - aidahdinala - Payment Amount=500 |Stand = 389

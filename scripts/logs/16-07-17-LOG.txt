@@ -1,0 +1,14 @@
+07/17/2016 - 08:07:49 - admin - Balance Take Up Amount=0 |Stand = 
+07/17/2016 - 09:07:26 - admin - Balance Take Up Amount=2000 |Stand = 108
+07/17/2016 - 10:07:53 - admin - Balance Take Up Amount=2000 |Stand = 
+07/17/2016 - 10:07:41 - admin - Balance Take Up Amount=2000 |Stand = 
+07/17/2016 - 10:07:12 - admin - Balance Take Up Amount=7917 |Stand = 
+07/17/2016 - 10:07:07 - admin - Balance Take Up Amount=2000 |Stand = 
+07/17/2016 - 11:07:32 - admin - Balance Take Up Amount=2000 |Stand = 244
+07/17/2016 - 12:07:16 - admin - Deleted Email  Name  | Surname   | email  
+07/17/2016 - 12:07:57 - admin - Deleted Email  Name  | Surname   | email  
+07/17/2016 - 12:07:30 - admin - Deleted Email  Name  | Surname   | email  
+07/17/2016 - 12:07:33 - admin - Deleted Email  Name  | Surname   | email  
+07/17/2016 - 12:07:20 - admin - Deleted User  Name  | Surname   | email  
+07/17/2016 - 12:07:38 - admin - Deleted Email  Name ernest | Surname  Muroiwa | email  
+07/17/2016 - 21:07:02 - admin - Balance Take Up Amount=2000 |Stand = 142

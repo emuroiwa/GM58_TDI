@@ -1,0 +1,4 @@
+08/01/2017 - 13:08:19 - aidahdinala - Payment Amount=96 |Stand = 668
+08/01/2017 - 14:08:07 - aidahdinala - Edited Client Details Elias Nyanhete  CLIENT TO STAND ID 21
+08/01/2017 - 15:08:58 - aidahdinala - Payment Amount=798 |Stand = 72
+08/01/2017 - 16:08:57 - talentm - Payment Amount=1000 |Stand = 283

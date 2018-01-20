@@ -1,0 +1,11 @@
+08/31/2017 - 08:08:40 - aidahdinala - Payment Amount=150 |Stand = 735
+08/31/2017 - 08:08:22 - aidahdinala - Payment Amount=250 |Stand = 437
+08/31/2017 - 12:08:32 - aidahdinala - Payment Amount=119 |Stand = 132
+08/31/2017 - 13:08:18 - aidahdinala - Payment Amount=160 |Stand = 618
+08/31/2017 - 13:08:16 - aidahdinala - Payment Amount=100 |Stand = 300
+08/31/2017 - 13:08:18 - aidahdinala - Payment Amount=100 |Stand = 300
+08/31/2017 - 14:08:21 - talentm - Deleted All Payment  Cash 100.00 | Stand ID 511 | Description Balance_After_VAT | Payment Date 2017-08-31 13:59:18
+08/31/2017 - 14:08:45 - aidahdinala - Payment Amount=200 |Stand = 33
+08/31/2017 - 14:08:54 - aidahdinala - Payment Amount=286 |Stand = 10
+08/31/2017 - 15:08:19 - aidahdinala - Payment Amount=200 |Stand = 700
+08/31/2017 - 15:08:22 - aidahdinala - Payment Amount=40 |Stand = 700

@@ -1,0 +1,64 @@
+07/11/2017 - 09:07:21 - talentm - Balance Take Up Amount=1284 |Stand = 
+07/11/2017 - 09:07:29 - talentm - Edited Stand Details Location Northgate Heigths Area 1250.00  Price 15813 Deposit '7900 Instalments '193  months_paid 48  STAND ID 353
+07/11/2017 - 09:07:46 - talentm - Deposit Payment Amount=7900 |Stand = 353
+07/11/2017 - 09:07:58 - talentm - ADDED MAYNE GUNDANI  CLIENT TO STAND ID 353
+07/11/2017 - 09:07:49 - talentm - Edited Stand Details Location Northgate Heigths Area 1250.00  Price 15813.00  Deposit '7900.00  Instalments '193.00  months_paid 48   STAND ID 353
+07/11/2017 - 12:07:19 - talentm - Payment Amount=210 |Stand = 407
+07/11/2017 - 12:07:31 - talentm - Payment Amount=165 |Stand = 51
+07/11/2017 - 12:07:10 - talentm - Payment Amount=158 |Stand = 584
+07/11/2017 - 12:07:51 - talentm - Payment Amount=120 |Stand = 640
+07/11/2017 - 13:07:08 - talentm - Payment Amount=75 |Stand = 735
+07/11/2017 - 13:07:57 - talentm - Payment Amount=103 |Stand = 139
+07/11/2017 - 13:07:11 - talentm - Payment Amount=162 |Stand = 586
+07/11/2017 - 13:07:13 - talentm - Payment Amount=210 |Stand = 407
+07/11/2017 - 13:07:00 - talentm - Payment Amount=150 |Stand = 243
+07/11/2017 - 13:07:16 - talentm - Payment Amount=150 |Stand = 536
+07/11/2017 - 13:07:51 - talentm - Payment Amount=500 |Stand = 10
+07/11/2017 - 13:07:45 - talentm - Payment Amount=137 |Stand = 543
+07/11/2017 - 13:07:50 - talentm - Payment Amount=200 |Stand = 585
+07/11/2017 - 13:07:28 - talentm - Payment Amount=140 |Stand = 249
+07/11/2017 - 13:07:16 - talentm - Payment Amount=193 |Stand = 28
+07/11/2017 - 13:07:00 - talentm - Payment Amount=120 |Stand = 722
+07/11/2017 - 13:07:52 - talentm - Payment Amount=208 |Stand = 761
+07/11/2017 - 13:07:35 - talentm - Payment Amount=167 |Stand = 564
+07/11/2017 - 13:07:43 - talentm - Payment Amount=130 |Stand = 739
+07/11/2017 - 14:07:21 - talentm - Payment Amount=180 |Stand = 652
+07/11/2017 - 14:07:55 - talentm - Payment Amount=300 |Stand = 652
+07/11/2017 - 15:07:02 - talentm - Payment Amount=223 |Stand = 310
+07/11/2017 - 15:07:44 - talentm - Payment Amount=200 |Stand = 82
+07/11/2017 - 15:07:00 - talentm - Payment Amount=295 |Stand = 383
+07/11/2017 - 15:07:04 - talentm - Payment Amount=220 |Stand = 716
+07/11/2017 - 15:07:05 - talentm - Payment Amount=208 |Stand = 435
+07/11/2017 - 15:07:06 - talentm - Payment Amount=416 |Stand = 414
+07/11/2017 - 15:07:56 - talentm - Payment Amount=140 |Stand = 96
+07/11/2017 - 15:07:50 - talentm - Payment Amount=75 |Stand = 643
+07/11/2017 - 15:07:21 - talentm - Payment Amount=130 |Stand = 32
+07/11/2017 - 15:07:21 - talentm - Payment Amount=130 |Stand = 770
+07/11/2017 - 15:07:04 - talentm - Payment Amount=240 |Stand = 498
+07/11/2017 - 15:07:39 - talentm - Payment Amount=290 |Stand = 366
+07/11/2017 - 15:07:11 - talentm - Payment Amount=340 |Stand = 682
+07/11/2017 - 15:07:57 - talentm - Payment Amount=196 |Stand = 97
+07/11/2017 - 15:07:43 - talentm - Payment Amount=167 |Stand = 560
+07/11/2017 - 15:07:13 - talentm - Payment Amount=120 |Stand = 747
+07/11/2017 - 15:07:31 - talentm - Payment Amount=167 |Stand = 726
+07/11/2017 - 15:07:51 - talentm - Payment Amount=120 |Stand = 640
+07/11/2017 - 15:07:34 - talentm - Payment Amount=200 |Stand = 209
+07/11/2017 - 15:07:29 - talentm - Payment Amount=202 |Stand = 59
+07/11/2017 - 15:07:51 - talentm - Payment Amount=180 |Stand = 623
+07/11/2017 - 15:07:37 - talentm - Payment Amount=150 |Stand = 609
+07/11/2017 - 16:07:07 - talentm - Payment Amount=213 |Stand = 257
+07/11/2017 - 16:07:23 - talentm - Payment Amount=350 |Stand = 333
+07/11/2017 - 16:07:47 - talentm - Payment Amount=100 |Stand = 299
+07/11/2017 - 16:07:56 - talentm - Payment Amount=210 |Stand = 406
+07/11/2017 - 16:07:09 - talentm - Payment Amount=840 |Stand = 427
+07/11/2017 - 16:07:58 - talentm - Payment Amount=185 |Stand = 738
+07/11/2017 - 16:07:54 - talentm - Payment Amount=185 |Stand = 738
+07/11/2017 - 16:07:14 - talentm - Payment Amount=1185 |Stand = 258
+07/11/2017 - 16:07:06 - talentm - Payment Amount=109 |Stand = 671
+07/11/2017 - 16:07:33 - talentm - Payment Amount=100 |Stand = 766
+07/11/2017 - 16:07:24 - talentm - Payment Amount=100 |Stand = 767
+07/11/2017 - 16:07:01 - talentm - Payment Amount=668 |Stand = 335
+07/11/2017 - 16:07:13 - talentm - Payment Amount=350 |Stand = 780
+07/11/2017 - 16:07:31 - talentm - Edited Stand Details Location Northgate Heigths Area 1550.00  Price 19608.00  Deposit '5000.00  Instalments '296.00  months_paid 60    STAND ID 165
+07/11/2017 - 16:07:49 - talentm - Edited Stand Details Location Northgate Heigths Area 1550.00  Price 19608.00  Deposit '5000.00  Instalments '296.00  months_paid 60     STAND ID 165
+07/11/2017 - 18:07:48 - talentm - Payment Amount=273 |Stand = 621

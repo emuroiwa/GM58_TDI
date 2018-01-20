@@ -1,0 +1,11 @@
+12/12/2017 - 07:12:38 - aidahdinala - Payment Amount=120 |Stand = 675
+12/12/2017 - 11:12:40 - aidahdinala - Payment Amount=300 |Stand = 10
+12/12/2017 - 12:12:41 - talentm - Edited Client Details MAWUYA SIMON  CLIENT TO STAND ID 6444
+12/12/2017 - 12:12:32 - aidahdinala - Payment Amount=300 |Stand = 299
+12/12/2017 - 12:12:07 - aidahdinala - Payment Amount=208 |Stand = 299
+12/12/2017 - 12:12:14 - talentm - Payment Amendement Old Amount=220.00 New Amount 229.00  description='. |Stand = 228
+12/12/2017 - 14:12:41 - talentm - Payment Amount=300 |Stand = 223
+12/12/2017 - 14:12:18 - talentm - Payment Amount=0 |Stand = 223
+12/12/2017 - 15:12:53 - yolandak - ADDED FORTUNATE NYONI  CLIENT TO STAND ID 276
+12/12/2017 - 15:12:05 - talentm - Edited Client Details LORINE NYONI  CLIENT TO STAND ID 6445
+12/12/2017 - 15:12:58 - talentm - Edited Client Details FORTUNATE NYONI  CLIENT TO STAND ID 6482

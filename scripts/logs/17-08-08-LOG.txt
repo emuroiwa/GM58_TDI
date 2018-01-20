@@ -1,0 +1,15 @@
+08/08/2017 - 08:08:42 - talentm - Payment Amendement Old Amount=925.00 New Amount 925.00  description='Stand Deposit |Stand = 144
+08/08/2017 - 08:08:43 - talentm - Payment Amendement Old Amount=925.00 New Amount 1000.00  description='Stand Deposit |Stand = 144
+08/08/2017 - 08:08:13 - talentm - Payment Amount=200 |Stand = 672
+08/08/2017 - 08:08:36 - talentm - Payment Amount=200 |Stand = 672
+08/08/2017 - 10:08:43 - aidahdinala - Payment Amount=300 |Stand = 300
+08/08/2017 - 10:08:35 - aidahdinala - Payment Amount=300 |Stand = 300
+08/08/2017 - 11:08:15 - talentm - Payment Amount=400 |Stand = 434
+08/08/2017 - 11:08:02 - talentm - Payment Amendement Old Amount=199.00 New Amount 226  description='. |Stand = 171
+08/08/2017 - 13:08:54 - talentm - Add New Stand Location 'Northgate Heigths | number=633 |area=3320 | Price=19920 |deposit=6000 |  =340 |months=48 
+08/08/2017 - 13:08:07 - aidahdinala - Payment Amount=500 |Stand = 520
+08/08/2017 - 15:08:10 - aidahdinala - Payment Amount=371 |Stand = 701
+08/08/2017 - 15:08:18 - aidahdinala - Payment Amount=200 |Stand = 405
+08/08/2017 - 15:08:49 - aidahdinala - Payment Amount=250 |Stand = 405
+08/08/2017 - 15:08:48 - aidahdinala - Payment Amount=130 |Stand = 689
+08/08/2017 - 16:08:29 - talentm - Payment Amount=1000 |Stand = 211

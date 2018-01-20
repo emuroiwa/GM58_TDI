@@ -1,0 +1,20 @@
+08/13/2016 - 13:08:23 - talentm - Balance Take Up Amount=1680 |Stand = 
+08/13/2016 - 13:08:10 - talentm - Edited Stand Details Location Northgate Heigths Area 1250  Price 15813 Deposit '7900  Instalments '193  months_paid 48  STAND ID 179
+08/13/2016 - 13:08:46 - talentm - Deposit Payment Amount=3800 |Stand = 179
+08/13/2016 - 13:08:39 - talentm - Deposit Payment Amount=2500 |Stand = 179
+08/13/2016 - 13:08:27 - talentm - ADDED Joe Mtisi  CLIENT TO STAND ID 179
+08/13/2016 - 13:08:14 - talentm - ADDED BUHLEBENKOSI MABHENA  CLIENT TO STAND ID 179
+08/13/2016 - 13:08:02 - talentm - Edited Client Details JOE MTISI  CLIENT TO STAND ID 6347
+08/13/2016 - 13:08:57 - talentm - Balance Take Up Amount=2772 |Stand = 286
+08/13/2016 - 13:08:57 - talentm - Balance Take Up Amount=4178.70 |Stand = 286
+08/13/2016 - 16:08:07 - talentm - Balance Take Up Amount=2262 |Stand = 317
+08/13/2016 - 16:08:07 - talentm - Balance Take Up Amount=4488 |Stand = 317
+08/13/2016 - 16:08:19 - talentm - Balance Take Up Amount=5405 |Stand = 617
+08/13/2016 - 16:08:19 - talentm - Balance Take Up Amount=119 |Stand = 617
+08/13/2016 - 16:08:55 - talentm - Edited Stand Details Location Northgate Heigths Area 1000  Price 12650 Deposit '1100  Instalments '150  months_paid 84  STAND ID 357
+08/13/2016 - 17:08:43 - talentm - Edited Stand Details Location Northgate Heigths Area 1250  Price 15813 Deposit '500  Instalments '130  months_paid 144  STAND ID 191
+08/13/2016 - 17:08:00 - talentm - Balance Take Up Amount=2600 |Stand = 245
+08/13/2016 - 17:08:00 - talentm - Balance Take Up Amount=1580 |Stand = 245
+08/13/2016 - 17:08:24 - talentm - Edited Stand Details Location Northgate Heigths Area 1000  Price 12650  Deposit '500  Instalments '103  months_paid 144  STAND ID 337
+08/13/2016 - 17:08:17 - talentm - Balance Take Up Amount=4294 |Stand = 640
+08/13/2016 - 17:08:17 - talentm - Balance Take Up Amount=0 |Stand = 640

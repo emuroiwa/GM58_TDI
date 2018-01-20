@@ -1,0 +1,6 @@
+06/08/2017 - 08:06:04 - talentm - Deleted All Payment  Cash 260.00 | Stand ID 635 | Description Balance_After_VAT | Payment Date 2017-06-07 09:25:38
+06/08/2017 - 09:06:59 - aidahdinala - Payment Amount=272 |Stand = 81
+06/08/2017 - 12:06:55 - admin - Edited Stand Details Location Northgate Heigths Area 1550.00  Price 19608.00  Deposit '5000.00  Instalments '296.00  months_paid 60   STAND ID 165
+06/08/2017 - 12:06:31 - aidahdinala - Deposit Payment Amount=5000 |Stand = 165
+06/08/2017 - 12:06:28 - aidahdinala - ADDED TENDAI AGNETAH HOVE  CLIENT TO STAND ID 165
+06/08/2017 - 14:06:18 - talentm - Edited Client Details ODERT KOSIMONI  CLIENT TO STAND ID 6398

@@ -1,0 +1,8 @@
+03/03/2017 - 13:03:03 - talentm - Balance Take Up AMENDMENT Amount=3045 |Stand = 618
+03/03/2017 - 13:03:03 - talentm - Balance Take Up AMENDMENT Amount=3642 |Stand = 618
+03/03/2017 - 13:03:56 - talentm - Deleted All Payment  Cash 3642 | Stand ID 392 | Description Balance_After_VAT | Payment Date 2017-02-22 13:53:10
+03/03/2017 - 13:03:25 - talentm - Deleted All Payment  Cash 3642 | Stand ID 392 | Description Balance_After_VAT | Payment Date 2017-02-22 14:05:10
+03/03/2017 - 13:03:49 - talentm - Deleted All Payment  Cash 3642 | Stand ID 392 | Description Balance_After_VAT | Payment Date 2017-02-22 14:14:14
+03/03/2017 - 13:03:51 - talentm - Payment Amount=160 |Stand = 618
+03/03/2017 - 13:03:35 - talentm - Payment Amount=160 |Stand = 618
+03/03/2017 - 13:03:18 - talentm - Payment Amount=160 |Stand = 618
